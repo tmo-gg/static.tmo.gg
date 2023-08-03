@@ -1,0 +1,6116 @@
+{
+  "statistics": [
+    "방어력 감소",
+    "발동방어력 감소",
+    "이동속도 감소",
+    "발동이동속도 감소",
+    "스턴",
+    "단일"
+  ],
+  "datas": {
+    "흔함": [
+      {
+        "id": "810e",
+        "name": "위습",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/wisp.webp",
+        "stuffs": []
+      },
+      {
+        "id": "300h",
+        "name": "루피",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luffy.webp",
+        "stuffs": []
+      },
+      {
+        "id": "200h",
+        "name": "조로",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zoro.webp",
+        "stuffs": []
+      },
+      {
+        "id": "100h",
+        "name": "나미",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/nami.webp",
+        "stuffs": []
+      },
+      {
+        "id": "700h",
+        "name": "우솝",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/usopp.webp",
+        "stuffs": []
+      },
+      {
+        "id": "400h",
+        "name": "상디",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sanji.webp",
+        "stuffs": []
+      },
+      {
+        "id": "800h",
+        "name": "쵸파",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/chopper.webp",
+        "stuffs": []
+      },
+      {
+        "id": "500h",
+        "name": "버기",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/buggy.webp",
+        "stuffs": []
+      },
+      {
+        "id": "900h",
+        "name": "해군 총병",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/nvgun.webp",
+        "stuffs": []
+      },
+      {
+        "id": "600h",
+        "name": "해군 칼병",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/nvsd.webp",
+        "stuffs": []
+      }
+    ],
+    "안흔함": [
+      {
+        "id": "O00h",
+        "name": "로빈",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/robin.webp",
+        "stuffs": [
+          {
+            "id": "100h",
+            "count": 1
+          },
+          {
+            "id": "400h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "C00h",
+        "name": "베포",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bepo.webp",
+        "stuffs": [
+          {
+            "id": "800h",
+            "count": 1
+          },
+          {
+            "id": "300h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "D00h",
+        "name": "브룩",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/brook.webp",
+        "stuffs": [
+          {
+            "id": "200h",
+            "count": 1
+          },
+          {
+            "id": "800h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "M00h",
+        "name": "블루노",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/blueno.webp",
+        "stuffs": [
+          {
+            "id": "900h",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "K00h",
+        "name": "에이스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ace.webp",
+        "stuffs": [
+          {
+            "id": "300h",
+            "count": 1
+          },
+          {
+            "id": "900h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "I00h",
+        "name": "이나즈마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/inazuma.webp",
+        "stuffs": [
+          {
+            "id": "400h",
+            "count": 1
+          },
+          {
+            "id": "200h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "N00h",
+        "name": "저격왕 우솝",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/usopp2.webp",
+        "stuffs": [
+          {
+            "id": "700h",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "G00h",
+        "name": "쵸파 럼블볼",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/chopper.webp",
+        "stuffs": [
+          {
+            "id": "800h",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "E00h",
+        "name": "타시기",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/tashigi.webp",
+        "stuffs": [
+          {
+            "id": "600h",
+            "count": 1
+          },
+          {
+            "id": "900h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "J00h",
+        "name": "페로나",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/perona.webp",
+        "stuffs": [
+          {
+            "id": "500h",
+            "count": 1
+          },
+          {
+            "id": "100h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "L00h",
+        "name": "프랑키",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/frankyuc.webp",
+        "stuffs": [
+          {
+            "id": "700h",
+            "count": 1
+          },
+          {
+            "id": "300h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "F00h",
+        "name": "하찌",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hatch.webp",
+        "stuffs": [
+          {
+            "id": "900h",
+            "count": 1
+          },
+          {
+            "id": "100h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "A00h",
+        "name": "후쿠로",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/fukuro.webp",
+        "stuffs": [
+          {
+            "id": "600h",
+            "count": 2
+          }
+        ]
+      }
+    ],
+    "특별함": [
+      {
+        "id": "K10h",
+        "name": "X-드레이크",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/drakeuq.webp",
+        "stuffs": [
+          {
+            "id": "E00h",
+            "count": 1
+          },
+          {
+            "id": "A00h",
+            "count": 1
+          },
+          {
+            "id": "800h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Q00h",
+        "name": "갓 에넬",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/enel.webp",
+        "stuffs": [
+          {
+            "id": "N00h",
+            "count": 1
+          },
+          {
+            "id": "C00h",
+            "count": 1
+          },
+          {
+            "id": "400h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "B00h",
+        "name": "겟코모리아",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/moria.webp",
+        "stuffs": [
+          {
+            "id": "D00h",
+            "count": 2
+          },
+          {
+            "id": "400h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "P00h",
+        "name": "나미 크리마 텍트",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/nami.webp",
+        "abilities": {
+          "발동이동속도 감소": 11
+        },
+        "desc": "발동이동속도 감소(발동이감): 11",
+        "stuffs": [
+          {
+            "id": "100h",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "R00h",
+        "name": "로브 루치",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/lucciuq.webp",
+        "stuffs": [
+          {
+            "id": "A00h",
+            "count": 1
+          },
+          {
+            "id": "O00h",
+            "count": 1
+          },
+          {
+            "id": "300h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "S00h",
+        "name": "로빈 오하라",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/robin.webp",
+        "stuffs": [
+          {
+            "id": "O00h",
+            "count": 2
+          },
+          {
+            "id": "800h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "H10h",
+        "name": "트라팔가 로우",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/law.webp",
+        "stuffs": [
+          {
+            "id": "C00h",
+            "count": 1
+          },
+          {
+            "id": "E00h",
+            "count": 1
+          },
+          {
+            "id": "500h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "U00h",
+        "name": "루피 기어세컨드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luffyuq.webp",
+        "stuffs": [
+          {
+            "id": "300h",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "T00h",
+        "name": "마르코",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/marco.webp",
+        "stuffs": [
+          {
+            "id": "M00h",
+            "count": 1
+          },
+          {
+            "id": "K00h",
+            "count": 1
+          },
+          {
+            "id": "400h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "610h",
+        "name": "바질 호킨스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hawkinsuq.webp",
+        "abilities": {
+          "방어력 감소": 3
+        },
+        "desc": "방어력 감소(방깎): 3",
+        "stuffs": [
+          {
+            "id": "J00h",
+            "count": 1
+          },
+          {
+            "id": "M00h",
+            "count": 1
+          },
+          {
+            "id": "700h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "510h",
+        "name": "버기 마기탄",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/buggy.webp",
+        "stuffs": [
+          {
+            "id": "500h",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "410h",
+        "name": "봉쿠레",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bonkurei.webp",
+        "stuffs": [
+          {
+            "id": "I00h",
+            "count": 1
+          },
+          {
+            "id": "O00h",
+            "count": 1
+          },
+          {
+            "id": "100h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "310h",
+        "name": "상디 검은다리",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sanji.webp",
+        "stuffs": [
+          {
+            "id": "400h",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "F10h",
+        "name": "스모커",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/smoker.webp",
+        "abilities": {
+          "이동속도 감소": 7
+        },
+        "desc": "이동속도 감소(이감): 7",
+        "stuffs": [
+          {
+            "id": "E00h",
+            "count": 1
+          },
+          {
+            "id": "600h",
+            "count": 1
+          },
+          {
+            "id": "900h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "210h",
+        "name": "스쿼드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/squad.webp",
+        "stuffs": [
+          {
+            "id": "G00h",
+            "count": 1
+          },
+          {
+            "id": "L00h",
+            "count": 1
+          },
+          {
+            "id": "100h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "110h",
+        "name": "아론",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aron.webp",
+        "stuffs": [
+          {
+            "id": "F00h",
+            "count": 2
+          },
+          {
+            "id": "300h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "010h",
+        "name": "압살롬",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/absalom.png",
+        "stuffs": [
+          {
+            "id": "H00h",
+            "count": 3
+          },
+          {
+            "id": "100h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "J10h",
+        "name": "에이스 2번대대장",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ace.webp",
+        "stuffs": [
+          {
+            "id": "K00h",
+            "count": 2
+          },
+          {
+            "id": "700h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Z00h",
+        "name": "우솝 화염탄",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/usopp3.webp",
+        "stuffs": [
+          {
+            "id": "N00h",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "X00h",
+        "name": "이나즈마 혁명군",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/inazuma.webp",
+        "stuffs": [
+          {
+            "id": "I00h",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "W00h",
+        "name": "조로 귀기",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zoro2.webp",
+        "stuffs": [
+          {
+            "id": "200h",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "810h",
+        "name": "징베",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/jinbe.webp",
+        "stuffs": [
+          {
+            "id": "K00h",
+            "count": 1
+          },
+          {
+            "id": "A00h",
+            "count": 1
+          },
+          {
+            "id": "500h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "910h",
+        "name": "챠카",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/chaka.webp",
+        "stuffs": [
+          {
+            "id": "M00h",
+            "count": 1
+          },
+          {
+            "id": "A00h",
+            "count": 1
+          },
+          {
+            "id": "800h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "E10h",
+        "name": "쵸파 두뇌강화",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/chopperbruq.webp",
+        "abilities": {
+          "방어력 감소": 3
+        },
+        "desc": "방어력 감소(방깎): 3",
+        "stuffs": [
+          {
+            "id": "G00h",
+            "count": 1
+          },
+          {
+            "id": "O00h",
+            "count": 1
+          },
+          {
+            "id": "500h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "D10h",
+        "name": "쵸파 가드 포인트",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/choppergduq.webp",
+        "abilities": {
+          "공격력 증가": 8
+        },
+        "desc": "공격력 증가(공증): 8",
+        "stuffs": [
+          {
+            "id": "G00h",
+            "count": 1
+          },
+          {
+            "id": "I00h",
+            "count": 1
+          },
+          {
+            "id": "600h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "C10h",
+        "name": "카포네 갱 벳지",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bege.webp",
+        "stuffs": [
+          {
+            "id": "A00h",
+            "count": 1
+          },
+          {
+            "id": "500h",
+            "count": 1
+          },
+          {
+            "id": "900h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "V00h",
+        "name": "캡틴 크로",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kuro.webp",
+        "stuffs": [
+          {
+            "id": "F00h",
+            "count": 1
+          },
+          {
+            "id": "200h",
+            "count": 1
+          },
+          {
+            "id": "600h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "710h",
+        "name": "바솔로뮤 쿠마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kumauq.webp",
+        "stuffs": [
+          {
+            "id": "C00h",
+            "count": 1
+          },
+          {
+            "id": "L00h",
+            "count": 1
+          },
+          {
+            "id": "200h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "A10h",
+        "name": "크로커다일",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/crocodile.webp",
+        "abilities": {
+          "이동속도 감소": 7
+        },
+        "desc": "이동속도 감소(이감): 7",
+        "stuffs": [
+          {
+            "id": "L00h",
+            "count": 1
+          },
+          {
+            "id": "N00h",
+            "count": 1
+          },
+          {
+            "id": "500h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Y00h",
+        "name": "캡틴 키드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kid.webp",
+        "abilities": {
+          "이동속도 감소": 7
+        },
+        "desc": "이동속도 감소(이감): 7",
+        "stuffs": [
+          {
+            "id": "J00h",
+            "count": 1
+          },
+          {
+            "id": "C00h",
+            "count": 1
+          },
+          {
+            "id": "500h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "B10h",
+        "name": "킬러",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/killer.webp",
+        "stuffs": [
+          {
+            "id": "E00h",
+            "count": 1
+          },
+          {
+            "id": "D00h",
+            "count": 1
+          },
+          {
+            "id": "500h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "G10h",
+        "name": "파이러츠 도킹 5",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/pirate5.webp",
+        "stuffs": [
+          {
+            "id": "L00h",
+            "count": 2
+          },
+          {
+            "id": "200h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "I10h",
+        "name": "헤르메포",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/helmeppo.webp",
+        "stuffs": [
+          {
+            "id": "D00h",
+            "count": 1
+          },
+          {
+            "id": "200h",
+            "count": 1
+          },
+          {
+            "id": "400h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "희귀함": [
+      {
+        "id": "X90h",
+        "name": "X-드레이크",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/drakerare.webp",
+        "abilities": {
+          "이동속도 감소": 15,
+          "방어력 감소": 5
+        },
+        "desc": "이동속도 감소(이감): 15\n방어력 감소(방깎): 5",
+        "stuffs": [
+          {
+            "id": "K10h",
+            "count": 1
+          },
+          {
+            "id": "610h",
+            "count": 1
+          },
+          {
+            "id": "110h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Q10h",
+        "name": "거프",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/garprare.webp",
+        "stuffs": [
+          {
+            "id": "F10h",
+            "count": 1
+          },
+          {
+            "id": "K10h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "120h",
+        "name": "마샬.D.티치",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/teach.webp",
+        "stuffs": [
+          {
+            "id": "J10h",
+            "count": 1
+          },
+          {
+            "id": "210h",
+            "count": 1
+          },
+          {
+            "id": "K10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "L10h",
+        "name": "도플라밍고",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/joker.webp",
+        "stuffs": [
+          {
+            "id": "D10h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          },
+          {
+            "id": "R00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "L20h",
+        "name": "트라팔가 로우",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/law.webp",
+        "stuffs": [
+          {
+            "id": "H10h",
+            "count": 1
+          },
+          {
+            "id": "G10h",
+            "count": 1
+          },
+          {
+            "id": "E10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "X10h",
+        "name": "루피 기어서드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luffyrare.webp",
+        "stuffs": [
+          {
+            "id": "U00h",
+            "count": 1
+          },
+          {
+            "id": "410h",
+            "count": 1
+          },
+          {
+            "id": "Q00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "520h",
+        "name": "류마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ryuma.webp",
+        "stuffs": [
+          {
+            "id": "B00h",
+            "count": 1
+          },
+          {
+            "id": "W00h",
+            "count": 1
+          },
+          {
+            "id": "J00h",
+            "count": 1
+          },
+          {
+            "id": "N00h",
+            "count": 1
+          },
+          {
+            "id": "600h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "220h",
+        "name": "마르코",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/marco.webp",
+        "stuffs": [
+          {
+            "id": "T00h",
+            "count": 1
+          },
+          {
+            "id": "910h",
+            "count": 1
+          },
+          {
+            "id": "D10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Z10h",
+        "name": "마젤란",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/magellan.webp",
+        "stuffs": [
+          {
+            "id": "810h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          },
+          {
+            "id": "J10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Y10h",
+        "name": "모몬가",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/momonga.webp",
+        "stuffs": [
+          {
+            "id": "810h",
+            "count": 1
+          },
+          {
+            "id": "I10h",
+            "count": 1
+          },
+          {
+            "id": "F10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "H40h",
+        "name": "미호크",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/mihawk.webp",
+        "stuffs": [
+          {
+            "id": "W00h",
+            "count": 1
+          },
+          {
+            "id": "V00h",
+            "count": 1
+          },
+          {
+            "id": "K10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "W10h",
+        "name": "바르톨로메오",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bartolomeo.webp",
+        "stuffs": [
+          {
+            "id": "V00h",
+            "count": 1
+          },
+          {
+            "id": "110h",
+            "count": 1
+          },
+          {
+            "id": "G10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "V10h",
+        "name": "바제스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/burgess.webp",
+        "abilities": {
+          "스턴": 0.2
+        },
+        "stuffs": [
+          {
+            "id": "610h",
+            "count": 1
+          },
+          {
+            "id": "T00h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "U10h",
+        "name": "바질 호킨스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hawkinsrare.webp",
+        "abilities": {
+          "방어력 감소": 10
+        },
+        "desc": "방어력 감소(방깎): 10",
+        "stuffs": [
+          {
+            "id": "610h",
+            "count": 1
+          },
+          {
+            "id": "B10h",
+            "count": 1
+          },
+          {
+            "id": "H10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "T10h",
+        "name": "반 더 데켄",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/decken.webp",
+        "stuffs": [
+          {
+            "id": "110h",
+            "count": 1
+          },
+          {
+            "id": "I10h",
+            "count": 1
+          },
+          {
+            "id": "810h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "M20h",
+        "name": "베이비 5",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/baby5.webp",
+        "stuffs": [
+          {
+            "id": "G10h",
+            "count": 1
+          },
+          {
+            "id": "710h",
+            "count": 1
+          },
+          {
+            "id": "R00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "S10h",
+        "name": "벤 베크만",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/beckman.webp",
+        "stuffs": [
+          {
+            "id": "Z00h",
+            "count": 1
+          },
+          {
+            "id": "F10h",
+            "count": 1
+          },
+          {
+            "id": "Q00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "N10h",
+        "name": "브룩",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/brook.webp",
+        "abilities": {
+          "공격속도 증가": 10
+        },
+        "desc": "공격속도 증가(공속): 10",
+        "stuffs": [
+          {
+            "id": "D00h",
+            "count": 1
+          },
+          {
+            "id": "B00h",
+            "count": 1
+          },
+          {
+            "id": "R00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "O10h",
+        "name": "비비",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/vivi.webp",
+        "stuffs": [
+          {
+            "id": "910h",
+            "count": 1
+          },
+          {
+            "id": "A10h",
+            "count": 1
+          },
+          {
+            "id": "P00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "L50h",
+        "name": "사보",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sabo.webp",
+        "abilities": {
+          "방어력 감소": 10
+        },
+        "desc": "방어력 감소(방깎): 10",
+        "stuffs": [
+          {
+            "id": "X00h",
+            "count": 1
+          },
+          {
+            "id": "710h",
+            "count": 1
+          },
+          {
+            "id": "T00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "I20h",
+        "name": "상디 디아블잠브",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sanji2.webp",
+        "stuffs": [
+          {
+            "id": "310h",
+            "count": 1
+          },
+          {
+            "id": "D10h",
+            "count": 1
+          },
+          {
+            "id": "Y00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "920h",
+        "name": "샹크스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shanks.webp",
+        "stuffs": [
+          {
+            "id": "510h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          },
+          {
+            "id": "Z00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "820h",
+        "name": "센토마루",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sentomaru.webp",
+        "stuffs": [
+          {
+            "id": "710h",
+            "count": 1
+          },
+          {
+            "id": "E10h",
+            "count": 1
+          },
+          {
+            "id": "C10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "720h",
+        "name": "슈가",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sugar.webp",
+        "abilities": {
+          "마나 재생": 0.6
+        },
+        "desc": "마나 재생(마젠): 0.6",
+        "stuffs": [
+          {
+            "id": "E10h",
+            "count": 1
+          },
+          {
+            "id": "W00h",
+            "count": 1
+          },
+          {
+            "id": "J00h",
+            "count": 1
+          },
+          {
+            "id": "700h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "620h",
+        "name": "시류",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shiryu.webp",
+        "stuffs": [
+          {
+            "id": "C10h",
+            "count": 1
+          },
+          {
+            "id": "K10h",
+            "count": 1
+          },
+          {
+            "id": "310h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "B20h",
+        "name": "아오키지",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aokiji.webp",
+        "abilities": {
+          "이동속도 감소": 12,
+          "스턴": 0.2
+        },
+        "desc": "이동속도 감소(이감): 12\n스턴: 0.2",
+        "stuffs": [
+          {
+            "id": "S00h",
+            "count": 1
+          },
+          {
+            "id": "210h",
+            "count": 1
+          },
+          {
+            "id": "Q00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "P10h",
+        "name": "아카이누",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/akainu.webp",
+        "stuffs": [
+          {
+            "id": "J10h",
+            "count": 1
+          },
+          {
+            "id": "A10h",
+            "count": 1
+          },
+          {
+            "id": "X00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "020h",
+        "name": "오즈",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/oars.webp",
+        "stuffs": [
+          {
+            "id": "B00h",
+            "count": 2
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "420h",
+        "name": "와이퍼",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/wiper.webp",
+        "stuffs": [
+          {
+            "id": "Q00h",
+            "count": 1
+          },
+          {
+            "id": "310h",
+            "count": 1
+          },
+          {
+            "id": "Z00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "C20h",
+        "name": "우솝",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/usopp3.webp",
+        "abilities": {
+          "스턴": 0.2
+        },
+        "stuffs": [
+          {
+            "id": "Z00h",
+            "count": 1
+          },
+          {
+            "id": "C10h",
+            "count": 1
+          },
+          {
+            "id": "P00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "A20h",
+        "name": "이완코브",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ivankov.webp",
+        "abilities": {
+          "스턴": 0.2,
+          "공격력 증가": 35
+        },
+        "desc": "단일 공격력 증가(공증): 35\n스턴: 0.2",
+        "stuffs": [
+          {
+            "id": "X00h",
+            "count": 1
+          },
+          {
+            "id": "S00h",
+            "count": 1
+          },
+          {
+            "id": "A10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "G20h",
+        "name": "제프",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zeff.webp",
+        "stuffs": [
+          {
+            "id": "410h",
+            "count": 1
+          },
+          {
+            "id": "610h",
+            "count": 1
+          },
+          {
+            "id": "X00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "F20h",
+        "name": "조로",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zoro2.webp",
+        "stuffs": [
+          {
+            "id": "W00h",
+            "count": 1
+          },
+          {
+            "id": "B00h",
+            "count": 1
+          },
+          {
+            "id": "F10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "E20h",
+        "name": "죠즈",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/jozu.webp",
+        "abilities": {
+          "스턴": 0.2
+        },
+        "stuffs": [
+          {
+            "id": "210h",
+            "count": 1
+          },
+          {
+            "id": "V00h",
+            "count": 1
+          },
+          {
+            "id": "C10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "K20h",
+        "name": "쵸파 혼 포인트",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/chopperrare.webp",
+        "abilities": {
+          "공격력 증가": 32
+        },
+        "desc": "공격력 증가(공증): 32",
+        "stuffs": [
+          {
+            "id": "D10h",
+            "count": 1
+          },
+          {
+            "id": "I10h",
+            "count": 1
+          },
+          {
+            "id": "H10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "320h",
+        "name": "카쿠",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kaku.webp",
+        "stuffs": [
+          {
+            "id": "R00h",
+            "count": 1
+          },
+          {
+            "id": "910h",
+            "count": 1
+          },
+          {
+            "id": "S00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "D20h",
+        "name": "캡틴 키드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kid.webp",
+        "abilities": {
+          "이동속도 감소": 20
+        },
+        "desc": "이동속도 감소(이감): 20",
+        "stuffs": [
+          {
+            "id": "Y00h",
+            "count": 1
+          },
+          {
+            "id": "P00h",
+            "count": 1
+          },
+          {
+            "id": "B10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "H20h",
+        "name": "크로커다일",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/crocodile.webp",
+        "abilities": {
+          "이동속도 감소": 20,
+          "공격력 증가": 20
+        },
+        "desc": "이동속도 감소(이감): 20\n스킬 공격력 증가(공증): 20",
+        "stuffs": [
+          {
+            "id": "A10h",
+            "count": 1
+          },
+          {
+            "id": "810h",
+            "count": 1
+          },
+          {
+            "id": "410h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "R10h",
+        "name": "키자루",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kizarurare.webp",
+        "stuffs": [
+          {
+            "id": "I10h",
+            "count": 1
+          },
+          {
+            "id": "H10h",
+            "count": 1
+          },
+          {
+            "id": "Y00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "J20h",
+        "name": "킨에몬",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kinemon.webp",
+        "stuffs": [
+          {
+            "id": "B10h",
+            "count": 1
+          },
+          {
+            "id": "J10h",
+            "count": 1
+          },
+          {
+            "id": "V00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "K50h",
+        "name": "페로나",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/perona.webp",
+        "abilities": {
+          "이동속도 감소": 25
+        },
+        "desc": "이동속도 감소(이감): 25",
+        "stuffs": [
+          {
+            "id": "010h",
+            "count": 1
+          },
+          {
+            "id": "J00h",
+            "count": 1
+          },
+          {
+            "id": "310h",
+            "count": 1
+          },
+          {
+            "id": "E10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "M10h",
+        "name": "핸콕",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hancock.webp",
+        "stuffs": [
+          {
+            "id": "P00h",
+            "count": 1
+          },
+          {
+            "id": "110h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "전설 [물딜]": [
+      {
+        "id": "A30h",
+        "name": "레일리",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/rayleighld.webp",
+        "abilities": {
+          "방어력 감소": 15,
+          "공격속도 증가": 20,
+          "아머브레이크": true
+        },
+        "desc": "방어력 감소(방깎): 15\n공격속도 증가(공속): 20\n아머브레이크(암브)",
+        "stuffs": [
+          {
+            "id": "X50h",
+            "count": 1
+          },
+          {
+            "id": "820h",
+            "count": 1
+          },
+          {
+            "id": "810h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "T20h",
+        "name": "마르코",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/marco.webp",
+        "abilities": {
+          "이동속도 감소": 30,
+          "보조딜": true
+        },
+        "desc": "이동속도 감소(이감): 30\n보조딜",
+        "stuffs": [
+          {
+            "id": "220h",
+            "count": 1
+          },
+          {
+            "id": "M20h",
+            "count": 1
+          },
+          {
+            "id": "M10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "H30h",
+        "name": "샬롯 크래커",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/cracker.webp",
+        "abilities": {
+          "방어력 감소": 25
+        },
+        "desc": "방어력 감소(방깎): 25",
+        "stuffs": [
+          {
+            "id": "G20h",
+            "count": 1
+          },
+          {
+            "id": "J20h",
+            "count": 1
+          },
+          {
+            "id": "720h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "630h",
+        "name": "센고쿠",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sengoku.webp",
+        "abilities": {
+          "발동방어력 감소": 18,
+          "발동공격력 증가": 40,
+          "보조딜": true
+        },
+        "desc": "발동방어력 감소(발동깎): 18\n발동공격력 증가(발동공증): 40\n보조딜",
+        "stuffs": [
+          {
+            "id": "P10h",
+            "count": 1
+          },
+          {
+            "id": "B20h",
+            "count": 1
+          },
+          {
+            "id": "R10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "V20h",
+        "name": "스모커",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/smoker.webp",
+        "abilities": {
+          "이동속도 감소": 50,
+          "아머브레이크": true
+        },
+        "desc": "이동속도 감소(이감): 50\n아머브레이크(암브)",
+        "stuffs": [
+          {
+            "id": "Q10h",
+            "count": 1
+          },
+          {
+            "id": "Y10h",
+            "count": 1
+          },
+          {
+            "id": "Z10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "830h",
+        "name": "시저",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/caesar.webp",
+        "abilities": {
+          "방어력 감소": 30
+        },
+        "desc": "방어력 감소(방깎): 30",
+        "stuffs": [
+          {
+            "id": "L10h",
+            "count": 1
+          },
+          {
+            "id": "R10h",
+            "count": 1
+          },
+          {
+            "id": "Q10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "O20h",
+        "name": "에이스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aceld.webp",
+        "abilities": {
+          "방어력 감소": 33
+        },
+        "desc": "방어력 감소(방깎): 33",
+        "stuffs": [
+          {
+            "id": "220h",
+            "count": 1
+          },
+          {
+            "id": "Y10h",
+            "count": 1
+          },
+          {
+            "id": "120h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "S30h",
+        "name": "울티",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ulti.webp",
+        "abilities": {
+          "방어력 감소": 27
+        },
+        "desc": "방어력 감소(방깎): 27",
+        "stuffs": [
+          {
+            "id": "K20h",
+            "count": 1
+          },
+          {
+            "id": "S10h",
+            "count": 1
+          },
+          {
+            "id": "820h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "F30h",
+        "name": "카르가라",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kalgara.webp",
+        "abilities": {
+          "방어력 감소": 15,
+          "단일방어력 감소": 25
+        },
+        "desc": "방어력 감소(방깎): 15\n단일방어력 감소(단일방깎): 40\n가반 중첩 불가",
+        "stuffs": [
+          {
+            "id": "C20h",
+            "count": 1
+          },
+          {
+            "id": "420h",
+            "count": 1
+          },
+          {
+            "id": "N10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "HA0h",
+        "name": "킹",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kingld.webp",
+        "abilities": {
+          "이동속도 감소": 15,
+          "방어력 감소": 5,
+          "발동방어력 감소": 34
+        },
+        "desc": "이동속도 감소(이감): 15\n방어력 감소(방깎): 5\n발동방어력 감소(발동방깎): 34",
+        "stuffs": [
+          {
+            "id": "X90h",
+            "count": 1
+          },
+          {
+            "id": "U10h",
+            "count": 1
+          },
+          {
+            "id": "L10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "B30h",
+        "name": "흰수염",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/whitebeard.webp",
+        "abilities": {
+          "방어력 감소": 15,
+          "발동이동속도 감소": 45
+        },
+        "desc": "방어력 감소(방깎): 15\n발동이동속도 감소(발동이감): 45\n보스, 스토리에서 추가 방어력 감소: 30",
+        "stuffs": [
+          {
+            "id": "E20h",
+            "count": 1
+          },
+          {
+            "id": "220h",
+            "count": 1
+          },
+          {
+            "id": "J20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "전설 [마딜]": [
+      {
+        "id": "U20h",
+        "name": "마샬.D.티치",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/teach.webp",
+        "abilities": {
+          "단일마법 대미지 증가": 8,
+          "모든피해증가": 10
+        },
+        "desc": "모든피해증가: 10\n단일마법 대미지 증가(단일마댐증폭): 8\n범위 적 현재 체력 % 대미지(범위현퍼): 1%\n광폭화 방어력 버프 제거 후 400만 마법 대미지",
+        "stuffs": [
+          {
+            "id": "120h",
+            "count": 1
+          },
+          {
+            "id": "620h",
+            "count": 1
+          },
+          {
+            "id": "V10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "N20h",
+        "name": "겟코 모리아",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/moriald.webp",
+        "abilities": {
+          "이동속도 감소": 30,
+          "방어력 무시 대미지": true,
+          "유닛삭제": true
+        },
+        "desc": "이동속도 감소(이감): 30\n방어력 무시 대미지(방무댐)\n유닛삭제(삭제 시 장군좀비 생성)",
+        "stuffs": [
+          {
+            "id": "020h",
+            "count": 1
+          },
+          {
+            "id": "520h",
+            "count": 1
+          },
+          {
+            "id": "K50h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "P20h",
+        "name": "나미",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/namitr.webp",
+        "abilities": {
+          "마법 대미지 증가": 1,
+          "발동이동속도 감소": 42
+        },
+        "desc": "마법 대미지 증가(마증): 1\n발동이동속도 감소(발동이감): 42\n보물보상 2배\n골드 획득량 증가: 60%",
+        "stuffs": [
+          {
+            "id": "O10h",
+            "count": 1
+          },
+          {
+            "id": "N10h",
+            "count": 1
+          },
+          {
+            "id": "K50h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "Z90h",
+        "name": "네코마무시",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/nekomamushi.webp",
+        "abilities": {
+          "공격력 증가": 25,
+          "전체 체력 퍼센트 대미지": 0
+        },
+        "desc": "공격력 증가(공증): 25\n전체 체력 퍼센트 대미지(전퍼)\n스킬 발동 시 대상이 광폭화 유닛이면 전체 체력 9%의 추가 대미지\n보스 잡기에 특화됨",
+        "stuffs": [
+          {
+            "id": "D20h",
+            "count": 1
+          },
+          {
+            "id": "420h",
+            "count": 1
+          },
+          {
+            "id": "X90h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "330h",
+        "name": "레이쥬",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/reiju.webp",
+        "abilities": {
+          "단일": 1,
+          "이동속도 감소": 35
+        },
+        "desc": "이동속도 감소(이감): 35\n공중이동\n단일 적 현재 체력 % 대미지\n스토리 타격 시 사거리를 두고 타격해야 강함",
+        "stuffs": [
+          {
+            "id": "Z10h",
+            "count": 1
+          },
+          {
+            "id": "M20h",
+            "count": 1
+          },
+          {
+            "id": "H20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "R20h",
+        "name": "로브 루치",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luccild.webp",
+        "abilities": {
+          "단일": 1
+        },
+        "desc": "단일 적 현재 체력 % 대미지\n단일 적 스턴",
+        "stuffs": [
+          {
+            "id": "320h",
+            "count": 1
+          },
+          {
+            "id": "L20h",
+            "count": 1
+          },
+          {
+            "id": "Q10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "C30h",
+        "name": "트라팔가 로우",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/law.webp",
+        "abilities": {
+          "현재 체력 퍼센트 대미지": true
+        },
+        "desc": "현재 체력 퍼센트 대미지(현퍼)\n(W) 스킬 사용 시 12초 동안 단일 공격속도 150% 증가(쿨타임 50초)\n단일 적에게 2.5초 동안 이동속도 99% 감소\n광폭화 방어력 버프 제거 후 현재 체력 22.5%의 추가 대미지",
+        "stuffs": [
+          {
+            "id": "L20h",
+            "count": 1
+          },
+          {
+            "id": "D20h",
+            "count": 1
+          },
+          {
+            "id": "820h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "X20h",
+        "name": "루피 Jet 개틀링",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luffyld.webp",
+        "abilities": {
+          "방어력 무시 대미지": true
+        },
+        "desc": "단일스턴\n방어력 무시 대미지(방무댐)",
+        "stuffs": [
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "320h",
+            "count": 1
+          },
+          {
+            "id": "X90h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "Y20h",
+        "name": "루피 나이트메어",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luffynmld.webp",
+        "desc": "단일스턴\n공중이동\n광폭화 추가 대미지\n보스 잡기에 특화됨",
+        "stuffs": [
+          {
+            "id": "020h",
+            "count": 1
+          },
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "520h",
+            "count": 1
+          },
+          {
+            "id": "010h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "430h",
+        "name": "상디",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sanji2.webp",
+        "abilities": {
+          "단일": 1
+        },
+        "stuffs": [
+          {
+            "id": "I20h",
+            "count": 1
+          },
+          {
+            "id": "A20h",
+            "count": 1
+          },
+          {
+            "id": "U10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "730h",
+        "name": "슈가",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sugar.webp",
+        "abilities": {
+          "마나 재생": 1.25,
+          "유닛삭제": 0
+        },
+        "desc": "삭제 시 적 유닛을 로봇으로 바꿈\n마나 재생: 1.25\n잡동사니 판매",
+        "stuffs": [
+          {
+            "id": "720h",
+            "count": 1
+          },
+          {
+            "id": "C20h",
+            "count": 1
+          },
+          {
+            "id": "U10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "240h",
+        "name": "시노부",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shinobu.webp",
+        "abilities": {
+          "끝딜": 0
+        },
+        "desc": "보물 탐색(R 스킬)\n광폭화 추가 대미지",
+        "stuffs": [
+          {
+            "id": "520h",
+            "count": 1
+          },
+          {
+            "id": "120h",
+            "count": 1
+          },
+          {
+            "id": "J20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "780h",
+        "name": "아마츠키 토키",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/toki.webp",
+        "abilities": {
+          "공격속도 증가": 20
+        },
+        "desc": "9초마다 450 범위의 전설 이상 랜덤 유닛 2기를 6초 동안 공격속도 35% 증가",
+        "stuffs": [
+          {
+            "id": "R10h",
+            "count": 1
+          },
+          {
+            "id": "F20h",
+            "count": 1
+          },
+          {
+            "id": "Y50h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "S20h",
+        "name": "조로",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zorold.webp",
+        "abilities": {
+          "끝딜": 0
+        },
+        "desc": "단일 적 현재 체력 % 대미지(끝딜): 10\n보스에게는 현재 체력 % 대미지(현퍼)",
+        "stuffs": [
+          {
+            "id": "F20h",
+            "count": 1
+          },
+          {
+            "id": "K50h",
+            "count": 1
+          },
+          {
+            "id": "H40h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "G30h",
+        "name": "징베",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/jinbe.webp",
+        "abilities": {
+          "마나 재생": 2.5
+        },
+        "desc": "마나 재생: 2.5\n마나 스킬(광역마댐)\n바다 이동",
+        "stuffs": [
+          {
+            "id": "T10h",
+            "count": 1
+          },
+          {
+            "id": "L20h",
+            "count": 1
+          },
+          {
+            "id": "P10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "I30h",
+        "name": "제파",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zephyr.webp",
+        "desc": "광폭화 유닛일 시 전체 체력 12%의 추가 마법 대미지",
+        "stuffs": [
+          {
+            "id": "V10h",
+            "count": 1
+          },
+          {
+            "id": "B20h",
+            "count": 1
+          },
+          {
+            "id": "L50h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "E30h",
+        "name": "코비",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/koby.webp",
+        "abilities": {
+          "단일": 1
+        },
+        "desc": "115번 공격 시 900 범위 유닛에게 5초 동안 용기의 외침 스킬 시전\n용기의 외침: 공격력 20% 증가, 체력 및 마나 회복 1 증가\n단일 일반 라인 몬스터에게 12.5% 확률로 현재 체력의 27% 폭발형 대미지\n보스 및 스토리에게 12.5% 확률로 20만 마법 대미지",
+        "stuffs": [
+          {
+            "id": "620h",
+            "count": 1
+          },
+          {
+            "id": "920h",
+            "count": 1
+          },
+          {
+            "id": "G20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "030h",
+        "name": "쿠마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kumald.webp",
+        "abilities": {
+          "스턴": 0.2
+        },
+        "desc": "범위의 적을 자석(W, 쿨타임 60초) 스킬로 자신의 바로 앞으로 이동시키고 스턴 사용\n스턴: 0.2",
+        "stuffs": [
+          {
+            "id": "820h",
+            "count": 1
+          },
+          {
+            "id": "M20h",
+            "count": 1
+          },
+          {
+            "id": "K20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "230h",
+        "name": "핸콕",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hancock.webp",
+        "abilities": {
+          "끝딜": 0
+        },
+        "stuffs": [
+          {
+            "id": "M10h",
+            "count": 1
+          },
+          {
+            "id": "I20h",
+            "count": 1
+          },
+          {
+            "id": "H40h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "K30h",
+        "name": "Dr. 히루루크",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hiluluk.webp",
+        "abilities": {
+          "공격력 증가": 55,
+          "체력 재생": 1.6
+        },
+        "desc": "자폭 스킬 활성화 시 적을 공격할 때 1.5% 확률로 자폭 시도\n자폭 시 800 범위 모든 일반 라운드 유닛 전체 체력 50% 절대 대미지\n275초 후 부활\n순간이동",
+        "stuffs": [
+          {
+            "id": "K20h",
+            "count": 1
+          },
+          {
+            "id": "V10h",
+            "count": 1
+          },
+          {
+            "id": "T10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "전설스턴": [
+      {
+        "id": "W20h",
+        "name": "드래곤",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/dragon.webp",
+        "abilities": {
+          "스턴": 0.9,
+          "이동속도 감소": 10,
+          "방어력 감소": 10,
+          "공격속도 증가": 5,
+          "공격력 증가": 25
+        },
+        "desc": "스토리 진입 시 스토리 방어력 추가로 45 감소\n스턴: 0.9\n이동속도 감소(이감): 10\n방어력 감소(방깎): 10\n공격속도 증가(공속): 5\n공격력 증가(공증): 25",
+        "stuffs": [
+          {
+            "id": "A20h",
+            "count": 1
+          },
+          {
+            "id": "L50h",
+            "count": 1
+          },
+          {
+            "id": "O10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "Q20h",
+        "name": "라분",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/laboon.webp",
+        "abilities": {
+          "스턴": 1,
+          "공격속도 증가": 17
+        },
+        "desc": "기본 공격 250 범위 스플래쉬 대미지\n스턴: 1\n공격속도 증가(공속): 17\n바다이동",
+        "stuffs": [
+          {
+            "id": "N10h",
+            "count": 1
+          },
+          {
+            "id": "W10h",
+            "count": 1
+          },
+          {
+            "id": "620h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "Z20h",
+        "name": "바르톨로메오",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bartolomeo.webp",
+        "abilities": {
+          "스턴": 0.9,
+          "방어력 감소": 12
+        },
+        "desc": "스턴: 0.9\n방어력 감소: 12",
+        "stuffs": [
+          {
+            "id": "W10h",
+            "count": 1
+          },
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "C20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "530h",
+        "name": "샹크스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shanks.webp",
+        "abilities": {
+          "스턴": 0.8
+        },
+        "desc": "스턴: 0.8\n주변 1050 범위 내의 적들에게 0.2초당 12500 대미지\n접근하는 적에게 전체 체력 3%의 고정 대미지와 0.625초 스턴\n대미지 감소(방깎) 유닛이 20 이상에 `출항` 사용 시 바제스 미션 클리어 가능",
+        "stuffs": [
+          {
+            "id": "920h",
+            "count": 1
+          },
+          {
+            "id": "S10h",
+            "count": 1
+          },
+          {
+            "id": "I20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "930h",
+        "name": "시키",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shikild.webp",
+        "abilities": {
+          "스턴": 1
+        },
+        "desc": "스턴: 1\n공중이동",
+        "stuffs": [
+          {
+            "id": "420h",
+            "count": 1
+          },
+          {
+            "id": "320h",
+            "count": 1
+          },
+          {
+            "id": "Z10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "130h",
+        "name": "후지토라",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/fujitorald.webp",
+        "abilities": {
+          "스턴": 0.7,
+          "이동속도 감소": 20
+        },
+        "desc": "스턴: 0.7\n이동속도 감소(이감): 20",
+        "stuffs": [
+          {
+            "id": "J20h",
+            "count": 1
+          },
+          {
+            "id": "L10h",
+            "count": 1
+          },
+          {
+            "id": "H20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "해적선": [
+      {
+        "id": "U30h",
+        "name": "레드포스호",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/redforce.webp",
+        "abilities": {
+          "방어력 감소": 20,
+          "공격력 증가": 55
+        },
+        "desc": "방어력 감소(방깎): 20\n공격력 증가(공증): 55\n광폭화 추가 대미지",
+        "commands": [
+          "레드포스호조합",
+          "redforce"
+        ],
+        "stuffs": [
+          {
+            "id": "530h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Q30h",
+        "name": "모비딕호",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/mobydick.webp",
+        "commands": [
+          "모비딕호조합",
+          "mobydick"
+        ],
+        "abilities": {
+          "이동속도 감소": 33,
+          "체력 재생": 1.25
+        },
+        "desc": "이동속도 감소(이감): 33\n체력 재생: 1.25",
+        "stuffs": [
+          {
+            "id": "E20h",
+            "count": 1
+          },
+          {
+            "id": "T00h",
+            "count": 1
+          },
+          {
+            "id": "K00h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "R30h",
+        "name": "반 더 데켄",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/decken.webp",
+        "commands": [
+          "반더데켄조합",
+          "decken"
+        ],
+        "desc": "6.25% 확률로 단일 적에게 30만 마법 대미지 또는 단일 적 제외 400범위에 60% 마법 대미지\n보조딜\n노아 스킬(마나 115 소모) 사용 시 800범위 적에게 스턴 3초, 250만 + 전체 체력 2% 대미지\n바다이동",
+        "stuffs": [
+          {
+            "id": "T10h",
+            "count": 1
+          },
+          {
+            "id": "120h",
+            "count": 1
+          },
+          {
+            "id": "110h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "P30h",
+        "name": "발라티에",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/baratie.webp",
+        "commands": [
+          "발라티에조합",
+          "baratie"
+        ],
+        "abilities": {
+          "공격속도 증가": 22
+        },
+        "desc": "단일 공격속도 증가(공속): 150",
+        "stuffs": [
+          {
+            "id": "G20h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "X30h",
+        "name": "방주맥심",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/maxim.webp",
+        "commands": [
+          "방주맥심조합",
+          "maxim"
+        ],
+        "abilities": {
+          "마법 방어력 감소": true,
+          "폭발형 대미지 증폭": true
+        },
+        "desc": "마법 방어력 감소(마방깎)\n폭발형 대미지 증폭\n뇌영 스킬 사용 시 215만 마법 대미지, 800 범위 스턴 2초, 마법 방어력 3% 감소, 폭발형 대미지 5% 증폭 (마나 150 소모)",
+        "stuffs": [
+          {
+            "id": "420h",
+            "count": 1
+          },
+          {
+            "id": "C20h",
+            "count": 1
+          },
+          {
+            "id": "C10h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "L30h",
+        "name": "써니호",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sunny.webp",
+        "commands": [
+          "써니호조합",
+          "sunny"
+        ],
+        "desc": "보스, 광폭화 유닛 타겟팅 시 첫 회에 어흥포 스킬 시전(광폭화면 전체 체력 45% 추가 마법 대미지)\n어흥포 시전 시 스턴 단일 3초, 600 범위 3초, 저항 70% 무시 (마나 100 소모)",
+        "stuffs": [
+          {
+            "id": "320h",
+            "count": 1
+          },
+          {
+            "id": "D20h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "히든 [물딜]": [
+      {
+        "id": "T30h",
+        "name": "레베카",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/rebecca.webp",
+        "commands": [
+          "레베카조합",
+          "rebecca"
+        ],
+        "abilities": {
+          "방어력 감소": 18
+        },
+        "desc": "방어력 감소(방깎): 18",
+        "stuffs": [
+          {
+            "id": "720h",
+            "count": 1
+          },
+          {
+            "id": "V10h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "N30h",
+        "name": "료쿠규",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aramaki.webp",
+        "commands": [
+          "료쿠규조합",
+          "ryokugyu"
+        ],
+        "abilities": {
+          "방어력 감소": 25,
+          "발동이동속도 감소": 12
+        },
+        "desc": "방어력 감소(방깎): 25\n발동이동속도 감소(발동이감): 12",
+        "stuffs": [
+          {
+            "id": "520h",
+            "count": 1
+          },
+          {
+            "id": "A20h",
+            "count": 1
+          },
+          {
+            "id": "W10h",
+            "count": 1
+          },
+          {
+            "id": "710h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "340h",
+        "name": "미호크",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/mihawk.webp",
+        "commands": [
+          "검호조합",
+          "mihawk"
+        ],
+        "abilities": {
+          "방어력 감소": 25
+        },
+        "desc": "방어력 감소(방깎): 25",
+        "stuffs": [
+          {
+            "id": "H40h",
+            "count": 1
+          },
+          {
+            "id": "920h",
+            "count": 1
+          },
+          {
+            "id": "E20h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "W30h",
+        "name": "베르고",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/vergo.webp",
+        "commands": [
+          "베르고조합",
+          "vergo"
+        ],
+        "abilities": {
+          "아머브레이크": 0
+        },
+        "desc": "마나스킬(최대방깎 30, 스턴 2.5)\n공성업 할 수록 마나스킬깍 증가",
+        "stuffs": [
+          {
+            "id": "I20h",
+            "count": 1
+          },
+          {
+            "id": "W10h",
+            "count": 1
+          },
+          {
+            "id": "F10h",
+            "count": 1
+          },
+          {
+            "id": "H10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "M30h",
+        "name": "사보",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sabo.webp",
+        "commands": [
+          "사보조합",
+          "sabo"
+        ],
+        "abilities": {
+          "이동속도 감소": 18,
+          "방어력 감소": 20
+        },
+        "desc": "바제스 한방",
+        "stuffs": [
+          {
+            "id": "020h",
+            "count": 1
+          },
+          {
+            "id": "L20h",
+            "count": 1
+          },
+          {
+            "id": "L50h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "V30h",
+        "name": "코알라",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/koala.webp",
+        "commands": [
+          "코알라조합",
+          "koala"
+        ],
+        "abilities": {
+          "마나 재생": 3.25,
+          "보조딜": 0
+        },
+        "desc": "하이브리드\n스플\n마나스킬(암브 11, 스턴 3)\n공성업시 물뎀 추가",
+        "stuffs": [
+          {
+            "id": "G30h",
+            "count": 1
+          },
+          {
+            "id": "O10h",
+            "count": 1
+          },
+          {
+            "id": "O00h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "540h",
+        "name": "킬러",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/killer.webp",
+        "commands": [
+          "킬러조합",
+          "killer"
+        ],
+        "abilities": {
+          "방어력 감소": 12
+        },
+        "desc": "광폭화 추뎀",
+        "stuffs": [
+          {
+            "id": "D20h",
+            "count": 1
+          },
+          {
+            "id": "I10h",
+            "count": 1
+          },
+          {
+            "id": "B10h",
+            "count": 1
+          },
+          {
+            "id": "610h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "히든 [마딜]": [
+      {
+        "id": "440h",
+        "name": "류마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ryuma.webp",
+        "commands": [
+          "류마조합",
+          "ryuma"
+        ],
+        "abilities": {
+          "단일": 1
+        },
+        "desc": "단일 19\n조로초월 강화 재료",
+        "stuffs": [
+          {
+            "id": "520h",
+            "count": 1
+          },
+          {
+            "id": "F20h",
+            "count": 1
+          },
+          {
+            "id": "D00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "J30h",
+        "name": "시류",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shiryu.webp",
+        "commands": [
+          "시류조합",
+          "shiryu"
+        ],
+        "abilities": {
+          "끝딜": 0
+        },
+        "desc": "끝딜 7\n마나스킬\n목업2 도킹1 혹은 도킹2 목업1시 바제스 가능",
+        "stuffs": [
+          {
+            "id": "620h",
+            "count": 1
+          },
+          {
+            "id": "Z10h",
+            "count": 1
+          },
+          {
+            "id": "S10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Z30h",
+        "name": "아카이누",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/akainu.webp",
+        "commands": [
+          "아카이누조합",
+          "akainu"
+        ],
+        "desc": "광폭화 추뎀",
+        "stuffs": [
+          {
+            "id": "P10h",
+            "count": 1
+          },
+          {
+            "id": "T10h",
+            "count": 1
+          },
+          {
+            "id": "B10h",
+            "count": 1
+          },
+          {
+            "id": "210h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "L70h",
+        "name": "캐럿",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/carrotcd.webp",
+        "commands": [
+          "캐럿조합",
+          "carrot"
+        ],
+        "abilities": {
+          "마법 대미지 증가": 0
+        },
+        "stuffs": [
+          {
+            "id": "X50h",
+            "count": 1
+          },
+          {
+            "id": "K20h",
+            "count": 1
+          },
+          {
+            "id": "Q00h",
+            "count": 1
+          },
+          {
+            "id": "010h",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "640h",
+        "name": "킨에몬",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kinemon.webp",
+        "commands": [
+          "킨에몬조합",
+          "kinemon"
+        ],
+        "stuffs": [
+          {
+            "id": "J20h",
+            "count": 1
+          },
+          {
+            "id": "F20h",
+            "count": 1
+          },
+          {
+            "id": "Y00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "840h",
+        "name": "페로나",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/perona.webp",
+        "commands": [
+          "페로나조합",
+          "perona"
+        ],
+        "abilities": {
+          "이동속도 감소": 45,
+          "유닛삭제": true
+        },
+        "desc": "마나스킬(스턴 3)\n공중이동",
+        "stuffs": [
+          {
+            "id": "N20h",
+            "count": 1
+          },
+          {
+            "id": "H40h",
+            "count": 1
+          },
+          {
+            "id": "010h",
+            "count": 1
+          },
+          {
+            "id": "N00h",
+            "count": 1
+          },
+          {
+            "id": "J00h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "히든스턴": [
+      {
+        "id": "O30h",
+        "name": "봉쿠레",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bonkurei.webp",
+        "commands": [
+          "봉쿠레조합",
+          "bonkurei"
+        ],
+        "abilities": {
+          "스턴": 0.3,
+          "방어력 감소": 11
+        },
+        "desc": "이완코브와 깍 중복적용 안 됨",
+        "stuffs": [
+          {
+            "id": "M10h",
+            "count": 1
+          },
+          {
+            "id": "410h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          },
+          {
+            "id": "X00h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "140h",
+        "name": "아오키지",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aokiji.webp",
+        "commands": [
+          "아오키지조합",
+          "aokiji"
+        ],
+        "abilities": {
+          "스턴": 0.4,
+          "이동속도 감소": 35,
+          "폭발형 대미지 증폭": 0
+        },
+        "stuffs": [
+          {
+            "id": "B20h",
+            "count": 1
+          },
+          {
+            "id": "E20h",
+            "count": 1
+          },
+          {
+            "id": "Y10h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Y30h",
+        "name": "이완코브",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ivankov.webp",
+        "commands": [
+          "이완코브조합",
+          "ivankov"
+        ],
+        "abilities": {
+          "스턴": 0.6,
+          "방어력 감소": 11
+        },
+        "desc": "봉쿠레와 깍 중복적용 안 됨\n홀딩시 범위내 가장 먼 유닛에게 버프",
+        "stuffs": [
+          {
+            "id": "A20h",
+            "count": 1
+          },
+          {
+            "id": "H20h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "740h",
+        "name": "피셔타이거",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/tiger.webp",
+        "commands": [
+          "피셔타이거조합",
+          "tiger"
+        ],
+        "abilities": {
+          "스턴": 0.9,
+          "공격력 증가": 27
+        },
+        "desc": "지형완전무시이동\n광폭화 추뎀",
+        "stuffs": [
+          {
+            "id": "T10h",
+            "count": 1
+          },
+          {
+            "id": "M10h",
+            "count": 1
+          },
+          {
+            "id": "G10h",
+            "count": 1
+          },
+          {
+            "id": "X50h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "변화된": [
+      {
+        "id": "S50h",
+        "name": "도플라밍고",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/joker.webp",
+        "abilities": {
+          "단일": 0.5
+        },
+        "stuffs": [
+          {
+            "id": "L10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "N70h",
+        "name": "베이비 5",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/baby5.webp",
+        "stuffs": [
+          {
+            "id": "M20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "W50h",
+        "name": "비비",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/vivi.webp",
+        "abilities": {
+          "이동속도 감소": 20,
+          "방어력 감소": 11
+        },
+        "stuffs": [
+          {
+            "id": "O10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "V50h",
+        "name": "에이스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aceld.webp",
+        "abilities": {
+          "이동속도 감소": 20
+        },
+        "desc": "2도킹시 바제스 가능",
+        "stuffs": [
+          {
+            "id": "O20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "J70h",
+        "name": "캐럿",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/carrotcd.webp",
+        "abilities": {
+          "폭발형 대미지 증폭": 0
+        },
+        "stuffs": [
+          {
+            "id": "L70h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      }
+    ],
+    "초월 [물딜]": [
+      {
+        "id": "E90H",
+        "name": "도플라밍고",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/joker.webp",
+        "commands": [
+          "어둠의조커",
+          "joker tr"
+        ],
+        "abilities": {
+          "발동이동속도 감소": 45,
+          "발동방어력 감소": 60
+        },
+        "desc": "특강3(각성 4.5초->6초)\n발동이감이 2개. 발동이감45는 장판형",
+        "stuffs": [
+          {
+            "id": "W30h",
+            "count": 1
+          },
+          {
+            "id": "S50h",
+            "count": 1
+          },
+          {
+            "id": "N70h",
+            "count": 1
+          },
+          {
+            "id": "720h",
+            "count": 1
+          },
+          {
+            "id": "N00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "890H",
+        "name": "로빈",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/robintr.webp",
+        "commands": [
+          "악마의자식",
+          "robin tr"
+        ],
+        "abilities": {
+          "스턴": 1.2,
+          "방어력 감소": 45,
+          "공격력 증가": 25
+        },
+        "desc": "체력스킬(물뎀현퍼1)\n특강2(1500블링크 부여)\n공중이동 유닛에게 부여시 1시조각 가능",
+        "stuffs": [
+          {
+            "id": "Z20h",
+            "count": 1
+          },
+          {
+            "id": "R20h",
+            "count": 1
+          },
+          {
+            "id": "A10h",
+            "count": 1
+          },
+          {
+            "id": "O00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "LB0H",
+        "name": "료쿠규",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aramakitr.webp",
+        "commands": [
+          "신해군대장초록소",
+          "ryokugyu tr"
+        ],
+        "abilities": {
+          "방어력 감소": 35,
+          "발동방어력 감소": 15,
+          "발동이동속도 감소": 30
+        },
+        "desc": "발동깍 15\n마나스킬(변신, 깍10)\n발동이감 35(특정스킬)\n발동이감 12(모든스킬)",
+        "stuffs": [
+          {
+            "id": "130h",
+            "count": 1
+          },
+          {
+            "id": "N30h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "990H",
+        "name": "루피",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luffytr.webp",
+        "commands": [
+          "해적왕이될사나이",
+          "luffy tr"
+        ],
+        "abilities": {
+          "스턴": 0.3,
+          "발동이동속도 감소": 33,
+          "아머브레이크": 0
+        },
+        "desc": "특강4(스턴강화)",
+        "stuffs": [
+          {
+            "id": "X20h",
+            "count": 1
+          },
+          {
+            "id": "Y20h",
+            "count": 1
+          },
+          {
+            "id": "420h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "490H",
+        "name": "바질호킨스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hawkinstr.webp",
+        "commands": [
+          "운명의마술사",
+          "hawkins tr"
+        ],
+        "abilities": {
+          "방어력 감소": 25
+        },
+        "desc": "디버프당뎀증8%\n특강2(깍7,자신공속12)",
+        "stuffs": [
+          {
+            "id": "S20h",
+            "count": 1
+          },
+          {
+            "id": "E30h",
+            "count": 1
+          },
+          {
+            "id": "R10h",
+            "count": 1
+          },
+          {
+            "id": "U10h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "290H",
+        "name": "사보",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sabotr.webp",
+        "commands": [
+          "혁명군참모총장",
+          "sabo tr"
+        ],
+        "abilities": {
+          "스턴": 0.2,
+          "이동속도 감소": 20,
+          "방어력 감소": 30,
+          "발동이동속도 감소": 30
+        },
+        "desc": "마나스킬(범위현퍼 1.5, 스턴 3)",
+        "stuffs": [
+          {
+            "id": "T20h",
+            "count": 1
+          },
+          {
+            "id": "M30h",
+            "count": 1
+          },
+          {
+            "id": "V10h",
+            "count": 1
+          },
+          {
+            "id": "K00h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "DB0H",
+        "name": "야마토",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/yamato.webp",
+        "commands": [
+          "오니히메",
+          "yamato tr"
+        ],
+        "abilities": {
+          "이동속도 감소": -15,
+          "방어력 감소": 25
+        },
+        "desc": "풀이감에 근접하면 뇌명팔괘 대미지 증가+%범위마뎀",
+        "stuffs": [
+          {
+            "id": "S30h",
+            "count": 1
+          },
+          {
+            "id": "780h",
+            "count": 1
+          },
+          {
+            "id": "M10h",
+            "count": 1
+          },
+          {
+            "id": "P00h",
+            "count": 1
+          },
+          {
+            "id": "J10h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "B90H",
+        "name": "우솝",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/usopptr.webp",
+        "commands": [
+          "바다의전사",
+          "usopp tr"
+        ],
+        "abilities": {
+          "방어력 감소": 22
+        },
+        "desc": "마나스킬(범위전퍼 2)\n특성강화(공격력 증가, 독약방깍30)",
+        "stuffs": [
+          {
+            "id": "F30h",
+            "count": 1
+          },
+          {
+            "id": "730h",
+            "count": 1
+          },
+          {
+            "id": "S10h",
+            "count": 1
+          },
+          {
+            "id": "J00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "F90H",
+        "name": "조로",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zorotr.webp",
+        "commands": [
+          "최강의검사",
+          "zoro tr"
+        ],
+        "abilities": {
+          "스턴": 0.4,
+          "이동속도 감소": 30,
+          "방어력 감소": 35
+        },
+        "desc": "마나스킬(스턴 3)\n류마히든으로 강화시 방깎, 이감 15 증가 및 마나스킬 변경\n슈스이 습득시 이감5, 깍5 추가증가스킬 변경",
+        "stuffs": [
+          {
+            "id": "S20h",
+            "count": 1
+          },
+          {
+            "id": "340h",
+            "count": 1
+          },
+          {
+            "id": "W10h",
+            "count": 1
+          },
+          {
+            "id": "J00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "A90H",
+        "name": "징베",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/jinbetr.webp",
+        "commands": [
+          "바다의협객",
+          "jinbe tr"
+        ],
+        "abilities": {
+          "아머브레이크": 0,
+          "발동이동속도 감소": 50,
+          "공격속도 증가": 20,
+          "마나 재생": 3
+        },
+        "desc": "바다이동\n암브 1당 스킬뎀 1% 증가",
+        "stuffs": [
+          {
+            "id": "Q20h",
+            "count": 1
+          },
+          {
+            "id": "G30h",
+            "count": 1
+          },
+          {
+            "id": "J10h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "190H",
+        "name": "쵸파",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/choppertr.webp",
+        "commands": [
+          "순록의사!",
+          "chopper tr"
+        ],
+        "abilities": {
+          "방어력 감소": 50,
+          "공격속도 증가": 28,
+          "공격력 증가": 80
+        },
+        "desc": "마나스킬(폭주로 변신)",
+        "stuffs": [
+          {
+            "id": "S30h",
+            "count": 1
+          },
+          {
+            "id": "K30h",
+            "count": 1
+          },
+          {
+            "id": "800h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "N50H",
+        "name": "타시기",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/tashigitr.webp",
+        "commands": [
+          "해군의홍일점",
+          "tashigi tr"
+        ],
+        "abilities": {
+          "방어력 감소": 25,
+          "아머브레이크": 0
+        },
+        "desc": "특강1(레벨업)",
+        "stuffs": [
+          {
+            "id": "E30h",
+            "count": 1
+          },
+          {
+            "id": "830h",
+            "count": 1
+          },
+          {
+            "id": "F10h",
+            "count": 1
+          },
+          {
+            "id": "E00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "X80H",
+        "name": "후지토라",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/fujitoratr.webp",
+        "commands": [
+          "분노하는맹호",
+          "fujitora tr"
+        ],
+        "abilities": {
+          "스턴": 1.1,
+          "이동속도 감소": 55,
+          "아머브레이크": 0
+        },
+        "desc": "마나스킬(발동이감 99)\n특강2(중력장 강화)",
+        "stuffs": [
+          {
+            "id": "130h",
+            "count": 1
+          },
+          {
+            "id": "640h",
+            "count": 1
+          },
+          {
+            "id": "Y10h",
+            "count": 1
+          },
+          {
+            "id": "E00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "초월 [마딜]": [
+      {
+        "id": "090H",
+        "name": "검은수염",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/teachtr.webp",
+        "commands": [
+          "치밀하고비열한어둠",
+          "tichi tr"
+        ],
+        "abilities": {
+          "발동이동속도 감소": 65,
+          "모든피해증가": 25,
+          "단일마법 대미지 증가": 10
+        },
+        "desc": "마나스킬(범위현퍼 2.5)\n광폭화 버프 제거 후 추뎀\n특강",
+        "stuffs": [
+          {
+            "id": "U20h",
+            "count": 1
+          },
+          {
+            "id": "B30h",
+            "count": 1
+          },
+          {
+            "id": "610h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "V80H",
+        "name": "나미",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/namitr.webp",
+        "commands": [
+          "날씨는맑음",
+          "nami tr"
+        ],
+        "abilities": {
+          "발동이동속도 감소": 45,
+          "전체 체력 퍼센트 대미지": 0
+        },
+        "desc": "골드획득량 20% 증가\n골드목재 스틸\n특강2(자기공속 7%, 번개구름 강화)\n비구름생성기 습득시 미라쥬 템포 강화",
+        "stuffs": [
+          {
+            "id": "P20h",
+            "count": 1
+          },
+          {
+            "id": "930h",
+            "count": 1
+          },
+          {
+            "id": "P00h",
+            "count": 1
+          },
+          {
+            "id": "110h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "690H",
+        "name": "로우",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/lawtr.webp",
+        "commands": [
+          "백개의심장을바친자",
+          "law tr"
+        ],
+        "abilities": {
+          "발동이동속도 감소": 40,
+          "방어력 무시 대미지": 0,
+          "현재 체력 퍼센트 대미지": 0
+        },
+        "desc": "보스 단일이감 99\n특강1(샴블즈 강화)\n광폭화 추뎀",
+        "stuffs": [
+          {
+            "id": "C30h",
+            "count": 1
+          },
+          {
+            "id": "830h",
+            "count": 1
+          },
+          {
+            "id": "C00h",
+            "count": 2
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "W80H",
+        "name": "루치",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/luccitr.webp",
+        "commands": [
+          "검은정의를좇는하얀새",
+          "lucci tr"
+        ],
+        "abilities": {
+          "단일": 1
+        },
+        "desc": "단일(25, 40)\n특강2(람각 강화)",
+        "stuffs": [
+          {
+            "id": "R20h",
+            "count": 1
+          },
+          {
+            "id": "M30h",
+            "count": 1
+          },
+          {
+            "id": "S00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "2B0H",
+        "name": "루피 기어포스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/snakeman.webp",
+        "commands": [
+          "다섯번째황제",
+          "snakeman tr"
+        ],
+        "abilities": {
+          "방어력 무시 대미지": 0
+        },
+        "desc": "공중이동\n적 이속이 높을수록 강한대미지",
+        "stuffs": [
+          {
+            "id": "Y20h",
+            "count": 1
+          },
+          {
+            "id": "U30h",
+            "count": 1
+          },
+          {
+            "id": "L50h",
+            "count": 1
+          },
+          {
+            "id": "K00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "I90H",
+        "name": "브룩",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/brooktr.webp",
+        "commands": [
+          "소울킹",
+          "brook tr"
+        ],
+        "abilities": {
+          "이동속도 감소": 15,
+          "마법 방어력 감소": 3,
+          "끝딜": 0
+        },
+        "desc": "마나스킬(마뎀증폭8, 스턴 3)\n특성강화(음표생성-공속 16)\n공중이동",
+        "stuffs": [
+          {
+            "id": "Q20h",
+            "count": 1
+          },
+          {
+            "id": "440h",
+            "count": 1
+          },
+          {
+            "id": "K50h",
+            "count": 1
+          },
+          {
+            "id": "B00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "H90H",
+        "name": "상디",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sanjitr.webp",
+        "commands": [
+          "지옥에서돌아온자",
+          "sanji tr"
+        ],
+        "abilities": {
+          "단일": 1,
+          "발동이동속도 감소": 50
+        },
+        "desc": "공중이동\n800블링크\n발라티에로 강화 시 각종 버프와 발동이감 증가",
+        "stuffs": [
+          {
+            "id": "430h",
+            "count": 1
+          },
+          {
+            "id": "H30h",
+            "count": 1
+          },
+          {
+            "id": "P00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Z80H",
+        "name": "샹크스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shankstr.webp",
+        "commands": [
+          "정상해전종결자",
+          "shanks tr"
+        ],
+        "abilities": {
+          "스턴": 2.1
+        },
+        "desc": "자신공속 20\n특강2(패기강화)\n광폭화 추뎀\n출항시 바제스 가능(운 좀 탐)",
+        "stuffs": [
+          {
+            "id": "530h",
+            "count": 1
+          },
+          {
+            "id": "340h",
+            "count": 1
+          },
+          {
+            "id": "D20h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "U80H",
+        "name": "시라호시",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shirahoshi.webp",
+        "commands": [
+          "해왕류를다스리는인어공주",
+          "shirahoshi tr"
+        ],
+        "abilities": {
+          "스턴": 1.3
+        },
+        "desc": "마나스킬(범위잃퍼 6x{1~1.5}, 스턴 3)\n공중이동\n특강2(스턴강화)",
+        "stuffs": [
+          {
+            "id": "G30h",
+            "count": 1
+          },
+          {
+            "id": "R30h",
+            "count": 1
+          },
+          {
+            "id": "O10h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "790H",
+        "name": "아오키지",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aokijitr.webp",
+        "commands": [
+          "전해군대장푸른꿩",
+          "aokiji tr"
+        ],
+        "abilities": {
+          "스턴": 1.2,
+          "이동속도 감소": 70,
+          "폭발형 대미지 증폭": 0
+        },
+        "desc": "단일이감 60\n특강 시 바다이동",
+        "stuffs": [
+          {
+            "id": "I30h",
+            "count": 1
+          },
+          {
+            "id": "140h",
+            "count": 1
+          },
+          {
+            "id": "S00h",
+            "count": 1
+          },
+          {
+            "id": "E00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "590H",
+        "name": "아카이누",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/akainutr.webp",
+        "commands": [
+          "해군원수붉은개",
+          "akainu tr"
+        ],
+        "abilities": {
+          "발동이동속도 감소": 12
+        },
+        "desc": "스킬 1개 에영과 중첩 안됨\n특강1(유성추가 3번 총 특강3)\n광폭화 추뎀",
+        "stuffs": [
+          {
+            "id": "630h",
+            "count": 1
+          },
+          {
+            "id": "Z30h",
+            "count": 1
+          },
+          {
+            "id": "J10h",
+            "count": 1
+          },
+          {
+            "id": "R00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "4B0H",
+        "name": "키드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kidtr.webp",
+        "commands": [
+          "신세대의이단아",
+          "kid tr"
+        ],
+        "abilities": {
+          "이동속도 감소": 33
+        },
+        "desc": "적이 뭉쳐있을수록 강한 대미지\n특강3(펑크깁슨 강화)\n자성물질 습득시 댐드펑크 스킬 추가",
+        "stuffs": [
+          {
+            "id": "Z90h",
+            "count": 1
+          },
+          {
+            "id": "540h",
+            "count": 1
+          },
+          {
+            "id": "L20h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          },
+          {
+            "id": "Y00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "5B0H",
+        "name": "키자루",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kizarutr.webp",
+        "commands": [
+          "해군대장노란원숭이",
+          "kizaru tr"
+        ],
+        "abilities": {
+          "스턴": 1
+        },
+        "stuffs": [
+          {
+            "id": "130h",
+            "count": 1
+          },
+          {
+            "id": "A30h",
+            "count": 1
+          },
+          {
+            "id": "R10h",
+            "count": 1
+          },
+          {
+            "id": "110h",
+            "count": 1
+          },
+          {
+            "id": "610h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Y80H",
+        "name": "프랑키",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/frankytr.webp",
+        "commands": [
+          "무적의아이언파이러츠",
+          "franky tr"
+        ],
+        "abilities": {
+          "마나 재생": 5
+        },
+        "desc": "써니호 마나 조절 필요\n주변 써니호 당 뎀증\n써니호 마나스킬 강화\n특강1(꾸드방 강화)",
+        "stuffs": [
+          {
+            "id": "030h",
+            "count": 1
+          },
+          {
+            "id": "N70h",
+            "count": 1
+          },
+          {
+            "id": "320h",
+            "count": 1
+          },
+          {
+            "id": "G10h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "불멸 [물딜]": [
+      {
+        "id": "C40h",
+        "name": "거프",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/garpim.webp",
+        "commands": [
+          "해군영웅거프",
+          "garp im"
+        ],
+        "abilities": {
+          "스턴": 1.2,
+          "방어력 감소": -15
+        },
+        "desc": "마나스킬(범위전퍼 5)\n특강2(포탄 -> 갤럭시 임팩트로 변경)",
+        "stuffs": [
+          {
+            "id": "V20h",
+            "count": 1
+          },
+          {
+            "id": "X20h",
+            "count": 1
+          },
+          {
+            "id": "E30h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "940h",
+        "name": "레일리",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/rayleighim.webp",
+        "commands": [
+          "명왕실버즈레일리",
+          "rayleigh im"
+        ],
+        "abilities": {
+          "방어력 감소": 20,
+          "공격속도 증가": 45,
+          "아머브레이크": 0
+        },
+        "desc": "마나스킬(아머브레이크 5, 스턴 3, 아군회유)\n잡동사니 판매",
+        "stuffs": [
+          {
+            "id": "A30h",
+            "count": 1
+          },
+          {
+            "id": "230h",
+            "count": 1
+          },
+          {
+            "id": "Y20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "J40h",
+        "name": "로져",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/roger.webp",
+        "commands": [
+          "해적왕골D로져",
+          "roger im"
+        ],
+        "abilities": {
+          "이동속도 감소": 50,
+          "방어력 감소": 60,
+          "공격력 증가": 60
+        },
+        "stuffs": [
+          {
+            "id": "630h",
+            "count": 1
+          },
+          {
+            "id": "O20h",
+            "count": 1
+          },
+          {
+            "id": "V20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "F40h",
+        "name": "스코퍼가반",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/gaban.webp",
+        "commands": [
+          "대검호스코퍼가반",
+          "gaban im"
+        ],
+        "abilities": {
+          "단일방어력 감소": 60
+        },
+        "stuffs": [
+          {
+            "id": "330h",
+            "count": 1
+          },
+          {
+            "id": "S20h",
+            "count": 1
+          },
+          {
+            "id": "530h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "M70h",
+        "name": "카이도",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kaido.webp",
+        "commands": [
+          "백수의제왕카이도",
+          "kaido im"
+        ],
+        "abilities": {
+          "이동속도 감소": 60,
+          "공격력 증가감소": 75,
+          "중첩방어력 감소": 30
+        },
+        "desc": "스킬발동시 깍3(최대단일깍 145깍/범위깍 30까지)\n디버프(카이도제외 공75퍼감소)\n공중이동",
+        "stuffs": [
+          {
+            "id": "W20h",
+            "count": 1
+          },
+          {
+            "id": "N20h",
+            "count": 1
+          },
+          {
+            "id": "HA0h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "A40h",
+        "name": "흰수염",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/whitebeardim.webp",
+        "commands": [
+          "대해적흰수염",
+          "whitebeard im"
+        ],
+        "abilities": {
+          "스턴": 0.5,
+          "방어력 감소": 45,
+          "발동이동속도 감소": 60
+        },
+        "desc": "약주 습득시 지진강타 강화",
+        "stuffs": [
+          {
+            "id": "B30h",
+            "count": 1
+          },
+          {
+            "id": "Z20h",
+            "count": 1
+          },
+          {
+            "id": "T20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      }
+    ],
+    "불멸 [마딜]": [
+      {
+        "id": "D40h",
+        "name": "드래곤",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/dragonim.webp",
+        "commands": [
+          "폭풍을몰아오는바람",
+          "dragon im"
+        ],
+        "abilities": {
+          "스턴": 1.4,
+          "공격속도 증가": 20,
+          "폭발형 대미지 증폭": 0
+        },
+        "desc": "공속에 비례해 스킬뎀증\n특강3(자동삭제8초)\n노특강 도킹 2번해야 바제스 가능\n삭풍(1인스킬,라인몹아니면 40%뎀감)",
+        "stuffs": [
+          {
+            "id": "W20h",
+            "count": 1
+          },
+          {
+            "id": "030h",
+            "count": 1
+          },
+          {
+            "id": "Z90h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "Q40h",
+        "name": "빅맘",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bigmam.webp",
+        "commands": [
+          "탐식의강철풍선",
+          "bigmam im"
+        ],
+        "abilities": {
+          "이동속도 감소": 70,
+          "유닛삭제": 0
+        },
+        "desc": "체력스킬(범위전퍼 1x7)\n공중이동\n도킹 1번 하면 바제스 가능",
+        "stuffs": [
+          {
+            "id": "330h",
+            "count": 1
+          },
+          {
+            "id": "H30h",
+            "count": 1
+          },
+          {
+            "id": "S30h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "E40h",
+        "name": "센고쿠",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sengokuim.webp",
+        "commands": [
+          "부처님센고쿠",
+          "sengoku im"
+        ],
+        "abilities": {
+          "스턴": 1.1,
+          "공격력 증가": 22,
+          "방어력 무시 대미지": 0,
+          "현재 체력 퍼센트 대미지": 0
+        },
+        "desc": "범위현퍼 1.5\n특강(범위현퍼 0.5증가)\n전보벌레 습득시 포격지원 스킬 추가",
+        "stuffs": [
+          {
+            "id": "630h",
+            "count": 1
+          },
+          {
+            "id": "330h",
+            "count": 1
+          },
+          {
+            "id": "R20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "B40h",
+        "name": "시키",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shikiim.webp",
+        "commands": [
+          "천신금사자시키",
+          "shiki im"
+        ],
+        "abilities": {
+          "스턴": 1.8,
+          "발동방어력 감소": 7
+        },
+        "desc": "마나스킬(마뎀증폭15)\n공중이동\n특강2(함대소환)\n폐함대선 습득시 부유물 낙하 강화",
+        "stuffs": [
+          {
+            "id": "930h",
+            "count": 1
+          },
+          {
+            "id": "430h",
+            "count": 1
+          },
+          {
+            "id": "F30h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "G40h",
+        "name": "제트",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zephyrim.webp",
+        "commands": [
+          "신념의흑완제트",
+          "z im"
+        ],
+        "abilities": {
+          "이동속도 감소": 35
+        },
+        "desc": "2000블링크\n특성강화(탄환추가)\n광폭화 추뎀",
+        "stuffs": [
+          {
+            "id": "I30h",
+            "count": 1
+          },
+          {
+            "id": "X20h",
+            "count": 1
+          },
+          {
+            "id": "730h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 10
+          }
+        ]
+      }
+    ],
+    "영원 [물딜]": [
+      {
+        "id": "KB0H",
+        "name": "니카(루초)",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/nika.webp",
+        "commands": [
+          "태양의신",
+          "nika et"
+        ],
+        "abilities": {
+          "스턴": 1,
+          "방어력 감소": 35,
+          "공격속도 증가": 25,
+          "범위 퍼센트 대미지": 0
+        },
+        "desc": "지형무시 이동\n적 이속이 높을수록 강한대미지\n초월함 업그레이드를 받음",
+        "stuffs": [
+          {
+            "id": "990H",
+            "count": 1
+          },
+          {
+            "id": "C30h",
+            "count": 1
+          },
+          {
+            "id": "D20h",
+            "count": 1
+          },
+          {
+            "id": "K00h",
+            "count": 1
+          },
+          {
+            "id": "700I",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "KB0H_",
+        "name": "니카(뱀초)",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/nika.webp",
+        "commands": [
+          "태양의신",
+          "nika et"
+        ],
+        "abilities": {
+          "스턴": 1,
+          "방어력 감소": 35,
+          "공격속도 증가": 25,
+          "범위 퍼센트 대미지": 0
+        },
+        "desc": "지형무시 이동\n적 이속이 높을수록 강한대미지\n초월함 업그레이드를 받음",
+        "stuffs": [
+          {
+            "id": "2B0H",
+            "count": 1
+          },
+          {
+            "id": "C30h",
+            "count": 1
+          },
+          {
+            "id": "D20h",
+            "count": 1
+          },
+          {
+            "id": "K00h",
+            "count": 1
+          },
+          {
+            "id": "700I",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "A50h",
+        "name": "버기",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/buggyet.webp",
+        "commands": [
+          "천냥광대",
+          "buggy et"
+        ],
+        "abilities": {
+          "스턴": 0.5,
+          "방어력 감소": 41,
+          "공격속도 증가": 65,
+          "공격력 증가": 78,
+          "이동속도 감소": 25,
+          "세이브": 10
+        },
+        "desc": "소환하는 이완코브의 수치 포함. 공증 15000 추가 증가",
+        "stuffs": [
+          {
+            "id": "P20h",
+            "count": 1
+          },
+          {
+            "id": "Y30h",
+            "count": 1
+          },
+          {
+            "id": "920h",
+            "count": 1
+          },
+          {
+            "id": "Z10h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          },
+          {
+            "id": "410h",
+            "count": 1
+          },
+          {
+            "id": "010h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "B50h",
+        "name": "카벤딧슈",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/cavendish.webp",
+        "commands": [
+          "해적왕자",
+          "cavendish et"
+        ],
+        "abilities": {
+          "스턴": 0.9,
+          "방어력 감소": 35,
+          "단일아머브레이크": 0,
+          "세이브": 20
+        },
+        "desc": "마나스킬이 일반업 효과를 받음",
+        "stuffs": [
+          {
+            "id": "C30h",
+            "count": 1
+          },
+          {
+            "id": "540h",
+            "count": 1
+          },
+          {
+            "id": "X90h",
+            "count": 1
+          },
+          {
+            "id": "V00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "750h",
+        "name": "비비",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/viviet.webp",
+        "commands": [
+          "파이러츠왕녀",
+          "vivi et"
+        ],
+        "abilities": {
+          "끝딜": 0,
+          "세이브": 25
+        },
+        "desc": "마나스킬(끝딜 16, 스턴 2)\n특강3(마나스킬 강화)",
+        "stuffs": [
+          {
+            "id": "F50h",
+            "count": 1
+          },
+          {
+            "id": "W50h",
+            "count": 1
+          },
+          {
+            "id": "S10h",
+            "count": 1
+          },
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "S00h",
+            "count": 1
+          },
+          {
+            "id": "G10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "영원 [마딜]": [
+      {
+        "id": "950h",
+        "name": "에이스",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/aceet.webp",
+        "commands": [
+          "화권의에이스",
+          "ace et"
+        ],
+        "abilities": {
+          "이동속도 감소": 45,
+          "세이브": 5
+        },
+        "desc": "마나스킬(범위전퍼 2{x1~2})",
+        "stuffs": [
+          {
+            "id": "V50h",
+            "count": 1
+          },
+          {
+            "id": "T20h",
+            "count": 1
+          },
+          {
+            "id": "810h",
+            "count": 1
+          },
+          {
+            "id": "210h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "C50h",
+        "name": "핸콕",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hancocket.webp",
+        "commands": [
+          "아마존릴리의여제",
+          "hancock et"
+        ],
+        "abilities": {
+          "스턴": 0.9,
+          "방어력 감소": 50,
+          "마법 방어력 감소": 5,
+          "발동이동속도 감소": 60,
+          "세이브": 15
+        },
+        "desc": "마나스킬(끝딜 16, 스턴 2)\n특강3(마나스킬 강화)",
+        "stuffs": [
+          {
+            "id": "230h",
+            "count": 1
+          },
+          {
+            "id": "740h",
+            "count": 1
+          },
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "Y10h",
+            "count": 1
+          },
+          {
+            "id": "810h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "R80h",
+        "name": "오뎅",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/oden.webp",
+        "commands": [
+          "참된호걸",
+          "oden et"
+        ],
+        "abilities": {
+          "마법 대미지 증가": 0,
+          "공격력 증가": 50,
+          "세이브": 30
+        },
+        "desc": "전설급 이상 평타 추뎀",
+        "stuffs": [
+          {
+            "id": "240h",
+            "count": 1
+          },
+          {
+            "id": "780h",
+            "count": 1
+          },
+          {
+            "id": "640h",
+            "count": 1
+          },
+          {
+            "id": "220h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "760h",
+        "name": "우타",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/uta.webp",
+        "commands": [
+          "세계의가희",
+          "u-ta et"
+        ],
+        "abilities": {
+          "끝딜": 0,
+          "스턴": 0.4,
+          "공격속도 증가": 15,
+          "방어력 무시 대미지": 0,
+          "폭발형 대미지 증폭": 0,
+          "마법 방어력 감소": 0,
+          "아머브레이크": 0,
+          "세이브": 30
+        },
+        "desc": "공격 시 체력감소\n우타 체력 10이하로 감소시 3초간 수면\n마나스킬(5% 마방깍, 5%폭발형 피해량 증폭, 암브5)",
+        "stuffs": [
+          {
+            "id": "530h",
+            "count": 1
+          },
+          {
+            "id": "N20h",
+            "count": 1
+          },
+          {
+            "id": "O30h",
+            "count": 1
+          },
+          {
+            "id": "X50h",
+            "count": 1
+          },
+          {
+            "id": "N10h",
+            "count": 1
+          },
+          {
+            "id": "300h",
+            "count": 1
+          },
+          {
+            "id": "H00I",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "850h",
+        "name": "미호크",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/mihawket.webp",
+        "commands": [
+          "매의눈미호크",
+          "mihawk et"
+        ],
+        "abilities": {
+          "이동속도 감소": 45,
+          "방어력 무시 대미지": 0,
+          "세이브": 35
+        },
+        "desc": "마뎀\n스플\n방무뎀\n이감 45\n마나스킬",
+        "stuffs": [
+          {
+            "id": "840h",
+            "count": 1
+          },
+          {
+            "id": "340h",
+            "count": 1
+          },
+          {
+            "id": "620h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 2
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      }
+    ],
+    "제한됨": [
+      {
+        "id": "E50h",
+        "name": "갓 에넬",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/enelltd.webp",
+        "abilities": {
+          "마법 대미지 증가": 0,
+          "마나 재생": 1.5
+        },
+        "desc": "마나스킬(범위전퍼 2, 마방깎 18, 스턴 3)\n일반업 시 스킬 강화",
+        "stuffs": [
+          {
+            "id": "830h",
+            "count": 1
+          },
+          {
+            "id": "X30h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          },
+          {
+            "id": "P00h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "G50h",
+        "name": "레드필드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/redfield.webp",
+        "abilities": {
+          "끝딜": 0,
+          "전체 체력 퍼센트 대미지": 0
+        },
+        "desc": "41라운드 이전에만 조합 가능\n1500블링크",
+        "stuffs": [
+          {
+            "id": "I60h",
+            "count": 1
+          },
+          {
+            "id": "Z20h",
+            "count": 1
+          },
+          {
+            "id": "N10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "I50h",
+        "name": "레베카",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/rebecca.webp",
+        "abilities": {
+          "방어력 감소": 38,
+          "발동이동속도 감소": 50
+        },
+        "stuffs": [
+          {
+            "id": "T30h",
+            "count": 1
+          },
+          {
+            "id": "S50h",
+            "count": 1
+          },
+          {
+            "id": "730h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "O80h",
+        "name": "마르코",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/marcoltd.webp",
+        "abilities": {
+          "단일": 1,
+          "이동속도 감소": 35,
+          "체력 재생": 3
+        },
+        "desc": "공중이동\n인간폼 - 공속증가, 공격력감소, 20%추가 폭발형대미지\n불사조폼 - 공속감소, 공격력, 스플범위, 크리배수 증가",
+        "stuffs": [
+          {
+            "id": "T20h",
+            "count": 1
+          },
+          {
+            "id": "K30h",
+            "count": 1
+          },
+          {
+            "id": "Y00I",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "480h",
+        "name": "시노부",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/shinobu.webp",
+        "abilities": {
+          "끝딜": 0,
+          "이동속도 감소": 36
+        },
+        "stuffs": [
+          {
+            "id": "240h",
+            "count": 1
+          },
+          {
+            "id": "230h",
+            "count": 1
+          },
+          {
+            "id": "060h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "040h",
+        "name": "아인",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ain.webp",
+        "desc": "1500블링크\n광폭화 추뎀",
+        "stuffs": [
+          {
+            "id": "B20h",
+            "count": 1
+          },
+          {
+            "id": "W30h",
+            "count": 1
+          },
+          {
+            "id": "S10h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 2
+          },
+          {
+            "id": "GOLD",
+            "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 8
+          }
+        ]
+      },
+      {
+        "id": "I70h",
+        "name": "카타쿠리",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/katakuri.webp",
+        "abilities": {
+          "방어력 감소": 30,
+          "체력 재생": 2.85
+        },
+        "desc": "보스,스토리에게 매 공격시 6배 크리티컬\n20% 패기 발동시 암브6",
+        "stuffs": [
+          {
+            "id": "H30h",
+            "count": 1
+          },
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "I20h",
+            "count": 1
+          },
+          {
+            "id": "C10h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 30000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "F50h",
+        "name": "크로커다일",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/crocodileltd.webp",
+        "abilities": {
+          "스턴": 0.5,
+          "이동속도 감소": 40,
+          "방어력 감소": 25
+        },
+        "stuffs": [
+          {
+            "id": "H20h",
+            "count": 1
+          },
+          {
+            "id": "Z30h",
+            "count": 1
+          },
+          {
+            "id": "W50h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "IA0h",
+        "name": "킹",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kingltd.webp",
+        "abilities": {
+          "발동방어력 감소": 34,
+          "단일아머브레이크": 0
+        },
+        "desc": "독약식깍25+지역깍10\n처형자 시 공격이 강화되며 주변에도 암브\n단일이감 15%\n공중이동",
+        "stuffs": [
+          {
+            "id": "HA0h",
+            "count": 1
+          },
+          {
+            "id": "U20h",
+            "count": 1
+          },
+          {
+            "id": "Y50h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      }
+    ],
+    "랜덤전용": [
+      {
+        "id": "U60h",
+        "name": "k'",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/k.png",
+        "stuffs": []
+      },
+      {
+        "id": "V60h",
+        "name": "나루토 선인모드",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/naruto.png",
+        "stuffs": []
+      },
+      {
+        "id": "T60h",
+        "name": "뱀파이어",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/vampire.png",
+        "stuffs": []
+      },
+      {
+        "id": "W60h",
+        "name": "요츠바",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/yotsuba.png",
+        "stuffs": []
+      },
+      {
+        "id": "X60h",
+        "name": "센토 이스즈",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sento.png",
+        "stuffs": []
+      },
+      {
+        "id": "Y60h",
+        "name": "카미조 토우마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kamijou.png",
+        "stuffs": []
+      },
+      {
+        "id": "Z60h",
+        "name": "전투펭귄",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/penguin.png",
+        "stuffs": []
+      },
+      {
+        "id": "070h",
+        "name": "이사야마 요미",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/iasyama.png",
+        "stuffs": []
+      },
+      {
+        "id": "170h",
+        "name": "쿠로사키 이치고",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kurosaki.png",
+        "stuffs": []
+      },
+      {
+        "id": "270h",
+        "name": "하네카와 츠바사",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/hanekawa.png",
+        "stuffs": []
+      },
+      {
+        "id": "370h",
+        "name": "야가미 라이토",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/yagami.png",
+        "stuffs": []
+      },
+      {
+        "id": "K90h",
+        "name": "옌",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/yan.png",
+        "stuffs": []
+      },
+      {
+        "id": "L90h",
+        "name": "이치의 율자",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/yoolja.png",
+        "stuffs": []
+      },
+      {
+        "id": "560h",
+        "name": "메구밍",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/meguming.png",
+        "stuffs": []
+      }
+    ],
+    "랜덤전용 [제한됨]": [
+      {
+        "id": "W90h",
+        "name": "나미카제 미나토",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/minato.webp",
+        "abilities": {
+          "끝딜": 0,
+          "스턴": 2.5,
+          "마법 대미지 증가": 0
+        },
+        "stuffs": [
+          {
+            "id": "V60h",
+            "count": 1
+          },
+          {
+            "id": "J70h",
+            "count": 1
+          },
+          {
+            "id": "240h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "2A0h",
+        "name": "료우기 시키",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/siki.webp",
+        "abilities": {
+          "방어력 감소": 44,
+          "물뎀끝딜": 0
+        },
+        "stuffs": [
+          {
+            "id": "070h",
+            "count": 1
+          },
+          {
+            "id": "J30h",
+            "count": 1
+          },
+          {
+            "id": "440h",
+            "count": 1
+          },
+          {
+            "id": "P20h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "N90h",
+        "name": "부릉냐",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bronya.webp",
+        "abilities": {
+          "끝딜": 0,
+          "마나 재생": 0
+        },
+        "stuffs": [
+          {
+            "id": "L90h",
+            "count": 1
+          },
+          {
+            "id": "330h",
+            "count": 1
+          },
+          {
+            "id": "L30h",
+            "count": 1
+          },
+          {
+            "id": "N70h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "CA0h",
+        "name": "산적왕 히그마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/higma.webp",
+        "abilities": {
+          "이동속도 감소": 30
+        },
+        "stuffs": [
+          {
+            "id": "X60h",
+            "count": 1
+          },
+          {
+            "id": "RANDOM",
+            "count": 1
+          },
+          {
+            "id": "Z90h",
+            "count": 1
+          },
+          {
+            "id": "920h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "6A0h",
+        "name": "야쿠모 유카리",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/yukari.webp",
+        "abilities": {
+          "유닛삭제": 0
+        },
+        "stuffs": [
+          {
+            "id": "370h",
+            "count": 1
+          },
+          {
+            "id": "RANDOM",
+            "count": 1
+          },
+          {
+            "id": "840h",
+            "count": 1
+          },
+          {
+            "id": "710h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "R90h",
+        "name": "쿠죠 죠타로",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/jotaro.webp",
+        "abilities": {
+          "방어력 감소": 25,
+          "아머브레이크": 0,
+          "공격력 증가": 20
+        },
+        "stuffs": [
+          {
+            "id": "Y60h",
+            "count": 1
+          },
+          {
+            "id": "780h",
+            "count": 1
+          },
+          {
+            "id": "630h",
+            "count": 1
+          },
+          {
+            "id": "U00h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "I80h",
+        "name": "쿠치키 바쿠야",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/bakuya.webp",
+        "abilities": {
+          "이동속도 감소": 35
+        },
+        "stuffs": [
+          {
+            "id": "170h",
+            "count": 1
+          },
+          {
+            "id": "RANDOM",
+            "count": 1
+          },
+          {
+            "id": "V50h",
+            "count": 1
+          },
+          {
+            "id": "H40h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "FB0h",
+        "name": "키쿄우",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kikyo.webp",
+        "abilities": {
+          "단일": 1,
+          "아머브레이크": 0,
+          "체력 재생": 1.5,
+          "마나 재생": 1.5
+        },
+        "stuffs": [
+          {
+            "id": "270h",
+            "count": 1
+          },
+          {
+            "id": "R20h",
+            "count": 1
+          },
+          {
+            "id": "T30h",
+            "count": 1
+          },
+          {
+            "id": "N10h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "CB0h",
+        "name": "타츠마키",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/tatsumaki.webp",
+        "abilities": {
+          "스턴": 1,
+          "이동속도 감소": 50,
+          "아머브레이크": 0
+        },
+        "stuffs": [
+          {
+            "id": "W60h",
+            "count": 1
+          },
+          {
+            "id": "HA0h",
+            "count": 1
+          },
+          {
+            "id": "030h",
+            "count": 1
+          },
+          {
+            "id": "G60h",
+            "count": 1
+          },
+          {
+            "id": "B80h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
+          }
+        ]
+      }
+    ],
+    "자원": [
+      {
+        "id": "GOLD",
+        "name": "금화",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/gold.png",
+        "stuffs": []
+      },
+      {
+        "id": "LUMBER",
+        "name": "목재",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/lumber.png",
+        "stuffs": []
+      }
+    ],
+    "기타": [
+      {
+        "id": "RANDOM",
+        "name": "랜덤전용유닛",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/random.png",
+        "stuffs": []
+      },
+      {
+        "id": "G60h",
+        "name": "토큰",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/token.png",
+        "stuffs": []
+      },
+      {
+        "id": "B80h",
+        "name": "확장팩",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/random.png",
+        "stuffs": []
+      },
+      {
+        "id": "H00h",
+        "name": "좀비",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/zombie.png",
+        "stuffs": []
+      },
+      {
+        "id": "X50h",
+        "name": "레일리(히든)",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/rayleighld.webp",
+        "stuffs": []
+      },
+      {
+        "id": "060h",
+        "name": "해적선",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/ship.png",
+        "stuffs": []
+      },
+      {
+        "id": "I60h",
+        "name": "히루루크의 묘비",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/random.png",
+        "stuffs": [
+          {
+            "id": "K30h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "S40h",
+        "name": "초월쿠마",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/kumauq.webp",
+        "stuffs": []
+      },
+      {
+        "id": "Y50h",
+        "name": "고대의 배",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/oldship.png",
+        "stuffs": []
+      }
+    ],
+    "아이템": [
+      {
+        "id": "H00I",
+        "name": "우타의 헤드셋",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/utahead.png",
+        "stuffs": []
+      },
+      {
+        "id": "700I",
+        "name": "태양신의 흔적",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/sunofgod.png",
+        "stuffs": []
+      },
+      {
+        "id": "Y00I",
+        "name": "불사조의 깃털",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/feather.png",
+        "stuffs": []
+      }
+    ]
+  }
+}
