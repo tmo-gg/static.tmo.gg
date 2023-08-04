@@ -477,15 +477,15 @@
         "desc": "이동속도 감소(이감): 7",
         "stuffs": [
           {
+            "id": "900h",
+            "count": 1
+          },
+          {
             "id": "E00h",
             "count": 1
           },
           {
             "id": "600h",
-            "count": 1
-          },
-          {
-            "id": "900h",
             "count": 1
           }
         ]
@@ -3889,42 +3889,6 @@
         ]
       },
       {
-        "id": "N50H",
-        "name": "타시기",
-        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/tashigitr.webp",
-        "commands": [
-          "해군의홍일점",
-          "tashigi tr"
-        ],
-        "abilities": {
-          "방어력 감소": 25,
-          "아머브레이크": 0
-        },
-        "desc": "특강1(레벨업)",
-        "stuffs": [
-          {
-            "id": "E30h",
-            "count": 1
-          },
-          {
-            "id": "830h",
-            "count": 1
-          },
-          {
-            "id": "F10h",
-            "count": 1
-          },
-          {
-            "id": "E00h",
-            "count": 1
-          },
-          {
-            "id": "S40h",
-            "count": 1
-          }
-        ]
-      },
-      {
         "id": "X80H",
         "name": "후지토라",
         "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/fujitoratr.webp",
@@ -4330,6 +4294,42 @@
           },
           {
             "id": "R00h",
+            "count": 1
+          },
+          {
+            "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "N50H",
+        "name": "타시기",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/tashigitr.webp",
+        "commands": [
+          "해군의홍일점",
+          "tashigi tr"
+        ],
+        "abilities": {
+          "방어력 감소": 25,
+          "아머브레이크": 0
+        },
+        "desc": "특강1(레벨업)",
+        "stuffs": [
+          {
+            "id": "E30h",
+            "count": 1
+          },
+          {
+            "id": "830h",
+            "count": 1
+          },
+          {
+            "id": "F10h",
+            "count": 1
+          },
+          {
+            "id": "E00h",
             "count": 1
           },
           {
