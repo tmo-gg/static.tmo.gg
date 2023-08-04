@@ -324,7 +324,7 @@
       },
       {
         "id": "Q20h",
-        "name": "이노 : 공속1%(시즈네겹)",
+        "name": "이노",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/rare-ino.jpg",
         "stuffs": [
           {
@@ -358,7 +358,7 @@
       },
       {
         "id": "I10h",
-        "name": "카츠유 : 체젠0.1",
+        "name": "카츠유",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/rare-katsu.jpg",
         "stuffs": [
           {
@@ -563,7 +563,7 @@
     "파멸": [
       {
         "id": "SA0h",
-        "name": "미츠키 : 마딜 보딜, 스택 역체뻥, 블링크, 게임당1기만 / [차크라1]",
+        "name": "미츠키",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/207978403364854cecec0c37.92888279.png",
         "stuffs": [
           {
@@ -582,7 +582,7 @@
       },
       {
         "id": "990h",
-        "name": "사스케 인드라 : 마딜, 미수1당증뎀2%(max.18%), 800만+현체3%(액티브), 공중이동",
+        "name": "사스케 인드라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/124306680861a62f1cbdbf91.45593541.png",
         "stuffs": [
           {
@@ -621,7 +621,7 @@
       },
       {
         "id": "V70h",
-        "name": "육도 : ♠깍110, 삭제3%(익스,이자0.5%), 블링크 / [차크라2]",
+        "name": "육도",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/100591114261a62f454e22b1.94149323.png",
         "stuffs": [
           {
@@ -734,7 +734,7 @@
       },
       {
         "id": "QA0h",
-        "name": "록리 : C랭O",
+        "name": "록리",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-rockly.jpg",
         "stuffs": [
           {
@@ -753,7 +753,7 @@
       },
       {
         "id": "340h",
-        "name": "린 : 공속3%",
+        "name": "린",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/46999043561a630ed50ff70.82658217.png",
         "stuffs": [
           {
@@ -772,7 +772,7 @@
       },
       {
         "id": "Z40h",
-        "name": "사무이 : C랭O",
+        "name": "사무이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-samui.jpg",
         "stuffs": [
           {
@@ -844,7 +844,7 @@
       },
       {
         "id": "Y70h",
-        "name": "시즈네 : 공속3%(이노겹)",
+        "name": "시즈네",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-sizune.jpg",
         "stuffs": [
           {
@@ -867,7 +867,7 @@
       },
       {
         "id": "670h",
-        "name": "야마토 : C랭O",
+        "name": "야마토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-yamato.jpg",
         "stuffs": [
           {
@@ -886,7 +886,7 @@
       },
       {
         "id": "300h",
-        "name": "엔마 : C랭O, 썬클10%",
+        "name": "엔마",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-enma.jpg",
         "stuffs": [
           {
@@ -936,7 +936,7 @@
       },
       {
         "id": "R60h",
-        "name": "육도 페인 천도 : 썬클10%",
+        "name": "육도 페인 천도",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-chunsangdo.jpg",
         "stuffs": [
           {
@@ -982,7 +982,7 @@
       },
       {
         "id": "X40h",
-        "name": "자부자 : C랭O, 슬로7%",
+        "name": "자부자",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-jabuja.jpg",
         "stuffs": [
           {
@@ -1001,7 +1001,7 @@
       },
       {
         "id": "R70h",
-        "name": "쥬고 : C랭O",
+        "name": "쥬고",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-jugo.jpg",
         "stuffs": [
           {
@@ -1020,7 +1020,7 @@
       },
       {
         "id": "G10h",
-        "name": "지라이야 : C랭O",
+        "name": "지라이야",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-jiraiya.jpg",
         "stuffs": [
           {
@@ -1039,7 +1039,7 @@
       },
       {
         "id": "D30h",
-        "name": "쵸주로 : C랭△",
+        "name": "쵸주로",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-chojuro.jpg",
         "stuffs": [
           {
@@ -1058,7 +1058,7 @@
       },
       {
         "id": "D20h",
-        "name": "카카시 : 공속4%",
+        "name": "카카시",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/6859047661a783e9035a02.01147227.png",
         "stuffs": [
           {
@@ -1115,7 +1115,7 @@
       },
       {
         "id": "W40h",
-        "name": "쿠레나이 : C랭O",
+        "name": "쿠레나이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-kurenai.jpg",
         "stuffs": [
           {
@@ -1130,7 +1130,7 @@
       },
       {
         "id": "S70h",
-        "name": "쿠시나 : 공속2%",
+        "name": "쿠시나",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-kusina.jpg",
         "stuffs": [
           {
@@ -1214,7 +1214,7 @@
       },
       {
         "id": "080h",
-        "name": "히나타 백안 : 썬클10%",
+        "name": "히나타 백안",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-hinata.jpg",
         "stuffs": [
           {
@@ -1233,7 +1233,7 @@
       },
       {
         "id": "A30h",
-        "name": "히단 : C랭O",
+        "name": "히단",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-hidan.jpg",
         "stuffs": [
           {
@@ -1250,7 +1250,7 @@
     "히든": [
       {
         "id": "E60h",
-        "name": "기린 : A랭●, 썬클15%",
+        "name": "기린",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-sasuke.jpg",
         "stuffs": [
           {
@@ -1269,7 +1269,7 @@
       },
       {
         "id": "O00h",
-        "name": "단조 : 공속8%",
+        "name": "단조",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-danzo.jpg",
         "stuffs": [
           {
@@ -1284,7 +1284,7 @@
       },
       {
         "id": "O40h",
-        "name": "만게츠 : 슬로10%",
+        "name": "만게츠",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-mangetsu.jpg",
         "stuffs": [
           {
@@ -1299,7 +1299,7 @@
       },
       {
         "id": "E30h",
-        "name": "사소리 : A랭●",
+        "name": "사소리",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-sasori.jpg",
         "stuffs": [
           {
@@ -1314,7 +1314,7 @@
       },
       {
         "id": "Y40h",
-        "name": "앙코 : A랭●",
+        "name": "앙코",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-angko.jpg",
         "stuffs": [
           {
@@ -1329,7 +1329,7 @@
       },
       {
         "id": "S60h",
-        "name": "쥬고 : A랭●",
+        "name": "쥬고",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-jugo.jpg",
         "stuffs": [
           {
@@ -1340,7 +1340,7 @@
       },
       {
         "id": "U10h",
-        "name": "쵸지 : A랭●, 썬클15%",
+        "name": "쵸지",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-chogi.jpg",
         "stuffs": [
           {
@@ -1385,7 +1385,7 @@
       },
       {
         "id": "1A0h",
-        "name": "테마리 : A랭●",
+        "name": "테마리",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-temari.jpg",
         "stuffs": [
           {
@@ -1400,7 +1400,7 @@
       },
       {
         "id": "N00h",
-        "name": "토비라마 : A랭●, 슬로10%",
+        "name": "토비라마",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-tobirama.jpg",
         "stuffs": [
           {
@@ -1415,7 +1415,7 @@
       },
       {
         "id": "K00h",
-        "name": "하시라마 : A랭●, 썬클15%",
+        "name": "하시라마",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-hasirama.jpg",
         "stuffs": [
           {
@@ -1432,7 +1432,7 @@
     "인주력": [
       {
         "id": "N20h",
-        "name": "1미 : A랭▲, 마딜",
+        "name": "1미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/171892965861a74fed1d04d9.32860976.png",
         "stuffs": [
           {
@@ -1447,7 +1447,7 @@
       },
       {
         "id": "O20h",
-        "name": "2미 : A랭▲, 혼란10%",
+        "name": "2미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/88879740561a74ff6750da3.06952849.png",
         "stuffs": [
           {
@@ -1462,7 +1462,7 @@
       },
       {
         "id": "P20h",
-        "name": "3미 : A랭▲, 슬로10%",
+        "name": "3미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/16952926961a74ffd916d96.89563287.png",
         "stuffs": [
           {
@@ -1481,7 +1481,7 @@
       },
       {
         "id": "T20h",
-        "name": "4미 : 마딜, 500만(액티브)",
+        "name": "4미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/135225536061a7500acd9f50.67672778.png",
         "stuffs": [
           {
@@ -1496,7 +1496,7 @@
       },
       {
         "id": "W20h",
-        "name": "5미 : 공속8%",
+        "name": "5미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/25327017661a75012b984e3.68612597.png",
         "stuffs": [
           {
@@ -1515,7 +1515,7 @@
       },
       {
         "id": "Z20h",
-        "name": "6미 : 마젠0.2",
+        "name": "6미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/32365756361a75019847301.87534774.png",
         "stuffs": [
           {
@@ -1530,7 +1530,7 @@
       },
       {
         "id": "M20h",
-        "name": "7미 : 마딜",
+        "name": "7미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/194954712061a7502e6e85b2.68041757.png",
         "stuffs": [
           {
@@ -1547,7 +1547,7 @@
     "미수": [
       {
         "id": "220h",
-        "name": "1미 : 마딜 라인, 관통 / [차크라1]",
+        "name": "1미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/126708572861a75046e51ac9.57910697.png",
         "stuffs": [
           {
@@ -1574,7 +1574,7 @@
       },
       {
         "id": "D00h",
-        "name": "2미 : 혼란20%, 물리 라인, 크리2.22",
+        "name": "2미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/190459356361a7505d76c6b7.22984180.png",
         "stuffs": [
           {
@@ -1593,7 +1593,7 @@
       },
       {
         "id": "Q40h",
-        "name": "3미 : 슬로20%, 마딜 라인",
+        "name": "3미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/24855566761a750655be5a8.53158186.png",
         "stuffs": [
           {
@@ -1608,7 +1608,7 @@
       },
       {
         "id": "T40h",
-        "name": "4미 : 보딜, 방무 / [차크라1]",
+        "name": "4미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/72018525361a7506ddf31a1.07525699.png",
         "stuffs": [
           {
@@ -1627,7 +1627,7 @@
       },
       {
         "id": "P40h",
-        "name": "5미 : 공속15%, 마젠0.8, 체젠0.25 (이노,치요겹), 크리5",
+        "name": "5미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/187229048161a75077b35a77.85378405.png",
         "stuffs": [
           {
@@ -1646,7 +1646,7 @@
       },
       {
         "id": "S20h",
-        "name": "6미 : 언홀15%, 마딜 라인",
+        "name": "6미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/166673249161a75080267c00.60305713.png",
         "stuffs": [
           {
@@ -1669,7 +1669,7 @@
       },
       {
         "id": "S40h",
-        "name": "7미 : 보딜",
+        "name": "7미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/194858107861a75088abd2d7.83250917.png",
         "stuffs": [
           {
@@ -1692,7 +1692,7 @@
       },
       {
         "id": "010h",
-        "name": "8미 : 썬클20%, 마딜 라인 / [차크라1]",
+        "name": "8미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/74680568761a7508faa2212.64151656.png",
         "stuffs": [
           {
@@ -1711,7 +1711,7 @@
       },
       {
         "id": "R40h",
-        "name": "9미 : 메홀1.2+0.9",
+        "name": "9미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/66297734761a75096b9b0d6.51276279.png",
         "stuffs": [
           {
@@ -1730,7 +1730,7 @@
       },
       {
         "id": "I40h",
-        "name": "10미 : 물리 보딜, 크리11, 체뻥, 방무 / [차크라1]",
+        "name": "10미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/32530380261a7509eeb8d85.05562716.png",
         "stuffs": [
           {
@@ -1755,7 +1755,7 @@
     "전설": [
       {
         "id": "K50h",
-        "name": "가이 : A랭●",
+        "name": "가이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-mightguy.jpg",
         "stuffs": [
           {
@@ -1774,7 +1774,7 @@
       },
       {
         "id": "R00h",
-        "name": "가마분타 : 슬로10%, 수중",
+        "name": "가마분타",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-gamabunta.jpg",
         "stuffs": [
           {
@@ -1816,7 +1816,7 @@
       },
       {
         "id": "490h",
-        "name": "나루토 6꼬리 : A랭●, 짤스턴0.3",
+        "name": "나루토 6꼬리",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-naruto.jpg",
         "stuffs": [
           {
@@ -1835,7 +1835,7 @@
       },
       {
         "id": "O50h",
-        "name": "네지 : A랭▲, 깍25, 썬클15%",
+        "name": "네지",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/77381250761a633382bae14.85278166.png",
         "stuffs": [
           {
@@ -1854,7 +1854,7 @@
       },
       {
         "id": "960h",
-        "name": "다루이 : 슬로10%",
+        "name": "다루이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-darui.jpg",
         "stuffs": [
           {
@@ -1873,7 +1873,7 @@
       },
       {
         "id": "D40h",
-        "name": "데이다라 : A랭▲, 공중",
+        "name": "데이다라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-daidara.jpg",
         "stuffs": [
           {
@@ -1915,7 +1915,7 @@
       },
       {
         "id": "820h",
-        "name": "미나토 : 블링크",
+        "name": "미나토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-minato.jpg",
         "stuffs": [
           {
@@ -1934,7 +1934,7 @@
       },
       {
         "id": "950h",
-        "name": "사루토비 : A랭●, 썬클15%",
+        "name": "사루토비",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-hiruzen.jpg",
         "stuffs": [
           {
@@ -1953,7 +1953,7 @@
       },
       {
         "id": "630h",
-        "name": "사스케 : A랭●, 깍25(전설 시스이겹)",
+        "name": "사스케",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/79934846461a78059497209.68207097.png",
         "stuffs": [
           {
@@ -1972,7 +1972,7 @@
       },
       {
         "id": "D90h",
-        "name": "시스이 : A랭●, 깍25(전설 사스케겹)",
+        "name": "시스이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/4080145061a633531821a2.50639155.png",
         "stuffs": [
           {
@@ -1987,7 +1987,7 @@
       },
       {
         "id": "A20h",
-        "name": "시카마루 : A랭●, 평타강화3천",
+        "name": "시카마루",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/211826391861a6334892f6a9.25912074.png",
         "stuffs": [
           {
@@ -2006,7 +2006,7 @@
       },
       {
         "id": "B40h",
-        "name": "야마토 : A랭●",
+        "name": "야마토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-yamato.jpg",
         "stuffs": [
           {
@@ -2025,7 +2025,7 @@
       },
       {
         "id": "X10h",
-        "name": "이타치 : A랭●",
+        "name": "이타치",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/139760919161a7804b6feee4.04605264.png",
         "stuffs": [
           {
@@ -2067,7 +2067,7 @@
       },
       {
         "id": "G80h",
-        "name": "지라이야 : A랭●",
+        "name": "지라이야",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-jiraiya.jpg",
         "stuffs": [
           {
@@ -2086,7 +2086,7 @@
       },
       {
         "id": "A40h",
-        "name": "츠나데 : A랭●, 공속9%, 마나회복스킬, 자가마젠 (mp) (공속 도박광 츠나데 겹)",
+        "name": "츠나데",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-senzutsunade.jpg",
         "stuffs": [
           {
@@ -2105,7 +2105,7 @@
       },
       {
         "id": "680h",
-        "name": "카부토 : A랭●",
+        "name": "카부토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-kabuchimaru.jpg",
         "stuffs": [
           {
@@ -2135,7 +2135,7 @@
       },
       {
         "id": "R80h",
-        "name": "쿠시나 : A랭▲, 공속9%",
+        "name": "쿠시나",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-kusina.jpg",
         "stuffs": [
           {
@@ -2154,7 +2154,7 @@
       },
       {
         "id": "X90h",
-        "name": "키미마로 : A랭●",
+        "name": "키미마로",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-kimimaro.jpg",
         "stuffs": [
           {
@@ -2173,7 +2173,7 @@
       },
       {
         "id": "L70h",
-        "name": "킬러비 : A랭●, 썬클15%",
+        "name": "킬러비",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-killerb.jpg",
         "stuffs": [
           {
@@ -2192,7 +2192,7 @@
       },
       {
         "id": "F40h",
-        "name": "토비 : A랭▲, 물리, 블링크",
+        "name": "토비",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/hidden-tobi.jpg",
         "stuffs": [
           {
@@ -2211,7 +2211,7 @@
       },
       {
         "id": "I50h",
-        "name": "한조 : 슬로10%",
+        "name": "한조",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/legend-hanzo.jpg",
         "stuffs": [
           {
@@ -2236,7 +2236,7 @@
     "리미트": [
       {
         "id": "440h",
-        "name": "록리 취권 : 물리 보딜, 크리8.5, 공증400%자버프 (mp) / [차크라1]",
+        "name": "록리 취권",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/156258715561a75f99132f03.12607628.png",
         "stuffs": [
           {
@@ -2255,7 +2255,7 @@
       },
       {
         "id": "H20h",
-        "name": "메카나루토 7610 : 물리 라인, 슬로20%, 500만(액티브,나루토1개소모) (mp) / [차크라1]",
+        "name": "메카나루토 7610",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/154990896561a75fa0e943a4.02833137.png",
         "stuffs": [
           {
@@ -2278,7 +2278,7 @@
       },
       {
         "id": "I20h",
-        "name": "메카나루토 9999 : 보딜, 방무, 0.07%1억뎀 (mp) / [차크라1]",
+        "name": "메카나루토 9999",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/39071640261a75faa224967.69511462.png",
         "stuffs": [
           {
@@ -2301,7 +2301,7 @@
       },
       {
         "id": "475h",
-        "name": "미후네 : 물리 보딜 (mp) / [차크라1]",
+        "name": "미후네",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/139889574161a75fb196d053.27504406.png",
         "stuffs": [
           {
@@ -2324,7 +2324,7 @@
       },
       {
         "id": "470h",
-        "name": "이노 : 공속15%, 마젠0.8, 체젠0.25, 마나회복스킬 (5미,치요겹)",
+        "name": "이노",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/211380686961a75fbc43c3d4.51691807.png",
         "stuffs": [
           {
@@ -2347,7 +2347,7 @@
       },
       {
         "id": "JA0h",
-        "name": "지라이야 : 마딜 라인, 짤스턴0.4, 관통, 체뻥 마나뻥 (mp)",
+        "name": "지라이야",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/68236422864310a6f1d6091.16676628.png",
         "stuffs": [
           {
@@ -2370,7 +2370,7 @@
       },
       {
         "id": "H80h",
-        "name": "츠나데 : 공속15%, 파쿤,나무1~80 ※확률극악※ (공속 전설 츠나데 겹)",
+        "name": "츠나데",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/194674309261a75fc46cc1c1.78724538.png",
         "stuffs": [
           {
@@ -2389,7 +2389,7 @@
       },
       {
         "id": "F70h",
-        "name": "카카시 : ♠깍50(미미겹), 메홀0.8+0.9, 방무 / [차크라1]",
+        "name": "카카시",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/165122305261a783d57bb7a0.21954185.png",
         "stuffs": [
           {
@@ -2412,7 +2412,7 @@
       },
       {
         "id": "M50h",
-        "name": "카쿠즈 : 보딜, 방무, 소환수, 1.35%5골드 / [차크라1]",
+        "name": "카쿠즈",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/213730972161a75fd53b5ec8.41195292.png",
         "stuffs": [
           {
@@ -2443,7 +2443,7 @@
       },
       {
         "id": "B70h",
-        "name": "칸쿠로 : 물리 보딜, 크리36 / [차크라1]",
+        "name": "칸쿠로",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/95006100161a75fdc644500.79966376.png",
         "stuffs": [
           {
@@ -2468,7 +2468,7 @@
     "엘리트": [
       {
         "id": "Y50h",
-        "name": "가리 : 메홀0.8+1.2 / [차크라1]",
+        "name": "가리",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/123913402761a75f5c6a7f88.40770329.png",
         "stuffs": [
           {
@@ -2483,7 +2483,7 @@
       },
       {
         "id": "D50h",
-        "name": "구렌 : ♠깍50(코난겹), 짤스턴0.5, 방무",
+        "name": "구렌",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-guren.png",
         "stuffs": [
           {
@@ -2506,7 +2506,7 @@
       },
       {
         "id": "M00h",
-        "name": "긴카쿠 : 마딜 라인, 즉사1.5%",
+        "name": "긴카쿠",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/7336264296497917d7b6dd2.93635348.png",
         "stuffs": [
           {
@@ -2525,7 +2525,7 @@
       },
       {
         "id": "580h",
-        "name": "메이 : ♠깍50(하쿠겹), 혼란20%, 방무",
+        "name": "메이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-terumimay.jpg",
         "stuffs": [
           {
@@ -2540,7 +2540,7 @@
       },
       {
         "id": "640h",
-        "name": "사이 : ♠깍25(외도겹), 보딜, 짤스턴0.5, 공중이동, 방무",
+        "name": "사이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/167846477861a75f67539941.76248425.png",
         "stuffs": [
           {
@@ -2559,7 +2559,7 @@
       },
       {
         "id": "M60h",
-        "name": "야마타의술 : ♠깍50(이타치겹), 혼란20%, 수중이동",
+        "name": "야마타의술",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-orochi.png",
         "stuffs": [
           {
@@ -2578,7 +2578,7 @@
       },
       {
         "id": "L60h",
-        "name": "외도마상 : ♠깍25(사이겹), 짤스턴0.5",
+        "name": "외도마상",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-whedo.jpg",
         "stuffs": [
           {
@@ -2597,7 +2597,7 @@
       },
       {
         "id": "540h",
-        "name": "이노시카쵸 : ♠깍50(키바겹), 공속5%, 평타강화4천, 방무 / [차크라1]",
+        "name": "이노시카쵸",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/17005656661a75f6fb09279.79660508.png",
         "stuffs": [
           {
@@ -2616,7 +2616,7 @@
       },
       {
         "id": "H90h",
-        "name": "이타치 : ♠깍50(야마타겹), 혼란15%, 방무 (mp)",
+        "name": "이타치",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-isusa.jpg",
         "stuffs": [
           {
@@ -2631,7 +2631,7 @@
       },
       {
         "id": "G70h",
-        "name": "치요 : 공속15%, 마젠0.8, 체젠0.25, 체뻥 (5미,이노겹)",
+        "name": "치요",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-chiyo.jpg",
         "stuffs": [
           {
@@ -2650,7 +2650,7 @@
       },
       {
         "id": "J50h",
-        "name": "카카시 : ♠깍50, 짤스턴0.5, 방무, 블링크",
+        "name": "카카시",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/148882041861a7803866c1c2.62403318.png",
         "stuffs": [
           {
@@ -2669,7 +2669,7 @@
       },
       {
         "id": "C50h",
-        "name": "코난 : ♠깍50(구렌겹), 짤스턴0.6, 공중이동, 방무",
+        "name": "코난",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-konan.jpg",
         "stuffs": [
           {
@@ -2688,7 +2688,7 @@
       },
       {
         "id": "850h",
-        "name": "키바 : ♠깍50(시카쵸겹), 보딜, 방무, 분신술 (mp) / [차크라1]",
+        "name": "키바",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-kiba.jpg",
         "stuffs": [
           {
@@ -2703,7 +2703,7 @@
       },
       {
         "id": "T00h",
-        "name": "킨카쿠 : 마딜 보딜, 마젠0.6, 공속15%",
+        "name": "킨카쿠",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/497730545649792319d7366.42768175.png",
         "stuffs": [
           {
@@ -2722,7 +2722,7 @@
       },
       {
         "id": "F50h",
-        "name": "하쿠 : ♠깍50(메이겹), 혼란20%, 방무",
+        "name": "하쿠",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-haku.jpg",
         "stuffs": [
           {
@@ -2739,7 +2739,7 @@
     "인피니티": [
       {
         "id": "370h",
-        "name": "가아라 : 마딜, 현체3%, 관통, 공중이동, 크리10 (mp)",
+        "name": "가아라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/14758348161a76139330402.66601457.png",
         "stuffs": [
           {
@@ -2758,7 +2758,7 @@
       },
       {
         "id": "L40h",
-        "name": "가이 : ♠깍10(토네리,유일무이,히나타겹,하무라), 물리 / [차크라1]",
+        "name": "가이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/130574176961a7613f12c851.36176378.png",
         "stuffs": [
           {
@@ -2773,7 +2773,7 @@
       },
       {
         "id": "030h",
-        "name": "나루토 : 메홀1.3+0.8, 반마딜, 블링크 / [차크라1]",
+        "name": "나루토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/130266753561a76146767194.42356800.png",
         "stuffs": [
           {
@@ -2788,7 +2788,7 @@
       },
       {
         "id": "A50h",
-        "name": "마다라 : 깍없어지고 보딜, 방무 (mp) / [차크라1]",
+        "name": "마다라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/12028085061a7614d6d39d3.33263505.png",
         "stuffs": [
           {
@@ -2803,7 +2803,7 @@
       },
       {
         "id": "I70h",
-        "name": "마다라 스사노오 : 마딜, 고유이감5%(위장스사겹) 전맵범위, 체뻥소환 / [차크라1]",
+        "name": "마다라 스사노오",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/167512302461a76154a3fb68.91314055.png",
         "stuffs": [
           {
@@ -2818,7 +2818,7 @@
       },
       {
         "id": "C70h",
-        "name": "모모시키 : ♠깍20, 마딜, 유카당뎀퍼증, 블링크",
+        "name": "모모시키",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/161935386161a7615a5da379.14314823.png",
         "stuffs": [
           {
@@ -2833,7 +2833,7 @@
       },
       {
         "id": "230h",
-        "name": "사스케 : ♠깍53, 메홀1.2, 변신후 메홀1.2+0.8, 방무",
+        "name": "사스케",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/12895658961a7800971d1a4.24493945.png",
         "stuffs": [
           {
@@ -2848,7 +2848,7 @@
       },
       {
         "id": "IA0h",
-        "name": "사쿠라 : 마젠0.6, 체젠0.7, 공속20% (공속 나가토 겹)",
+        "name": "사쿠라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/95956860664310d59b4e022.28793367.png",
         "stuffs": [
           {
@@ -2879,7 +2879,7 @@
       },
       {
         "id": "430h",
-        "name": "시스이 : ♠깍53, 메홀1.2+0.8, 방무",
+        "name": "시스이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/125043187461a7616a1baaa2.44650699.png",
         "stuffs": [
           {
@@ -2894,7 +2894,7 @@
       },
       {
         "id": "840h",
-        "name": "오비토 : ♠깍53, 공속23%, 짤스턴0.7, 블링크, 방무",
+        "name": "오비토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/124682921261a761734e1e93.83702719.png",
         "stuffs": [
           {
@@ -2909,7 +2909,7 @@
       },
       {
         "id": "530h",
-        "name": "이타치 : ♠깍53, 혼란20%, 방무",
+        "name": "이타치",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/41522335461a7617a30b3d1.96969885.png",
         "stuffs": [
           {
@@ -2924,7 +2924,7 @@
       },
       {
         "id": "B30h",
-        "name": "카카시 : ♠깍53(하나비겹), 짤스턴0.7, 블링크, 방무, 삭제0.5%",
+        "name": "카카시",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/191137132961a7618ac1a587.95694135.png",
         "stuffs": [
           {
@@ -2939,7 +2939,7 @@
       },
       {
         "id": "360h",
-        "name": "토네리 : ♠깍10(가이,유일무이,히나타겹,하무라), 물리, 블링크 (mp) / [차크라1]",
+        "name": "토네리",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/8228950561a76191059791.35448655.png",
         "stuffs": [
           {
@@ -2954,7 +2954,7 @@
       },
       {
         "id": "T70h",
-        "name": "하나비 : ♠깍53(카카시겹), 짤스턴0.7, 매라20초 모든라인 방무300만, 방무 / [차크라1]",
+        "name": "하나비",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/42850853861a7619703bad0.56962929.png",
         "stuffs": [
           {
@@ -2977,7 +2977,7 @@
       },
       {
         "id": "E90h",
-        "name": "히나타 : ♠깍10(가이,토네리,유일무이겹,하무라), 물리 (mp) / [차크라1]",
+        "name": "히나타",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/5178215336298b1fd5fd236.65710994.png",
         "stuffs": [
           {
@@ -2994,7 +2994,7 @@
     "창조": [
       {
         "id": "D80h",
-        "name": "모모시키 천인 : ♠깍20(일족겹), 보딜, 즉사(보스도ok), 5000만(액티브,평타10%증가), 게임당1기만조합가능, 블링크",
+        "name": "모모시키 천인",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/18361325396208d7f9f1ee47.40842038.png",
         "stuffs": [
           {
@@ -3013,7 +3013,7 @@
       },
       {
         "id": "T10h",
-        "name": "아수라 : 마딜, 메홀1.3+0.8, 공속20%, 방무, 평타강화7천 (mp)",
+        "name": "아수라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/149373887961a6385d7cf3a5.47064552.png",
         "stuffs": [
           {
@@ -3032,7 +3032,7 @@
       },
       {
         "id": "A90h",
-        "name": "위장스사 : ♠깍53(오비토겹), ♠깍10(가이,토네리,히나타겹,하무라), 메홀1.2, 고유이감10%(마다라스사겹), 체뻥즉사, 미수1당증뎀2%, 700만+전체4%(액티브), 방무, 미수당5%추뎀, 블링크, 게임당1기만",
+        "name": "위장스사",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/121100656261a6382eb977d1.10543249.png",
         "stuffs": [
           {
@@ -3051,7 +3051,7 @@
       },
       {
         "id": "R10h",
-        "name": "인드라 : ♠깍53(사스겹), 메홀1.2+0.8, 마딜, 방무, 현체1% (mp) / [차크라3]",
+        "name": "인드라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/84792369161a638749c6a58.14004707.png",
         "stuffs": [
           {
@@ -3070,7 +3070,7 @@
       },
       {
         "id": "940h",
-        "name": "카구야 : 마딜 물리, 즉사, 10초당 라인뎀, 게임당1기만, 블링크 (mp)",
+        "name": "카구야",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/169872702361a76180ae5879.50718263.png",
         "stuffs": [
           {
@@ -3089,7 +3089,7 @@
       },
       {
         "id": "M90h",
-        "name": "하고로모 : 크리1.5, 에픽~창조조합뎀증1~15만, 미션공속증가1~50%, 마나뻥750만+3%체퍼뎀, 미션뎀증900~12만 (mp)",
+        "name": "하고로모",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/34443641963d27891c35336.28403954.png",
         "stuffs": [
           {
@@ -3108,7 +3108,7 @@
       },
       {
         "id": "O90h",
-        "name": "하무라 : ♠깍10(가이,토네리,유일무이,히나타겹), 물딜, 미션공속증가1~50%, 크리4, 보유골드당뎀증100골당2.5%max50% / [차크라2]",
+        "name": "하무라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/37162047963d27b25deb000.43273723.png",
         "stuffs": [
           {
@@ -3129,7 +3129,7 @@
     "에픽": [
       {
         "id": "Z50h",
-        "name": "3대 킬러A : 보딜, 방무 / [차크라1]",
+        "name": "3대 킬러A",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/131606163961a641c40a5882.72873749.png",
         "stuffs": [
           {
@@ -3144,7 +3144,7 @@
       },
       {
         "id": "980h",
-        "name": "4대 킬러A : 마딜, 썬클20% / [차크라1]",
+        "name": "4대 킬러A",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-killera.jpg",
         "stuffs": [
           {
@@ -3163,7 +3163,7 @@
       },
       {
         "id": "200h",
-        "name": "가마키치 : 마딜, 슬로20% (mp) / [차크라1]",
+        "name": "가마키치",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/177833239261a641cea790e6.77433404.png",
         "stuffs": [
           {
@@ -3182,7 +3182,7 @@
       },
       {
         "id": "A80h",
-        "name": "가아라 : 마딜, 현체2%, 관통, 공중이동 (mp) / [차크라1]",
+        "name": "가아라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/82172628461a641d755c012.79786028.png",
         "stuffs": [
           {
@@ -3201,7 +3201,7 @@
       },
       {
         "id": "E40h",
-        "name": "가이 : 물리 (mp)",
+        "name": "가이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/151212987461a641e8925424.82894200.png",
         "stuffs": [
           {
@@ -3224,7 +3224,7 @@
       },
       {
         "id": "L80h",
-        "name": "겐게츠 : 물리 라인, 썬클30% / [차크라1]",
+        "name": "겐게츠",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/71307932861a641f11bf6d2.26298018.png",
         "stuffs": [
           {
@@ -3247,7 +3247,7 @@
       },
       {
         "id": "C30h",
-        "name": "나가토 : 공속20%, 마젠0.6, 체젠0.7 (공속 인피사쿠라 겹)",
+        "name": "나가토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/16506062161a641f952d989.34340228.png",
         "stuffs": [
           {
@@ -3270,7 +3270,7 @@
       },
       {
         "id": "050h",
-        "name": "나루토미수화 : 메홀0.3+1, 블링크 [차크라1]",
+        "name": "나루토미수화",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-narutomisu.jpg",
         "stuffs": [
           {
@@ -3289,7 +3289,7 @@
       },
       {
         "id": "Y80h",
-        "name": "나루토선인 : 마딜, 언홀15% / [차크라1]",
+        "name": "나루토선인",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-narutosunin.jpg",
         "stuffs": [
           {
@@ -3308,7 +3308,7 @@
       },
       {
         "id": "C90h",
-        "name": "단조 : 보딜, 체뻥 / [차크라1]",
+        "name": "단조",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/162527477561a6420546b3a6.69566477.png",
         "stuffs": [
           {
@@ -3331,7 +3331,7 @@
       },
       {
         "id": "L50h",
-        "name": "라사 : 마딜, 언홀15%, 관통 / [차크라1]",
+        "name": "라사",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/149753672861a6420d436843.60092129.png",
         "stuffs": [
           {
@@ -3354,7 +3354,7 @@
       },
       {
         "id": "X30h",
-        "name": "마다라 : ♠깍110, 삭제1%(익스,이자0.5%), 블링크, 방무",
+        "name": "마다라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-madara.jpg",
         "stuffs": [
           {
@@ -3373,7 +3373,7 @@
       },
       {
         "id": "H70h",
-        "name": "마다라 스사노오 : 마딜, 체뻥",
+        "name": "마다라 스사노오",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/93822657461a64217d32b64.52472450.png",
         "stuffs": [
           {
@@ -3396,7 +3396,7 @@
       },
       {
         "id": "870h",
-        "name": "모모시키 : ♠깍10, 마딜",
+        "name": "모모시키",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/19004691861a642211cd787.86577013.png",
         "stuffs": [
           {
@@ -3415,7 +3415,7 @@
       },
       {
         "id": "740h",
-        "name": "무우 : 마딜, 공중이동, 분신술 (mp) / [차크라1]",
+        "name": "무우",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/59559747361a64229b67a49.12629274.png",
         "stuffs": [
           {
@@ -3434,7 +3434,7 @@
       },
       {
         "id": "X20h",
-        "name": "미나토 : ♠깍50(카리겹), 메홀1.2+0.4, 삭제, 블링크, 방무 / [차크라1]",
+        "name": "미나토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-minato.jpg",
         "stuffs": [
           {
@@ -3453,7 +3453,7 @@
       },
       {
         "id": "RA0h",
-        "name": "미츠키 : 마딜 보딜 (mp)",
+        "name": "미츠키",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/181053071364854c441d0876.31159591.png",
         "stuffs": [
           {
@@ -3476,7 +3476,7 @@
       },
       {
         "id": "M80h",
-        "name": "사루토비 : 마딜, 썬클25% / [차크라1]",
+        "name": "사루토비",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-sarutobi.jpg",
         "stuffs": [
           {
@@ -3495,7 +3495,7 @@
       },
       {
         "id": "V50h",
-        "name": "사스케 : ♠깍50(시스겹), 메홀1.8+0.6, 방무",
+        "name": "사스케",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/86035477761a642345f9b53.94852678.png",
         "stuffs": [
           {
@@ -3514,7 +3514,7 @@
       },
       {
         "id": "Y60h",
-        "name": "사스케 : 보딜, 블링크 (mp) / [차크라1]",
+        "name": "사스케",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/27169360961a7801bbda144.97338181.png",
         "stuffs": [
           {
@@ -3537,7 +3537,7 @@
       },
       {
         "id": "9B0h",
-        "name": "사쿠라 : 공속10%, 공증45%, 마나회복스킬 (mp)",
+        "name": "사쿠라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/26306922761a6424555d8b4.38088358.png",
         "stuffs": [
           {
@@ -3560,7 +3560,7 @@
       },
       {
         "id": "L00h",
-        "name": "시스이 : ♠깍50(사스겹), 메홀1.1+0.7, 방무",
+        "name": "시스이",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/111161799961a6424ca937e8.33674147.png",
         "stuffs": [
           {
@@ -3579,7 +3579,7 @@
       },
       {
         "id": "160h",
-        "name": "오로치마루 : 보딜 (mp) / [차크라1]",
+        "name": "오로치마루",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-orochi.png",
         "stuffs": [
           {
@@ -3598,7 +3598,7 @@
       },
       {
         "id": "Q10h",
-        "name": "오비토 : ♠깍50, 공속20%, 짤스턴0.7, 방무",
+        "name": "오비토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-obito.jpg",
         "stuffs": [
           {
@@ -3617,7 +3617,7 @@
       },
       {
         "id": "G90h",
-        "name": "오비토 지옥 : 보딜, 적kill목재1(라인5%,보스100%) (mp) / [차크라1]",
+        "name": "오비토 지옥",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/1441912404633c53b74ac842.33491654.png",
         "stuffs": [
           {
@@ -3636,7 +3636,7 @@
       },
       {
         "id": "0A0h",
-        "name": "오오노키 : 마딜, 관통, 공중이동 / [차크라1]",
+        "name": "오오노키",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-oonoki.jpg",
         "stuffs": [
           {
@@ -3655,7 +3655,7 @@
       },
       {
         "id": "830h",
-        "name": "제츠 : 보딜, 체뻥방무 / [차크라1]",
+        "name": "제츠",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/84386968161e6bc8d3079b8.09787743.png",
         "stuffs": [
           {
@@ -3682,7 +3682,7 @@
       },
       {
         "id": "976h",
-        "name": "카부토 : 짤스턴0.3, 공증45%, 공속7% (mp)",
+        "name": "카부토",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/22590572461a642581f9ae9.12589544.png",
         "stuffs": [
           {
@@ -3701,7 +3701,7 @@
       },
       {
         "id": "HB0h",
-        "name": "카카시 : 마딜, 짤스턴0.4, 관통, 체뻥 / [차크라1]",
+        "name": "카카시",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/6702326061a6426d786e73.91692344.png",
         "stuffs": [
           {
@@ -3720,7 +3720,7 @@
       },
       {
         "id": "Z60h",
-        "name": "쿠시나 : 마딜, 슬로15% (mp) / [차크라1]",
+        "name": "쿠시나",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/56905247661a642782a7ef1.49045764.png",
         "stuffs": [
           {
@@ -3743,7 +3743,7 @@
       },
       {
         "id": "730h",
-        "name": "키사메 : 마딜, 썬클20%, 관통 (mp) / [차크라1]",
+        "name": "키사메",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/elite-kisame.jpg",
         "stuffs": [
           {
@@ -3762,7 +3762,7 @@
       },
       {
         "id": "070h",
-        "name": "테루미 : 마딜, 언홀15% (mp) / [차크라1]",
+        "name": "테루미",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/166342017161a642827fa9d0.52752784.png",
         "stuffs": [
           {
@@ -3781,7 +3781,7 @@
       },
       {
         "id": "170h",
-        "name": "텐텐 : 마딜, 짤스턴0.4, 관통 / [차크라1]",
+        "name": "텐텐",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/8092111665e7f76a7311a64.30064291.png",
         "stuffs": [
           {
@@ -3800,7 +3800,7 @@
       },
       {
         "id": "260h",
-        "name": "토네리 : 마딜, 블링크, 관통 (mp) / [차크라1]",
+        "name": "토네리",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/123990300061a6428c7e5cc7.04858601.png",
         "stuffs": [
           {
@@ -3823,7 +3823,7 @@
       },
       {
         "id": "590h",
-        "name": "토비라마 : 보딜, 400만(액티브), 체뻥, 블링크 / [차크라2]",
+        "name": "토비라마",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/77229607761a64298626f49.60484925.png",
         "stuffs": [
           {
@@ -3842,7 +3842,7 @@
       },
       {
         "id": "770h",
-        "name": "파쿠라 : 마딜, 짤스턴0.4, 관통, 체뻥 / [차크라1]",
+        "name": "파쿠라",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/106301656861a642a4d91af9.28009343.png",
         "stuffs": [
           {
@@ -3861,7 +3861,7 @@
       },
       {
         "id": "780h",
-        "name": "하시라마 : 마딜 보딜, 슬로15%, 체뻥소환수 / [차크라1]",
+        "name": "하시라마",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-hasirama.png",
         "stuffs": [
           {
@@ -3884,7 +3884,7 @@
       },
       {
         "id": "8B0h",
-        "name": "히나타 : 물리 라인, 썬클30%",
+        "name": "히나타",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/9747350405e7f7aa927d1d0.95542984.png",
         "stuffs": [
           {
@@ -3903,7 +3903,7 @@
       },
       {
         "id": "810h",
-        "name": "히단 : 물리 보딜, 자해 (체뻥, 물뎀2000만 hp10소모 체력자가회복X) / [차크라1]",
+        "name": "히단",
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/epic-hidan.jpg",
         "stuffs": [
           {
