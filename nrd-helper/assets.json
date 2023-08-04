@@ -127,7 +127,7 @@
             "count": 1
           },
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           }
         ]
@@ -153,7 +153,7 @@
             "count": 1
           },
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           }
         ]
@@ -230,7 +230,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/rare-manda.jpg",
         "stuffs": [
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           },
           {
@@ -373,7 +373,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/214454253561a62c1f3adf37.98104475.png",
         "stuffs": [
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           },
           {
@@ -423,7 +423,7 @@
             "count": 1
           },
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           }
         ]
@@ -461,7 +461,7 @@
             "count": 1
           },
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           }
         ]
@@ -476,7 +476,7 @@
             "count": 1
           },
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           }
         ]
@@ -502,7 +502,7 @@
             "count": 1
           },
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           },
           {
@@ -521,7 +521,7 @@
             "count": 2
           },
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           },
           {
@@ -639,7 +639,6 @@
         ]
       }
     ],
-    "": [],
     "유니크": [
       {
         "id": "B20h",
@@ -647,7 +646,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-gaara.jpg",
         "stuffs": [
           {
-            "id": "B20h",
+            "id": "S00h",
             "count": 1
           },
           {
@@ -705,7 +704,7 @@
             "count": 1
           },
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           }
         ]
@@ -743,7 +742,7 @@
             "count": 1
           },
           {
-            "id": "B20h",
+            "id": "S00h",
             "count": 1
           },
           {
@@ -830,7 +829,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-sai.png",
         "stuffs": [
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           },
           {
@@ -838,7 +837,7 @@
             "count": 1
           },
           {
-            "id": "060h",
+            "id": "W50h",
             "count": 1
           }
         ]
@@ -891,7 +890,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-enma.jpg",
         "stuffs": [
           {
-            "id": "B20h",
+            "id": "S00h",
             "count": 1
           },
           {
@@ -903,7 +902,7 @@
             "count": 1
           },
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           }
         ]
@@ -914,7 +913,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-orochi.jpg",
         "stuffs": [
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           },
           {
@@ -949,7 +948,7 @@
             "count": 1
           },
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           },
           {
@@ -968,7 +967,7 @@
             "count": 1
           },
           {
-            "id": "G20h",
+            "id": "S10h",
             "count": 1
           },
           {
@@ -976,7 +975,7 @@
             "count": 1
           },
           {
-            "id": "P90h",
+            "id": "600h",
             "count": 1
           }
         ]
@@ -1014,7 +1013,7 @@
             "count": 1
           },
           {
-            "id": "G20h",
+            "id": "S10h",
             "count": 1
           }
         ]
@@ -1033,7 +1032,7 @@
             "count": 1
           },
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           }
         ]
@@ -1048,7 +1047,7 @@
             "count": 1
           },
           {
-            "id": "G20h",
+            "id": "S10h",
             "count": 1
           },
           {
@@ -1086,7 +1085,7 @@
             "count": 1
           },
           {
-            "id": "620h",
+            "id": "520h",
             "count": 1
           }
         ]
@@ -1097,7 +1096,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-kankuro.jpg",
         "stuffs": [
           {
-            "id": "060h",
+            "id": "W50h",
             "count": 1
           },
           {
@@ -1139,7 +1138,7 @@
             "count": 1
           },
           {
-            "id": "060h",
+            "id": "W50h",
             "count": 1
           },
           {
@@ -1181,7 +1180,7 @@
             "count": 1
           },
           {
-            "id": "Y90h",
+            "id": "420h",
             "count": 1
           },
           {
@@ -1238,7 +1237,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1/nrd/unique-hidan.jpg",
         "stuffs": [
           {
-            "id": "620h",
+            "id": "520h",
             "count": 1
           },
           {
@@ -1475,7 +1474,7 @@
             "count": 1
           },
           {
-            "id": "G20h",
+            "id": "S10h",
             "count": 1
           }
         ]
@@ -1509,7 +1508,7 @@
             "count": 1
           },
           {
-            "id": "G20h",
+            "id": "S10h",
             "count": 1
           }
         ]
@@ -2186,7 +2185,7 @@
             "count": 1
           },
           {
-            "id": "G20h",
+            "id": "S10h",
             "count": 1
           }
         ]
@@ -2417,7 +2416,7 @@
         "image": "http://sions.kr/data/file/mk_helper_thumb/1799/213730972161a75fd53b5ec8.41195292.png",
         "stuffs": [
           {
-            "id": "620h",
+            "id": "520h",
             "count": 1
           },
           {
@@ -3348,7 +3347,7 @@
             "count": 1
           },
           {
-            "id": "060h",
+            "id": "W50h",
             "count": 1
           }
         ]
