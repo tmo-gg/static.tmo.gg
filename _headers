@@ -1,0 +1,8 @@
+https://www.tmo.gg/*
+  Access-Control-Allow-Origin: https://www.tmo.gg
+
+http://localhost:3000/*
+  Access-Control-Allow-Origin: http://localhost:3000
+
+/*
+  Access-Control-Allow-Origin: https://tmo.gg
