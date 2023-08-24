@@ -5046,55 +5046,6 @@
             "count": 5
           }
         ]
-      },
-      {
-        "id": "750h",
-        "name": "비비",
-        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/viviet.webp",
-        "commands": [
-          "파이러츠왕녀",
-          "vivi et"
-        ],
-        "abilities": {
-          "끝딜": 0,
-          "세이브": 25,
-          "바제스": true
-        },
-        "desc": "마나스킬(끝딜 16, 스턴 2)\n특강3(마나스킬 강화)\n바제스 클리어 가능",
-        "stuffs": [
-          {
-            "id": "F50h",
-            "count": 1
-          },
-          {
-            "id": "W50h",
-            "count": 1
-          },
-          {
-            "id": "S10h",
-            "count": 1
-          },
-          {
-            "id": "X10h",
-            "count": 1
-          },
-          {
-            "id": "S00h",
-            "count": 1
-          },
-          {
-            "id": "G10h",
-            "count": 1
-          },
-          {
-            "id": "LUMBER",
-            "count": 5
-          },
-          {
-            "id": "B80h",
-            "count": 1
-          }
-        ]
       }
     ],
     "영원 [마딜]": [
@@ -5323,6 +5274,55 @@
           {
             "id": "LUMBER",
             "count": 5
+          }
+        ]
+      },
+      {
+        "id": "750h",
+        "name": "비비",
+        "image": "https://raw.githubusercontent.com/PONEGLY-PH/static.ponegly.ph/main/ord-helper/images/viviet.webp",
+        "commands": [
+          "파이러츠왕녀",
+          "vivi et"
+        ],
+        "abilities": {
+          "끝딜": 0,
+          "세이브": 25,
+          "바제스": true
+        },
+        "desc": "마나스킬(끝딜 16, 스턴 2)\n특강3(마나스킬 강화)\n바제스 클리어 가능",
+        "stuffs": [
+          {
+            "id": "F50h",
+            "count": 1
+          },
+          {
+            "id": "W50h",
+            "count": 1
+          },
+          {
+            "id": "S10h",
+            "count": 1
+          },
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "S00h",
+            "count": 1
+          },
+          {
+            "id": "G10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          },
+          {
+            "id": "B80h",
+            "count": 1
           }
         ]
       }
