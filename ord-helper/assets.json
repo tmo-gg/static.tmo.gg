@@ -3152,6 +3152,33 @@
         ]
       },
       {
+        "아이디" : " S001 " ,
+        "name" : " 스튜시 " ,
+        "이미지" : " https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/stussy.png " ,
+        "명령어" : [
+          " 스튜시조합 " ,
+          " 스터시 "
+        ],
+        "능력" : {
+          "단일" : 0.5
+        },
+        "desc" : " 1500블링크 " ,
+        "물건들" : [
+          {
+            "아이디" : " 320h " ,
+            "카운트" : 1
+          },
+          {
+            "아이디" : " 820h " ,
+            "카운트" : 1
+          },
+          {
+            "아이디" : " 720h " ,
+            "카운트" : 1
+          }
+        ]
+      },
+      {
         "id": "J30h",
         "name": "시류",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shiryu.webp",
