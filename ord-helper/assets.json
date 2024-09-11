@@ -3152,6 +3152,33 @@
         ]
       },
       {
+        "id": "S01h",
+        "name": "스튜시",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/stussy.png",
+        "commands": [
+          "스튜시조합",
+          "stussy"
+        ],
+        "abilities": {
+          "단일": 0.5
+        },
+        "desc": "1500블링크",
+        "stuffs": [
+          {
+            "id": "320h",
+            "count": 1
+          },
+          {
+            "id": "820h",
+            "count": 1
+          },
+          {
+            "id": "720h",
+            "count": 1
+          }
+        ]
+      },
+      {
         "id": "J30h",
         "name": "시류",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shiryu.webp",
