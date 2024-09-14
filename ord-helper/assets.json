@@ -2744,10 +2744,7 @@
           "공격력 증가": 55
         },
         "desc": "방어력 감소(방깎): 20\n공격력 증가(공증): 55\n광폭화 추가 대미지",
-        "commands": [
-          "레드포스호조합",
-          "redforce"
-        ],
+        "commands": ["레드포스호조합", "redforce"],
         "stuffs": [
           {
             "id": "530h",
@@ -2767,10 +2764,7 @@
         "id": "Q30h",
         "name": "모비딕호",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/mobydick.webp",
-        "commands": [
-          "모비딕호조합",
-          "mobydick"
-        ],
+        "commands": ["모비딕호조합", "mobydick"],
         "abilities": {
           "이동속도 감소": 33,
           "체력 재생": 1.25
@@ -2799,10 +2793,7 @@
         "id": "R30h",
         "name": "반 더 데켄",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/decken.webp",
-        "commands": [
-          "반더데켄조합",
-          "decken"
-        ],
+        "commands": ["반더데켄조합", "decken"],
         "abilities": {
           "바제스": true
         },
@@ -2830,10 +2821,7 @@
         "id": "P30h",
         "name": "발라티에",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/baratie.webp",
-        "commands": [
-          "발라티에조합",
-          "baratie"
-        ],
+        "commands": ["발라티에조합", "baratie"],
         "abilities": {
           "공격속도 증가": 22
         },
@@ -2857,10 +2845,7 @@
         "id": "X30h",
         "name": "방주맥심",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/maxim.webp",
-        "commands": [
-          "방주맥심조합",
-          "maxim"
-        ],
+        "commands": ["방주맥심조합", "maxim"],
         "abilities": {
           "마법 방어력 감소": true,
           "폭발형 대미지 증폭": true,
@@ -2890,10 +2875,7 @@
         "id": "L30h",
         "name": "써니호",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sunny.webp",
-        "commands": [
-          "써니호조합",
-          "sunny"
-        ],
+        "commands": ["써니호조합", "sunny"],
         "desc": "보스, 광폭화 유닛 타겟팅 시 첫 회에 어흥포 스킬 시전(광폭화면 전체 체력 45% 추가 마법 대미지)\n어흥포 시전 시 스턴 단일 3초, 600 범위 3초, 저항 70% 무시 (마나 100 소모)",
         "stuffs": [
           {
@@ -2916,10 +2898,7 @@
         "id": "T30h",
         "name": "레베카",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/rebecca.webp",
-        "commands": [
-          "레베카조합",
-          "rebecca"
-        ],
+        "commands": ["레베카조합", "rebecca"],
         "abilities": {
           "방어력 감소": 18
         },
@@ -2943,10 +2922,7 @@
         "id": "N30h",
         "name": "료쿠규",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/aramaki.webp",
-        "commands": [
-          "료쿠규조합",
-          "ryokugyu"
-        ],
+        "commands": ["료쿠규조합", "ryokugyu"],
         "abilities": {
           "방어력 감소": 25,
           "발동이동속도 감소": 12,
@@ -2976,10 +2952,7 @@
         "id": "340h",
         "name": "미호크",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/mihawk.webp",
-        "commands": [
-          "검호조합",
-          "mihawk"
-        ],
+        "commands": ["검호조합", "mihawk"],
         "abilities": {
           "방어력 감소": 25
         },
@@ -3003,10 +2976,7 @@
         "id": "W30h",
         "name": "베르고",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/vergo.webp",
-        "commands": [
-          "베르고조합",
-          "vergo"
-        ],
+        "commands": ["베르고조합", "vergo"],
         "abilities": {
           "아머브레이크": 0
         },
@@ -3034,10 +3004,7 @@
         "id": "M30h",
         "name": "사보",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sabo.webp",
-        "commands": [
-          "사보조합",
-          "sabo"
-        ],
+        "commands": ["사보조합", "sabo"],
         "abilities": {
           "이동속도 감소": 18,
           "방어력 감소": 20,
@@ -3063,10 +3030,7 @@
         "id": "V30h",
         "name": "코알라",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/koala.webp",
-        "commands": [
-          "코알라조합",
-          "koala"
-        ],
+        "commands": ["코알라조합", "koala"],
         "abilities": {
           "마나 재생": 3.25,
           "보조딜": 0
@@ -3095,10 +3059,7 @@
         "id": "540h",
         "name": "킬러",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/killer.webp",
-        "commands": [
-          "킬러조합",
-          "killer"
-        ],
+        "commands": ["킬러조합", "killer"],
         "abilities": {
           "방어력 감소": 12
         },
@@ -3128,10 +3089,7 @@
         "id": "440h",
         "name": "류마",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ryuma.webp",
-        "commands": [
-          "류마조합",
-          "ryuma"
-        ],
+        "commands": ["류마조합", "ryuma"],
         "abilities": {
           "단일": 1
         },
@@ -3155,10 +3113,7 @@
         "id": "J30h",
         "name": "시류",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shiryu.webp",
-        "commands": [
-          "시류조합",
-          "shiryu"
-        ],
+        "commands": ["시류조합", "shiryu"],
         "abilities": {
           "끝딜": 0
         },
@@ -3182,10 +3137,7 @@
         "id": "Z30h",
         "name": "아카이누",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/akainu.webp",
-        "commands": [
-          "아카이누조합",
-          "akainu"
-        ],
+        "commands": ["아카이누조합", "akainu"],
         "abilities": {
           "바제스": true
         },
@@ -3213,10 +3165,7 @@
         "id": "L70h",
         "name": "캐럿",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/carrotcd.webp",
-        "commands": [
-          "캐럿조합",
-          "carrot"
-        ],
+        "commands": ["캐럿조합", "carrot"],
         "abilities": {
           "마법 대미지 증가": 0
         },
@@ -3241,12 +3190,9 @@
       },
       {
         "id": "640h",
-        "name": "킨에몬",
-        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kinemon.webp",
-        "commands": [
-          "킨에몬조합",
-          "kinemon"
-        ],
+        "name": "키쿠",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kiku.png",
+        "commands": ["키쿠조합", "kiku"],
         "stuffs": [
           {
             "id": "J20h",
@@ -3263,13 +3209,34 @@
         ]
       },
       {
+        "id": "550h",
+        "name": "스튜시",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/stussy.png",
+        "commands": ["스튜시조합", "stussy"],
+        "abilities": {
+          "단일": 1
+        },
+        "desc": "1500 범위까지 순간이동\n단일 적에게 현재 체력 25%의 폭발형 대미지(보스, 스토리는 20만의 마법데미지)",
+        "stuffs": [
+          {
+            "id": "K20h",
+            "count": 1
+          },
+          {
+            "id": "720h",
+            "count": 1
+          },
+          {
+            "id": "820h",
+            "count": 1
+          }
+        ]
+      },
+      {
         "id": "840h",
         "name": "페로나",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/perona.webp",
-        "commands": [
-          "페로나조합",
-          "perona"
-        ],
+        "commands": ["페로나조합", "perona"],
         "abilities": {
           "이동속도 감소": 45,
           "유닛삭제": true,
@@ -3305,10 +3272,7 @@
         "id": "O30h",
         "name": "봉쿠레",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/bonkurei.webp",
-        "commands": [
-          "봉쿠레조합",
-          "bonkurei"
-        ],
+        "commands": ["봉쿠레조합", "bonkurei"],
         "abilities": {
           "스턴": 0.3,
           "방어력 감소": 11
@@ -3337,10 +3301,7 @@
         "id": "140h",
         "name": "아오키지",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/aokiji.webp",
-        "commands": [
-          "아오키지조합",
-          "aokiji"
-        ],
+        "commands": ["아오키지조합", "aokiji"],
         "abilities": {
           "스턴": 0.4,
           "이동속도 감소": 35,
@@ -3365,10 +3326,7 @@
         "id": "Y30h",
         "name": "이완코브",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ivankov.webp",
-        "commands": [
-          "이완코브조합",
-          "ivankov"
-        ],
+        "commands": ["이완코브조합", "ivankov"],
         "abilities": {
           "스턴": 0.6,
           "방어력 감소": 11
@@ -3393,10 +3351,7 @@
         "id": "740h",
         "name": "피셔타이거",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/tiger.webp",
-        "commands": [
-          "피셔타이거조합",
-          "tiger"
-        ],
+        "commands": ["피셔타이거조합", "tiger"],
         "abilities": {
           "스턴": 0.9,
           "공격력 증가": 27
@@ -3518,10 +3473,7 @@
         "id": "E90H",
         "name": "도플라밍고",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/joker.webp",
-        "commands": [
-          "어둠의조커",
-          "joker tr"
-        ],
+        "commands": ["어둠의조커", "joker tr"],
         "abilities": {
           "발동이동속도 감소": 45,
           "발동방어력 감소": 60,
@@ -3559,10 +3511,7 @@
         "id": "890H",
         "name": "로빈",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/robintr.webp",
-        "commands": [
-          "악마의자식",
-          "robin tr"
-        ],
+        "commands": ["악마의자식", "robin tr"],
         "abilities": {
           "스턴": 1.2,
           "방어력 감소": 45,
@@ -3594,13 +3543,40 @@
         ]
       },
       {
+        "id": "XB0H",
+        "name": "보니",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/bonney.png",
+        "commands": ["일그러진미래", "bonney tr"],
+        "abilities": {
+          "방어력 감소": 30,
+          "단일아머브레이크": 1,
+          "바제스": true
+        },
+        "desc": "마나 스킬(니카 변신 후 패널티로 행동 불능 2초)\n특성 강화 시 패널티 삭제(4 포인트 필요)\n광폭화 유닛 추가 대미지\n단일아머브레이크\n바제스 클리어 가능",
+        "stuffs": [
+          {
+            "id": "550h",
+            "count": 1
+          },
+          {
+            "id": "030h",
+            "count": 1
+          },
+          {
+            "id": "W00h",
+            "count": 1
+          },
+          {
+            "id": "C10h",
+            "count": 1
+          }
+        ]
+      },
+      {
         "id": "LB0H",
         "name": "료쿠규",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/aramakitr.webp",
-        "commands": [
-          "신해군대장초록소",
-          "ryokugyu tr"
-        ],
+        "commands": ["신해군대장초록소", "ryokugyu tr"],
         "abilities": {
           "방어력 감소": 35,
           "발동방어력 감소": 15,
@@ -3631,10 +3607,7 @@
         "id": "990H",
         "name": "루피",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/luffytr.webp",
-        "commands": [
-          "해적왕이될사나이",
-          "luffy tr"
-        ],
+        "commands": ["해적왕이될사나이", "luffy tr"],
         "abilities": {
           "스턴": 0.3,
           "발동이동속도 감소": 33,
@@ -3665,10 +3638,7 @@
         "id": "490H",
         "name": "바질호킨스",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hawkinstr.webp",
-        "commands": [
-          "운명의마술사",
-          "hawkins tr"
-        ],
+        "commands": ["운명의마술사", "hawkins tr"],
         "abilities": {
           "방어력 감소": 25,
           "바제스": true
@@ -3701,10 +3671,7 @@
         "id": "290H",
         "name": "사보",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sabotr.webp",
-        "commands": [
-          "혁명군참모총장",
-          "sabo tr"
-        ],
+        "commands": ["혁명군참모총장", "sabo tr"],
         "abilities": {
           "스턴": 0.2,
           "이동속도 감소": 20,
@@ -3744,10 +3711,7 @@
         "id": "DB0H",
         "name": "야마토",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/yamato.webp",
-        "commands": [
-          "오니히메",
-          "yamato tr"
-        ],
+        "commands": ["오니히메", "yamato tr"],
         "abilities": {
           "이동속도 감소": -15,
           "방어력 감소": 25,
@@ -3785,10 +3749,7 @@
         "id": "B90H",
         "name": "우솝",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/usopptr.webp",
-        "commands": [
-          "바다의전사",
-          "usopp tr"
-        ],
+        "commands": ["바다의전사", "usopp tr"],
         "abilities": {
           "방어력 감소": 22
         },
@@ -3820,10 +3781,7 @@
         "id": "F90H",
         "name": "조로",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/zorotr.webp",
-        "commands": [
-          "최강의검사",
-          "zoro tr"
-        ],
+        "commands": ["최강의검사", "zoro tr"],
         "abilities": {
           "스턴": 0.4,
           "이동속도 감소": 30,
@@ -3858,10 +3816,7 @@
         "id": "A90H",
         "name": "징베",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/jinbetr.webp",
-        "commands": [
-          "바다의협객",
-          "jinbe tr"
-        ],
+        "commands": ["바다의협객", "jinbe tr"],
         "abilities": {
           "아머브레이크": 0,
           "발동이동속도 감소": 50,
@@ -3893,10 +3848,7 @@
         "id": "190H",
         "name": "쵸파",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/choppertr.webp",
-        "commands": [
-          "순록의사!",
-          "chopper tr"
-        ],
+        "commands": ["순록의사!", "chopper tr"],
         "abilities": {
           "방어력 감소": 50,
           "공격속도 증가": 28,
@@ -3927,10 +3879,7 @@
         "id": "X80H",
         "name": "후지토라",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/fujitoratr.webp",
-        "commands": [
-          "분노하는맹호",
-          "fujitora tr"
-        ],
+        "commands": ["분노하는맹호", "fujitora tr"],
         "abilities": {
           "스턴": 1.1,
           "이동속도 감소": 55,
@@ -3967,10 +3916,7 @@
         "id": "090H",
         "name": "검은수염",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/teachtr.webp",
-        "commands": [
-          "치밀하고비열한어둠",
-          "tichi tr"
-        ],
+        "commands": ["치밀하고비열한어둠", "tichi tr"],
         "abilities": {
           "발동이동속도 감소": 65,
           "모든피해증가": 25,
@@ -4001,10 +3947,7 @@
         "id": "V80H",
         "name": "나미",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/namitr.webp",
-        "commands": [
-          "날씨는맑음",
-          "nami tr"
-        ],
+        "commands": ["날씨는맑음", "nami tr"],
         "abilities": {
           "발동이동속도 감소": 45,
           "전체 체력 퍼센트 대미지": 0
@@ -4037,10 +3980,7 @@
         "id": "690H",
         "name": "로우",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/lawtr.webp",
-        "commands": [
-          "백개의심장을바친자",
-          "law tr"
-        ],
+        "commands": ["백개의심장을바친자", "law tr"],
         "abilities": {
           "발동이동속도 감소": 40,
           "방어력 무시 대미지": 0,
@@ -4070,10 +4010,7 @@
         "id": "W80H",
         "name": "루치",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/luccitr.webp",
-        "commands": [
-          "검은정의를좇는하얀새",
-          "lucci tr"
-        ],
+        "commands": ["검은정의를좇는하얀새", "lucci tr"],
         "abilities": {
           "단일": 1,
           "바제스": true
@@ -4102,15 +4039,12 @@
         "id": "2B0H",
         "name": "루피 기어포스",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/snakeman.webp",
-        "commands": [
-          "다섯번째황제",
-          "snakeman tr"
-        ],
+        "commands": ["다섯번째황제", "snakeman tr"],
         "abilities": {
           "방어력 무시 대미지": 0,
           "바제스": true
         },
-        "desc": "공중이동\n적 이속이 높을수록 강한대미지\n바제스 클리어 가능",
+        "desc": "공중이동\n적 이속이 높을수록 강한대미지\n특성 강화 4 포인트 필요\n바제스 클리어 가능",
         "stuffs": [
           {
             "id": "Y20h",
@@ -4138,10 +4072,7 @@
         "id": "I90H",
         "name": "브룩",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/brooktr.webp",
-        "commands": [
-          "소울킹",
-          "brook tr"
-        ],
+        "commands": ["소울킹", "brook tr"],
         "abilities": {
           "이동속도 감소": 15,
           "마법 방어력 감소": 3,
@@ -4176,10 +4107,7 @@
         "id": "H90H",
         "name": "상디",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sanjitr.webp",
-        "commands": [
-          "지옥에서돌아온자",
-          "sanji tr"
-        ],
+        "commands": ["지옥에서돌아온자", "sanji tr"],
         "abilities": {
           "단일": 1,
           "발동이동속도 감소": 50,
@@ -4209,10 +4137,7 @@
         "id": "Z80H",
         "name": "샹크스",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shankstr.webp",
-        "commands": [
-          "정상해전종결자",
-          "shanks tr"
-        ],
+        "commands": ["정상해전종결자", "shanks tr"],
         "abilities": {
           "스턴": 2.1
         },
@@ -4244,10 +4169,7 @@
         "id": "U80H",
         "name": "시라호시",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shirahoshi.webp",
-        "commands": [
-          "해왕류를다스리는인어공주",
-          "shirahoshi tr"
-        ],
+        "commands": ["해왕류를다스리는인어공주", "shirahoshi tr"],
         "abilities": {
           "스턴": 1.3,
           "바제스": true
@@ -4276,10 +4198,7 @@
         "id": "790H",
         "name": "아오키지",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/aokijitr.webp",
-        "commands": [
-          "전해군대장푸른꿩",
-          "aokiji tr"
-        ],
+        "commands": ["전해군대장푸른꿩", "aokiji tr"],
         "abilities": {
           "스턴": 1.2,
           "이동속도 감소": 70,
@@ -4313,10 +4232,7 @@
         "id": "590H",
         "name": "아카이누",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/akainutr.webp",
-        "commands": [
-          "해군원수붉은개",
-          "akainu tr"
-        ],
+        "commands": ["해군원수붉은개", "akainu tr"],
         "abilities": {
           "발동이동속도 감소": 12,
           "바제스": true
@@ -4349,10 +4265,7 @@
         "id": "N50H",
         "name": "타시기",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/tashigitr.webp",
-        "commands": [
-          "해군의홍일점",
-          "tashigi tr"
-        ],
+        "commands": ["해군의홍일점", "tashigi tr"],
         "abilities": {
           "방어력 감소": 25,
           "아머브레이크": 0,
@@ -4386,10 +4299,7 @@
         "id": "4B0H",
         "name": "키드",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kidtr.webp",
-        "commands": [
-          "신세대의이단아",
-          "kid tr"
-        ],
+        "commands": ["신세대의이단아", "kid tr"],
         "abilities": {
           "이동속도 감소": 33,
           "바제스": true
@@ -4426,10 +4336,7 @@
         "id": "5B0H",
         "name": "키자루",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kizarutr.webp",
-        "commands": [
-          "해군대장노란원숭이",
-          "kizaru tr"
-        ],
+        "commands": ["해군대장노란원숭이", "kizaru tr"],
         "abilities": {
           "스턴": 1,
           "바제스": true
@@ -4466,10 +4373,7 @@
         "id": "Y80H",
         "name": "프랑키",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/frankytr.webp",
-        "commands": [
-          "무적의아이언파이러츠",
-          "franky tr"
-        ],
+        "commands": ["무적의아이언파이러츠", "franky tr"],
         "abilities": {
           "마나 재생": 5,
           "바제스": true
@@ -4504,10 +4408,7 @@
         "id": "C40h",
         "name": "거프",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/garpim.webp",
-        "commands": [
-          "해군영웅거프",
-          "garp im"
-        ],
+        "commands": ["해군영웅거프", "garp im"],
         "abilities": {
           "스턴": 1.2,
           "방어력 감소": -15,
@@ -4537,10 +4438,7 @@
         "id": "940h",
         "name": "레일리",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/rayleighim.webp",
-        "commands": [
-          "명왕실버즈레일리",
-          "rayleigh im"
-        ],
+        "commands": ["명왕실버즈레일리", "rayleigh im"],
         "abilities": {
           "방어력 감소": 20,
           "공격속도 증가": 45,
@@ -4571,10 +4469,7 @@
         "id": "J40h",
         "name": "로져",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/roger.webp",
-        "commands": [
-          "해적왕골D로져",
-          "roger im"
-        ],
+        "commands": ["해적왕골D로져", "roger im"],
         "abilities": {
           "이동속도 감소": 50,
           "방어력 감소": 60,
@@ -4605,10 +4500,7 @@
         "id": "F40h",
         "name": "스코퍼가반",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/gaban.webp",
-        "commands": [
-          "대검호스코퍼가반",
-          "gaban im"
-        ],
+        "commands": ["대검호스코퍼가반", "gaban im"],
         "abilities": {
           "단일방어력 감소": 60,
           "바제스": true
@@ -4637,10 +4529,7 @@
         "id": "M70h",
         "name": "카이도",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kaido.webp",
-        "commands": [
-          "백수의제왕카이도",
-          "kaido im"
-        ],
+        "commands": ["백수의제왕카이도", "kaido im"],
         "abilities": {
           "이동속도 감소": 60,
           "공격력 감소": 75,
@@ -4671,10 +4560,7 @@
         "id": "A40h",
         "name": "흰수염",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/whitebeardim.webp",
-        "commands": [
-          "대해적흰수염",
-          "whitebeard im"
-        ],
+        "commands": ["대해적흰수염", "whitebeard im"],
         "abilities": {
           "스턴": 0.5,
           "방어력 감소": 45,
@@ -4707,10 +4593,7 @@
         "id": "D40h",
         "name": "드래곤",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/dragonim.webp",
-        "commands": [
-          "폭풍을몰아오는바람",
-          "dragon im"
-        ],
+        "commands": ["폭풍을몰아오는바람", "dragon im"],
         "abilities": {
           "스턴": 1.4,
           "공격속도 증가": 20,
@@ -4740,10 +4623,7 @@
         "id": "Q40h",
         "name": "빅맘",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/bigmam.webp",
-        "commands": [
-          "탐식의강철풍선",
-          "bigmam im"
-        ],
+        "commands": ["탐식의강철풍선", "bigmam im"],
         "abilities": {
           "이동속도 감소": 70,
           "유닛삭제": 0
@@ -4772,10 +4652,7 @@
         "id": "E40h",
         "name": "센고쿠",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sengokuim.webp",
-        "commands": [
-          "부처님센고쿠",
-          "sengoku im"
-        ],
+        "commands": ["부처님센고쿠", "sengoku im"],
         "abilities": {
           "스턴": 1.1,
           "공격력 증가": 22,
@@ -4806,10 +4683,7 @@
         "id": "B40h",
         "name": "시키",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shikiim.webp",
-        "commands": [
-          "천신금사자시키",
-          "shiki im"
-        ],
+        "commands": ["천신금사자시키", "shiki im"],
         "abilities": {
           "스턴": 1.8,
           "발동방어력 감소": 7,
@@ -4839,10 +4713,7 @@
         "id": "G40h",
         "name": "제트",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/zephyrim.webp",
-        "commands": [
-          "신념의흑완제트",
-          "z im"
-        ],
+        "commands": ["신념의흑완제트", "z im"],
         "abilities": {
           "이동속도 감소": 35,
           "바제스": true
@@ -4873,10 +4744,7 @@
         "id": "KB0H",
         "name": "니카(루초)",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/nika.webp",
-        "commands": [
-          "태양의신",
-          "nika et"
-        ],
+        "commands": ["태양의신", "nika et"],
         "abilities": {
           "스턴": 1,
           "방어력 감소": 35,
@@ -4916,10 +4784,7 @@
         "id": "KB0H_",
         "name": "니카(뱀초)",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/nika.webp",
-        "commands": [
-          "태양의신",
-          "nika et"
-        ],
+        "commands": ["태양의신", "nika et"],
         "abilities": {
           "스턴": 1,
           "방어력 감소": 35,
@@ -4959,10 +4824,7 @@
         "id": "A50h",
         "name": "버기",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/buggyet.webp",
-        "commands": [
-          "천냥광대",
-          "buggy et"
-        ],
+        "commands": ["천냥광대", "buggy et"],
         "abilities": {
           "스턴": 0.5,
           "방어력 감소": 41,
@@ -5012,10 +4874,7 @@
         "id": "B50h",
         "name": "카벤딧슈",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/cavendish.webp",
-        "commands": [
-          "해적왕자",
-          "cavendish et"
-        ],
+        "commands": ["해적왕자", "cavendish et"],
         "abilities": {
           "스턴": 0.9,
           "방어력 감소": 35,
@@ -5057,10 +4916,7 @@
         "id": "950h",
         "name": "에이스",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/aceet.webp",
-        "commands": [
-          "화권의에이스",
-          "ace et"
-        ],
+        "commands": ["화권의에이스", "ace et"],
         "abilities": {
           "이동속도 감소": 45,
           "세이브": 5,
@@ -5098,10 +4954,7 @@
         "id": "C50h",
         "name": "핸콕",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hancocket.webp",
-        "commands": [
-          "아마존릴리의여제",
-          "hancock et"
-        ],
+        "commands": ["아마존릴리의여제", "hancock et"],
         "abilities": {
           "스턴": 0.9,
           "방어력 감소": 50,
@@ -5146,10 +4999,7 @@
         "id": "R80h",
         "name": "오뎅",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/oden.webp",
-        "commands": [
-          "참된호걸",
-          "oden et"
-        ],
+        "commands": ["참된호걸", "oden et"],
         "abilities": {
           "마법 대미지 증가": 0,
           "공격력 증가": 50,
@@ -5188,10 +5038,7 @@
         "id": "760h",
         "name": "우타",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/uta.webp",
-        "commands": [
-          "세계의가희",
-          "u-ta et"
-        ],
+        "commands": ["세계의가희", "u-ta et"],
         "abilities": {
           "끝딜": 0,
           "스턴": 0.4,
@@ -5247,10 +5094,7 @@
         "id": "850h",
         "name": "미호크",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/mihawket.webp",
-        "commands": [
-          "매의눈미호크",
-          "mihawk et"
-        ],
+        "commands": ["매의눈미호크", "mihawk et"],
         "abilities": {
           "이동속도 감소": 45,
           "방어력 무시 대미지": 0,
@@ -5285,10 +5129,7 @@
         "id": "750h",
         "name": "비비",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/viviet.webp",
-        "commands": [
-          "파이러츠왕녀",
-          "vivi et"
-        ],
+        "commands": ["파이러츠왕녀", "vivi et"],
         "abilities": {
           "끝딜": 0,
           "세이브": 25,
@@ -5462,6 +5303,40 @@
           {
             "id": "GOLD",
             "count": 5000
+          },
+          {
+            "id": "LUMBER",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "id": "Q80h",
+        "name": "알비다",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/alvida.png",
+        "abilities": {
+          "방어력 감소": 25,
+          "아머브레이크": 1,
+          "공격력 증가": 33,
+          "바제스": true
+        },
+        "desc": "조합 시 특성 포인트 4 필요\n단일스턴\n3번 타격할 때마다 스킬 사용\n모든 스킬 사용 시 넉백\n버기 영원함과 효과 중첩 불가능",
+        "stuffs": [
+          {
+            "id": "X20h",
+            "count": 1
+          },
+          {
+            "id": "H20h",
+            "count": 1
+          },
+          {
+            "id": "H40h",
+            "count": 1
+          },
+          {
+            "id": "510h",
+            "count": 1
           },
           {
             "id": "LUMBER",
