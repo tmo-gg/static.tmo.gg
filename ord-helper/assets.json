@@ -5279,7 +5279,7 @@
       {
         "id": "O80h",
         "name": "마르코",
-        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/marcoltd.webp",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/marcoltd.png",
         "abilities": {
           "단일": 1,
           "이동속도 감소": 35,
@@ -6004,7 +6004,7 @@
       {
         "id": "B80h",
         "name": "확장팩",
-        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/random.png",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/pack.png",
         "stuffs": []
       },
       {
@@ -6028,7 +6028,7 @@
       {
         "id": "I60h",
         "name": "히루루크의 묘비",
-        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/random.png",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hilulukmyobi.png",
         "stuffs": [
           {
             "id": "K30h",
