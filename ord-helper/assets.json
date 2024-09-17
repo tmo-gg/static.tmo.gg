@@ -2329,7 +2329,6 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shinobu.webp",
         "abilities": {
           "보스 잡기": true,
-          "이동속도 감소": 36,
           "끝딜": 0
         },
         "desc": "보물 탐색(R 스킬)\n99999범위까지 순간이동",
