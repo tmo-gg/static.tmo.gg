@@ -2133,7 +2133,7 @@
         "name": "레이쥬",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/reiju.webp",
         "abilities": {
-          "단일": 1,
+          "단일": 0.5,
           "이동속도 감소": 35
         },
         "desc": "이동속도 감소(이감): 35\n공중이동\n단일 적 현재 체력 % 대미지\n스토리 타격 시 사거리를 두고 타격해야 강함",
@@ -3101,7 +3101,7 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ryuma.webp",
         "commands": ["류마조합", "ryuma"],
         "abilities": {
-          "단일": 1
+          "단일": 0.5
         },
         "desc": "단일 19\n조로초월 강화 재료",
         "stuffs": [
@@ -3204,7 +3204,6 @@
         "name": "키쿠",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kiku.png",
         "abilities": {
-          "단일": 1,
           "보스 잡기": true
         },
         "desc": "20만의 마법 대미지\n단일 적 10만의 추가 마법 대미지\n보스에게 현재 체력 1%의 추가 마법 대미지\n광폭화 유닛에게 전체 체력 5%의 추가 마법 대미지",
@@ -3371,7 +3370,6 @@
         "abilities": {
           "스턴": 0.9,
           "공격력 증가": 27,
-          "단일": 1,
           "보스 잡기": true
         },
         "desc": "모든 지형 무시 이동\n보스/광폭화 유닛에게 발동 시 따라 붙음(현재 체력 2.5%의 추가 고정 대미지 (피해량 감소 무시))",
@@ -4039,7 +4037,7 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/luccitr.webp",
         "commands": ["검은정의를좇는하얀새", "lucci tr"],
         "abilities": {
-          "단일": 1,
+          "단일": 2,
           "바제스": true
         },
         "desc": "단일(25, 40)\n특강2(람각 강화)\n바제스 클리어 가능",
@@ -5312,7 +5310,7 @@
         "name": "마르코",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/marcoltd.png",
         "abilities": {
-          "단일": 1,
+          "단일": 1.5,
           "이동속도 감소": 35,
           "체력 재생": 3,
           "바제스": true
@@ -5415,7 +5413,6 @@
         "abilities": {
           "바제스": true,
           "보스 잡기": true,
-          "단일": 1
         },
         "desc": "1500 범위까지 순간이동\n단일 적에게 30만의 추가 마법 대미지(광폭화 유닛에게는 10배)\n바제스 클리어 가능",
         "stuffs": [
