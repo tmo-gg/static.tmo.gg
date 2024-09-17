@@ -5412,7 +5412,7 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ain.webp",
         "abilities": {
           "바제스": true,
-          "보스 잡기": true,
+          "보스 잡기": true
         },
         "desc": "1500 범위까지 순간이동\n단일 적에게 30만의 추가 마법 대미지(광폭화 유닛에게는 10배)\n바제스 클리어 가능",
         "stuffs": [
