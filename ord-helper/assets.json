@@ -5682,9 +5682,9 @@
         "name": "료우기 시키",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/siki.webp",
         "abilities": {
-          "방어력 감소": 44,
-          "물뎀끝딜": 0
+          "방어력 감소": 44
         },
+        "desc": "스킬 발동 시마다 단일 적에게 144(x1~1.44)만의 고정 대미지 + 4초 스턴",
         "stuffs": [
           {
             "id": "070h",
