@@ -2463,6 +2463,25 @@
             "count": 1
           }
         ]
+      },
+      {
+        "id": "N70H",
+        "name": "네지",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/nrd-helper/images/77381250761a633382bae14.85278166.png",
+        "stuffs": [
+          {
+            "id": "X10h",
+            "count": 1
+          },
+          {
+            "id": "W30h",
+            "count": 1
+          },
+          {
+            "id": "O20h",
+            "count": 1
+          }
+        ]
       }
     ],
     "엘리트": [
@@ -2514,11 +2533,11 @@
             "count": 1
           },
           {
-            "id": "CA0h",
+            "id": "960h",
             "count": 1
           },
           {
-            "id": "O50h",
+            "id": "P00h",
             "count": 1
           }
         ]
