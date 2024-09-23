@@ -2726,9 +2726,9 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/fujitorald.webp",
         "abilities": {
           "스턴": 0.7,
-          "이동속도 감소": 20
+          "이동속도 감소": 24
         },
-        "desc": "스턴: 0.7\n이동속도 감소(이감): 20",
+        "desc": "스턴: 0.7\n이동속도 감소(이감): 24",
         "stuffs": [
           {
             "id": "J20h",
@@ -4118,12 +4118,12 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/brooktr.webp",
         "commands": ["소울킹", "brook tr"],
         "abilities": {
-          "이동속도 감소": 15,
+          "이동속도 감소": 20,
           "마법 방어력 감소": 3,
           "끝딜": 0,
           "바제스": true
         },
-        "desc": "마나스킬(마뎀증폭8, 스턴 3)\n특성 강화 시 공격속도 증가(16%) 버프를 가진 음표 생성(특성 포인트 2 필요)\n공중이동\n바제스 클리어 가능",
+        "desc": "마나스킬(마뎀증폭8, 스턴 3)\n맵 전체 적군유닛 이동속도 5% 감소 오라\n특성 강화 시 공격속도 증가(16%) 버프를 가진 음표 생성(특성 포인트 2 필요)\n공중이동\n바제스 클리어 가능",
         "stuffs": [
           {
             "id": "Q20h",
