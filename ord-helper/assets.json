@@ -4183,9 +4183,10 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shankstr.webp",
         "commands": ["정상해전종결자", "shanks tr"],
         "abilities": {
-          "스턴": 2.1
+          "스턴": 2.1,
+          "바제스": true
         },
-        "desc": "자신의 공격 속도 20% 증가\n카무사리(보스 잡기 스킬) 사용하려면 특성 포인트 4 필요\n광폭화 추가 대미지\n출항 시 바제스 가능(운 좀 탐)",
+        "desc": "자신의 공격 속도 20% 증가\n카무사리(보스 잡기 스킬) 사용하려면 특성 포인트 4 필요\n광폭화 추가 대미지\n바제스 클리어 가능",
         "stuffs": [
           {
             "id": "530h",
