@@ -1737,9 +1737,10 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/marco.webp",
         "abilities": {
           "이동속도 감소": 30,
-          "보조딜": true
+          "보조딜": true,
+          "바제스": true
         },
-        "desc": "이동속도 감소(이감): 30\n보조딜",
+        "desc": "이동속도 감소(이감): 30\n보조딜\n바제스 클리어 가능",
         "stuffs": [
           {
             "id": "220h",
@@ -2338,7 +2339,7 @@
           "광폭화 잡기": true,
           "끝딜": 0
         },
-        "desc": "보물 탐색(R 스킬)\n99999범위까지 순간이동",
+        "desc": "보물 탐색(R 스킬)",
         "stuffs": [
           {
             "id": "520h",
@@ -4029,9 +4030,10 @@
           "발동이동속도 감소": 40,
           "방어력 무시 대미지": 0,
           "범위 현재 체력 퍼센트 대미지": 0,
-          "광폭화 잡기": true
+          "광폭화 잡기": true,
+          "바제스": true
         },
-        "desc": "보스 단일이감 99\n특성 강화 시 샴블즈 강화 (특성 포인트 1 필요)\n광폭화 추뎀",
+        "desc": "보스 단일이감 99\n특성 강화 시 샴블즈 강화 (특성 포인트 1 필요)\n광폭화 추가 대미지\n바제스 클리어 가능",
         "stuffs": [
           {
             "id": "C30h",
@@ -5432,10 +5434,9 @@
         "name": "아인",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ain.webp",
         "abilities": {
-          "광폭화 잡기": true,
-          "바제스": true
+          "광폭화 잡기": true
         },
-        "desc": "1500 범위까지 순간이동\n단일 적에게 30만의 추가 마법 대미지(광폭화 유닛에게는 10배)\n바제스 클리어 가능",
+        "desc": "1500 범위까지 순간이동\n단일 적에게 30만의 추가 마법 대미지(광폭화 유닛에게는 10배)",
         "stuffs": [
           {
             "id": "B20h",
