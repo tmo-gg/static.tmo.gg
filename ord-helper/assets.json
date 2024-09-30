@@ -2700,7 +2700,8 @@
         "name": "시키",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/shikild.webp",
         "abilities": {
-          "스턴": 1
+          "스턴": 1,
+          "아머브레이크": 0
         },
         "desc": "스턴: 1\n공중이동",
         "stuffs": [
@@ -2728,7 +2729,8 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/fujitorald.webp",
         "abilities": {
           "스턴": 0.7,
-          "이동속도 감소": 24
+          "이동속도 감소": 24,
+          "마법 방어력 감소": true
         },
         "desc": "스턴: 0.7\n이동속도 감소(이감): 24",
         "stuffs": [
@@ -3472,7 +3474,8 @@
         "name": "에이스",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/aceld.webp",
         "abilities": {
-          "이동속도 감소": 20
+          "이동속도 감소": 20,
+          "끝딜": 0
         },
         "desc": "2도킹시 바제스 가능",
         "stuffs": [
@@ -4552,14 +4555,14 @@
         "id": "F40h",
         "name": "스코퍼가반",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/gaban.webp",
-        "commands": ["대검호스코퍼가반", "gaban im"],
+        "commands": ["역전의강자", "gaban im"],
         "abilities": {
           "단일방어력 감소": 60,
           "보스 잡기": true,
           "광폭화 잡기": true,
           "바제스": true
         },
-        "desc": "단일방어력 감소(단방감): 60\n보스 잡기에 특화됨\n바제스 클리어 가능",
+        "desc": "단일방어력 감소(단방감): 60\n보스 잡기에 특화됨\n바제스 클리어 가능\n4특포 강화시 2000범위 블링",
         "stuffs": [
           {
             "id": "330h",
