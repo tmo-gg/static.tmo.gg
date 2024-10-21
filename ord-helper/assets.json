@@ -5586,6 +5586,9 @@
         "id": "V60h",
         "name": "나루토 선인모드",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/naruto.png",
+        "abilities": {
+          "스턴": 0.7,
+        },
         "stuffs": []
       },
       {
@@ -5622,6 +5625,9 @@
         "id": "070h",
         "name": "이사야마 요미",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/iasyama.png",
+        "abilities": {
+          "방어력 감소": 20
+        },
         "stuffs": []
       },
       {
