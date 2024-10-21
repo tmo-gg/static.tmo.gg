@@ -5587,7 +5587,7 @@
         "name": "나루토 선인모드",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/naruto.png",
         "abilities": {
-          "스턴": 0.7,
+          "스턴": 0.7
         },
         "stuffs": []
       },
