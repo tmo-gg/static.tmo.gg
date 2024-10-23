@@ -4708,7 +4708,7 @@
       },
       {
         "id": "E40h",
-        "name": "부처님",
+        "name": "센고쿠",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/sengokuim.webp",
         "commands": ["부처님센고쿠", "sengoku im"],
         "abilities": {
