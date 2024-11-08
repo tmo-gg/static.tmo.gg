@@ -5704,6 +5704,10 @@
             "count": 1
           },
           {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
             "id": "LUMBER",
             "count": 7
           }
@@ -5735,6 +5739,10 @@
             "count": 1
           },
           {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
             "id": "LUMBER",
             "count": 7
           }
@@ -5760,6 +5768,14 @@
           {
             "id": "G60h",
             "count": 1
+          },
+          {
+            "id": "GOLD",
+            "count": 10000
+          },
+          {
+            "id": "LUMBER",
+            "count": 7
           }
         ]
       },
