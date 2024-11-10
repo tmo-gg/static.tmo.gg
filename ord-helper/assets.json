@@ -2503,33 +2503,6 @@
         ]
       },
       {
-        "id": "030h",
-        "name": "쿠마",
-        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kumald.webp",
-        "abilities": {
-          "스턴": 0.5
-        },
-        "desc": "범위의 적을 자석(W, 쿨타임 60초) 스킬로 자신의 바로 앞으로 이동시키고 스턴 사용\n스턴: 0.5\n1 도킹 + 스킬 사용 시 바제스 클리어 가능",
-        "stuffs": [
-          {
-            "id": "820h",
-            "count": 1
-          },
-          {
-            "id": "M20h",
-            "count": 1
-          },
-          {
-            "id": "K20h",
-            "count": 1
-          },
-          {
-            "id": "LUMBER",
-            "count": 3
-          }
-        ]
-      },
-      {
         "id": "230h",
         "name": "핸콕",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hancock.webp",
@@ -2749,6 +2722,33 @@
           },
           {
             "id": "H20h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "030h",
+        "name": "쿠마",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kumald.webp",
+        "abilities": {
+          "스턴": 0.5
+        },
+        "desc": "범위의 적을 자석(W, 쿨타임 60초) 스킬로 자신의 바로 앞으로 이동시키고 스턴 사용\n스턴: 0.5\n1 도킹 + 스킬 사용 시 바제스 클리어 가능",
+        "stuffs": [
+          {
+            "id": "820h",
+            "count": 1
+          },
+          {
+            "id": "M20h",
+            "count": 1
+          },
+          {
+            "id": "K20h",
             "count": 1
           },
           {
@@ -5577,7 +5577,7 @@
         ]
       }
     ],
-    "신비함": [
+    "랜덤유닛": [
       {
         "id": "U60h",
         "name": "k'",
@@ -5669,7 +5669,7 @@
         "stuffs": []
       }
     ],
-    "신비함 [제한됨]": [
+    "신비함": [
       {
         "id": "unknown-1",
         "name": "고죠 사토루",
@@ -6167,7 +6167,7 @@
     "기타": [
       {
         "id": "RANDOM",
-        "name": "랜덤전용유닛",
+        "name": "랜덤유닛",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/random.png",
         "stuffs": []
       },
