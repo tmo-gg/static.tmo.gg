@@ -2470,15 +2470,34 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/nrd-helper/images/77381250761a633382bae14.85278166.png",
         "stuffs": [
           {
-            "id": "X10h",
-            "count": 1
-          },
-          {
             "id": "O50h",
             "count": 1
           },
           {
             "id": "O20h",
+            "count": 1
+          },
+          {
+            "id": "L70h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "Q15B",
+        "name": "사스케",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/nrd-helper/images/77381250761a633382bae14.85278166.png",
+        "stuffs": [
+          {
+            "id": "V10h",
+            "count": 1
+          },
+          {
+            "id": "FA0h",
+            "count": 1
+          },
+          {
+            "id": "B40h",
             "count": 1
           }
         ]
@@ -3636,15 +3655,15 @@
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/nrd-helper/images/1441912404633c53b74ac842.33491654.png",
         "stuffs": [
           {
-            "id": "E30h",
-            "count": 1
-          },
-          {
             "id": "F40h",
             "count": 1
           },
           {
-            "id": "D20h",
+            "id": "E30h",
+            "count": 1
+          },
+          {
+            "id": "O40h",
             "count": 1
           }
         ]
@@ -3786,10 +3805,6 @@
           },
           {
             "id": "X40h",
-            "count": 1
-          },
-          {
-            "id": "F00h",
             "count": 1
           },
           {
