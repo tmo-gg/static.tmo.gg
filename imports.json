@@ -1,0 +1,18 @@
+[
+  {
+    "filename":"unicorn.dll",
+    "url":"https://storage.tmo.gg/unicorn.dll"
+  },
+  {
+    "filename":"libgcc_s_seh-1.dll",
+    "url":"https://storage.tmo.gg/libgcc_s_seh-1.dll"
+  },
+  {
+    "filename":"libwinpthread-1.dll",
+    "url":"https://storage.tmo.gg/libwinpthread-1.dll"
+  },
+  {
+    "filename":"WebView2Loader.dll",
+    "url":"https://storage.tmo.gg/WebView2Loader.dll"
+  }
+]
