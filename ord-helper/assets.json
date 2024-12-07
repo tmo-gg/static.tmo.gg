@@ -3116,14 +3116,16 @@
         ]
       },
       {
-        "id": "queen",
+        "id": "IC0h",
         "name": "퀸",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/queen.webp",
         "commands": ["퀸조합"],
+        "desc": "마나 스킬 사용 시 600 범위 적에게 3의 아머브레이크 (최대 75까지 감소, 광폭화 보스에게는 1회에 한하여 즉시 발동)\n14.25% 확률로 340 범위의 적에게 3초간 방어력 30 감소\n15% 확률로 500 범위 적에게 1.7초 스턴 및 1의 아머브레이크(최대 75까지 감소)",
         "abilities": {
           "체력 재생": 1,
           "마나 재생": 1,
-          "발동방어력 감소": 30
+          "발동방어력 감소": 30,
+          "아머브레이크": 1
         },
         "stuffs": [
           {
@@ -3497,9 +3499,10 @@
         ]
       },
       {
-        "id": "kaku",
+        "id": "KC0h",
         "name": "카쿠",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/kaku.webp",
+        "desc": "1500 범위 블링크\n자신 공격 속도 33% 증가\n라인 몬스터에게 단일 적 전체 체력 5% 추가 폭발형 대미지",
         "stuffs": [
           {
             "id": "320h",
@@ -5127,7 +5130,7 @@
         ]
       },
       {
-        "id": "ryu",
+        "id": "JC0h",
         "name": "류마",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ryuma.webp",
         "abilities": {},
@@ -5732,7 +5735,7 @@
     ],
     "신비함": [
       {
-        "id": "unknown-1",
+        "id": "M90h",
         "name": "고죠 사토루",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/gojo.png",
         "stuffs": [
@@ -5775,7 +5778,7 @@
         ]
       },
       {
-        "id": "unknown-2",
+        "id": "CC0h",
         "name": "콘파쿠 요우무",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/konpa.png",
         "stuffs": [
@@ -5810,7 +5813,7 @@
         ]
       },
       {
-        "id": "unknown-3",
+        "id": "M80h",
         "name": "아냐 포저",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/anya.png",
         "stuffs": [
