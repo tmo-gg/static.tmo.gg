@@ -5459,6 +5459,10 @@
           {
             "id": "LUMBER",
             "count": 5
+          },
+          {
+            "id": "POINT",
+            "count": 4
           }
         ]
       },
@@ -6222,6 +6226,12 @@
         "id": "LUMBER",
         "name": "목재",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/lumber.png",
+        "stuffs": []
+      },
+      {
+        "id": "POINT",
+        "name": "특성포인트",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/point.png",
         "stuffs": []
       }
     ],
