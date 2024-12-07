@@ -5133,8 +5133,10 @@
         "id": "JC0h",
         "name": "류마",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/ryuma.webp",
-        "abilities": {},
-        "desc": "공격 시 5% 확률로 단일 적 현재 체력 10% 추가 폭발형 대미지\n자신의 공격속도 20% 증가",
+        "abilities": {
+          "단일": 1
+        },
+        "desc": "공격 시 5% 확률로 단일 적 현재 체력 10% 추가 폭발형 대미지\n자신의 공격속도 20% 증가\n특성 강화 시 그림자검술 스킬 강화(특성 포인트 4 필요)\n와노쿠니의 사무라이 조합 시 시너지 스킬이 발동하여 강화됨",
         "commands": ["전설의사무라이"],
         "stuffs": [
           {
