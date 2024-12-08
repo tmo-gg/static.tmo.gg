@@ -16,9 +16,5 @@
       "filename":"WebView2Loader.dll",
       "url":"https://storage.tmo.gg/WebView2Loader.dll"
     }
-    {
-      "filename":"d3dx9_33.dll",
-      "url":"https://storage.tmo.gg/d3dx9_33.dll"
-    }
   ]
 }
