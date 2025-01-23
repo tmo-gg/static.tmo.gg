@@ -2014,6 +2014,33 @@
             "count": 3
           }
         ]
+      },
+      {
+        "id": "MC0h",
+        "name": "히바리",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hibari.png",
+        "desc": "2,000 범위 방어력 22 감소",
+        "abilities": {
+          "방어력 감소": 22
+        },
+        "stuffs": [
+          {
+            "id": "M20h",
+            "count": 1
+          },
+          {
+            "id": "N10h",
+            "count": 1
+          },
+          {
+            "id": "P10h",
+            "count": 1
+          },
+          {
+            "id": "LUMBER",
+            "count": 3
+          }
+        ]
       }
     ],
     "전설 [마딜]": [
@@ -2549,30 +2576,6 @@
           },
           {
             "id": "T10h",
-            "count": 1
-          },
-          {
-            "id": "LUMBER",
-            "count": 3
-          }
-        ]
-      },
-      {
-        "id": "HBR",
-        "name": "히바리",
-        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/hibari.png",
-        "abilities": {},
-        "stuffs": [
-          {
-            "id": "M20h",
-            "count": 1
-          },
-          {
-            "id": "N10h",
-            "count": 1
-          },
-          {
-            "id": "P10h",
             "count": 1
           },
           {
@@ -3581,30 +3584,6 @@
     ],
     "초월 [물딜]": [
       {
-        "id": "KB",
-        "name": "코비",
-        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/koby.webp",
-        "commands": ["코비초월", "koby tr"],
-        "stuffs": [
-          {
-            "id": "HBR",
-            "count": 1
-          },
-          {
-            "id": "E30h",
-            "count": 1
-          },
-          {
-            "id": "Q10h",
-            "count": 1
-          },
-          {
-            "id": "I10h",
-            "count": 1
-          }
-        ]
-      },
-      {
         "id": "E90H",
         "name": "도플라밍고",
         "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/joker.webp",
@@ -4389,7 +4368,7 @@
         "desc": "스킬 1개 에영과 중첩 안됨\n강화 시 유성(7개) 추가 (특성 포인트 4 소모)\n공격 대상에게 집중되어 유성이 떨어짐\n광폭화 유닛에게 추가 대미지\n바제스 클리어 가능",
         "stuffs": [
           {
-            "id": "HBR",
+            "id": "MC0h",
             "count": 1
           },
           {
@@ -4439,6 +4418,35 @@
           },
           {
             "id": "S40h",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "OC0H",
+        "name": "코비",
+        "image": "https://raw.githubusercontent.com/tmo-gg/static.tmo.gg/main/ord-helper/images/koby.webp",
+        "commands": ["해군의미래", "koby tr"],
+        "abilities": {
+          "공격속도 증가": 10,
+          "단일": 1
+        },
+        "desc": "자신의 라인존 폭발형 대미지 10% 감소 패널티\n매 5라운드마다 코비의 공격 속도가 상승 (레벨 x5% 증가, 최대 9레벨까지 성장)\n특성 강화 시 어니스티 임팩트 강화 (특성 포인트 4 필요)",
+        "stuffs": [
+          {
+            "id": "MC0h",
+            "count": 1
+          },
+          {
+            "id": "E30h",
+            "count": 1
+          },
+          {
+            "id": "Q10h",
+            "count": 1
+          },
+          {
+            "id": "I10h",
             "count": 1
           }
         ]
