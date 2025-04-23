@@ -13,8 +13,8 @@
       "url":"https://storage.tmo.gg/libwinpthread-1.dll"
     },
     {
-      "filename":"WebView2Loader.dll",
-      "url":"https://storage.tmo.gg/WebView2Loader.dll"
+      "filename":"lua5.3.0.dll",
+      "url":"https://storage.tmo.gg/lua5.3.0.dll"
     }
   ]
 }
