@@ -1,0 +1,6 @@
+{
+  "scripts":[
+    "https://raw.githubusercontent.com/tmo-gg/desktop-release/refs/heads/main/scripts/AutoLoader.lua",
+    "https://raw.githubusercontent.com/tmo-gg/desktop-release/refs/heads/main/scripts/BanUnit.lua"
+  ]
+}
