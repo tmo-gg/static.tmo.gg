@@ -16,5 +16,12 @@
       "filename":"lua5.3.0.dll",
       "url":"https://storage.tmo.gg/lua5.3.0.dll"
     }
+  ],
+  "core":[
+    {
+      "filename":"TMO.GG.InternalHandler.dll",
+      "url":"https://storage.tmo.gg/TMO.GG.InternalHandler.dll",
+      "md5":"7e94c3fce2860933cf60c689dd4d8a09"
+    }
   ]
 }
