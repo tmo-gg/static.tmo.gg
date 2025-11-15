@@ -15,6 +15,10 @@
     {
       "filename":"lua5.3.0.dll",
       "url":"https://storage.tmo.gg/lua5.3.0.dll"
+    },
+    {
+      "filename":"StormLib.dll",
+      "url":"https://storage.tmo.gg/StormLib.dll"
     }
   ],
   "core":[
