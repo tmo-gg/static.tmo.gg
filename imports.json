@@ -20,12 +20,5 @@
       "filename":"StormLib.dll",
       "url":"https://storage.tmo.gg/StormLib.dll"
     }
-  ],
-  "core":[
-    {
-      "filename":"TMO.GG.InternalHandler.dll",
-      "url":"https://storage.tmo.gg/TMO.GG.InternalHandler.dll",
-      "md5":"1f9f957dfe1403e856efe0ce7c7fd11a"
-    }
   ]
 }
