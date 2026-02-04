@@ -20,5 +20,12 @@
       "filename":"StormLib.dll",
       "url":"https://storage.tmo.gg/StormLib.dll"
     }
+  ],
+  "core":[
+    {
+      "filename":"TMO.GG.Encoder.dll",
+      "url":"https://storage.tmo.gg/TMO.GG.Encoder.dll",
+      "md5":"2df0718fe159a5740227b25c4325d7a4"
+    }
   ]
 }
