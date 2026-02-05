@@ -21,6 +21,10 @@
       "url":"https://storage.tmo.gg/StormLib.dll"
     },
     {
+      "filename":"vcruntime140.dll",
+      "url":"https://storage.tmo.gg/vcruntime140.dll"
+    },
+    {
       "filename":"libwebp.dll",
       "url":"https://storage.tmo.gg/libwebp.dll"
     }
