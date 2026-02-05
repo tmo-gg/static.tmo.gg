@@ -19,6 +19,10 @@
     {
       "filename":"StormLib.dll",
       "url":"https://storage.tmo.gg/StormLib.dll"
+    },
+    {
+      "filename":"libwebp.dll",
+      "url":"https://storage.tmo.gg/libwebp.dll"
     }
   ],
   "core":[
