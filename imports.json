@@ -2,31 +2,38 @@
   "library":[
     {
       "filename":"unicorn.dll",
-      "url":"https://storage.tmo.gg/unicorn.dll"
+      "url":"https://storage.tmo.gg/unicorn.dll",
+      "md5":"897d52808755c1f38d37642c3287f43f"
     },
     {
       "filename":"libgcc_s_seh-1.dll",
-      "url":"https://storage.tmo.gg/libgcc_s_seh-1.dll"
+      "url":"https://storage.tmo.gg/libgcc_s_seh-1.dll",
+      "md5":"f232172e73eab8e96947ceed72debac2"
     },
     {
       "filename":"libwinpthread-1.dll",
-      "url":"https://storage.tmo.gg/libwinpthread-1.dll"
+      "url":"https://storage.tmo.gg/libwinpthread-1.dll",
+      "md5":"7533f294313cb919eaf9bb6fef6a9e70"
     },
     {
       "filename":"lua5.3.0.dll",
-      "url":"https://storage.tmo.gg/lua5.3.0.dll"
+      "url":"https://storage.tmo.gg/lua5.3.0.dll",
+      "md5":"83450a1696568b88f25fe0fe2983fe63"
     },
     {
       "filename":"StormLib.dll",
-      "url":"https://storage.tmo.gg/StormLib.dll"
+      "url":"https://storage.tmo.gg/StormLib.dll",
+      "md5":"b70766bb97921cb589516be7bfa6dac0"
     },
     {
       "filename":"vcruntime140.dll",
-      "url":"https://storage.tmo.gg/vcruntime140.dll"
+      "url":"https://storage.tmo.gg/vcruntime140.dll",
+      "md5":"ae07f486215099f0a97164cb7a993bd5"
     },
     {
       "filename":"libwebp.dll",
-      "url":"https://storage.tmo.gg/libwebp.dll"
+      "url":"https://storage.tmo.gg/libwebp.dll",
+      "md5":"8e1e24e2090c8660965fc6f7c92505a3"
     }
   ],
   "core":[
