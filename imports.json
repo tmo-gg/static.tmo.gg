@@ -41,16 +41,6 @@
       "filename":"TMO.GG.Encoder.dll",
       "url":"https://storage.tmo.gg/TMO.GG.Encoder.dll",
       "md5":"5d90d6e839f43539c6617eb3503b1c92"
-    },
-    {
-      "filename":"TMO.GG.Agent32.dll",
-      "url":"https://storage.tmo.gg/TMO.GG.Agent32.dll",
-      "md5":"c6f765cde95f2eb0a2d106e3e662ed77"
-    },
-    {
-      "filename":"TMO.GG.Agent64.dll",
-      "url":"https://storage.tmo.gg/TMO.GG.Agent64.dll",
-      "md5":"c4879e7ad900b553875c8b71197a4356"
     }
   ]
 }
