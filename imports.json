@@ -38,9 +38,9 @@
   ],
   "core":[
     {
-      "filename":"TMO.GG.Encoder.dll",
-      "url":"https://storage.tmo.gg/TMO.GG.Encoder.dll",
-      "md5":"d48a47c8975170c1a3d21a6a7310edf5"
+      "filename":"TMO.GG.MagicSentry.dll",
+      "url":"https://storage.tmo.gg/TMO.GG.MagicSentry.dll",
+      "md5":"078d57166b23417e47447ca545f077f8"
     }
   ]
 }
