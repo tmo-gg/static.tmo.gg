@@ -1,21 +1,6 @@
 {
   "library":[
     {
-      "filename":"unicorn.dll",
-      "url":"https://storage.tmo.gg/unicorn.dll",
-      "md5":"897d52808755c1f38d37642c3287f43f"
-    },
-    {
-      "filename":"libgcc_s_seh-1.dll",
-      "url":"https://storage.tmo.gg/libgcc_s_seh-1.dll",
-      "md5":"f232172e73eab8e96947ceed72debac2"
-    },
-    {
-      "filename":"libwinpthread-1.dll",
-      "url":"https://storage.tmo.gg/libwinpthread-1.dll",
-      "md5":"7533f294313cb919eaf9bb6fef6a9e70"
-    },
-    {
       "filename":"lua5.3.0.dll",
       "url":"https://storage.tmo.gg/lua5.3.0.dll",
       "md5":"83450a1696568b88f25fe0fe2983fe63"
@@ -40,7 +25,7 @@
     {
       "filename":"TMO.GG.MagicSentry.dll",
       "url":"https://storage.tmo.gg/TMO.GG.MagicSentry.dll",
-      "md5":"3c6b92a99f23a87d5fa39f69cd86fbd8"
+      "md5":"c5239d249d8763475a6685e77f49e42b"
     }
   ]
 }
